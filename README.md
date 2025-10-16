@@ -13,6 +13,9 @@ pip install --user cookiecutter
 
 **By arnaud Natal, updated in october 2025.**
 
+> NOTICE: to use GitHub Discussions, you have to [enable it first](https://docs.github.com/en/discussions/quickstart).
+
+
 </div>
 
 
@@ -71,73 +74,39 @@ These data collections are carried out within the framework of the <a href="http
 
 ![Study area](https://github.com/arnaudnatal/State_of_NEEMSIS_Research/blob/main/Data/img/RUME-NEEMSIS.png)
 
-### Usage
+### Core teams
 
-#### Cookiecutter template
+| RUME                  | NEEMSIS-1                | NEEMSIS-2                | NEEMSIS-3                |
+| --------------------- | ------------------------ | ------------------------ | ------------------------ |
+| Isabelle Guérin       | Christophe Jalil Nordman | Christophe Jalil Nordman | Christophe Jalil Nordman |
+| G. Venkatasubramanian | G. Venkatasubramanian    | G. Venkatasubramanian    | G. Venkatasubramanian    |
+| Marc Roesch           | Isabelle Guérin          | Isabelle Guérin          | Isabelle Guérin          |
+| Sébastien Michiels    | Sébastien Michiels       | Sébastien Michiels       | Sébastien Michiels       |
+| Antoni Raj            | Youna Lanos              | Cécile Mouchel           | Cécile Mouchel           |
+|                       | Anne Hilger              | Arnaud Natal             | Arnaud Natal             |
+|                       | Santosh Kumar            | Mary Di Santolo          | Mary Di Santolo          |
+|                       | Antoni Raj               | Anne Hilger              | Féodor Desplanques       |
+|                       |                          | Antoni Raj               | Antoni Raj               |
 
-After installing Cookiecutter, all you need to do is to run the following command:
 
-```sh
-cookiecutter gh:dec0dOS/amazing-github-template
-```
+### Resources
 
-You will get an interactive prompt where you'll specify relevant options for your project (or the default value will be used).
+For further details on the NEEMSIS longitudinal survey, see the dedicated website:
+<p><a href="https://neemsis.hypotheses.org/">
+<img src="https://github.com/arnaudnatal/State_of_NEEMSIS_Research/blob/main/Data/img/website.png" alt="https://neemsis.hypotheses.org/">
+</a></p>
 
-![Preview](docs/images/preview.svg)
+See also:
+- The article presenting the data
+> Nordman, C. J., Venkatasubramanian, G., Guérin, I., Natal, A., Mouchel, C., Michiels, S., & Di Santolo, M. (2025). Networks, Employment, Debt, Mobilities, and Skills in India Survey (NEEMSIS): Presentation of a longitudinal data collection tool. *Population, 80*(1).
 
-#### Manual setup
+- The article presenting the trends observed in the data between 2010 and 2020-2021
+> Di Santolo, M., Guérin, I., Michiels, S., Mouchel, C., Natal, A., Nordman, C. J., & Venkatasubramanian, G. (2024). A Decade in Rural Tamil Nadu: Socio-Economic, Labour and Migration Trends from an Original Longitudinal Household Survey. *Economic & Political Weekly, 59*(43), 62–71.
 
-Please follow these steps for manual setup:
+- The [video presentation](https://www.youtube.com/watch?v=b68yu1CTW0U) of the survey
 
-1. [Download the precompiled template](https://github.com/dec0dOS/amazing-github-template/releases/download/latest/template.zip)
-2. Replace all the [variables](#variables-reference) to your desired values
-3. Initialize the repo in the precompiled template folder
 
-    `or`
-
-    Move the necessary files from precompiled template folder to your existing project directory. Don't forget the `.github` directory that may be hidden by default in your operating system
-
-#### Variables reference
-
-Please note that entered values are case-sensitive.
-Default values are provided as an example to help you figure out what should be entered.
-
-> On manual setup, you need to replace only values written in **uppercase**.
-
-| Name                       | Default value      | Description                                                                 |
-| -------------------------- | ------------------ | --------------------------------------------------------------------------- |
-| PROJECT_NAME               | My Amazing Project | Your project name                                                           |
-| REPO_SLUG                  | my-amazing-project | Repo slug must match the GitHub repo URL slug part                          |
-| GITHUB_USERNAME            | dec0dOS            | Your GitHub username **without @**                                          |
-| FULL_NAME                  | Alexey Potapov     | Your full name                                                              |
-| OPEN_SOURCE_LICENSE        | MIT license        | Full OSS license name                                                       |
-| modern_header              | y                  | Use HTML to prettify your header                                            |
-| table_in_about             | n                  | Use table to wrap around About section                                      |
-| include_logo               | y                  | Include Logo section. Only valid when `modern_header == y`          |
-| include_badges             | y                  | Include section for badges                                                  |
-| include_toc                | y                  | Include Table of Contents                                                   |
-| include_screenshots        | y                  | Include Screenshots section                                                 |
-| include_project_assistance | y                  | Include Project assistance section                                          |
-| include_authors            | y                  | Include Authors & contributors section                                      |
-| include_security           | y                  | Include Security section and SECURITY.md file                               |
-| include_acknowledgements   | y                  | Include Acknowledgements section                                            |
-| include_code_of_conduct    | y                  | Include CODE_OF_CONDUCT.md file                                             |
-| include_workflows          | y                  | Include .github/workflows directory                                         |
-| use_codeql                 | y                  | Use [CodeQL](https://securitylab.github.com/tools/codeql/)                  |
-| use_conventional_commits   | y                  | Add [Conventional Commits](https://www.conventionalcommits.org) notice      |
-| use_github_discussions     | n                  | Use [GitHub Discussions](https://docs.github.com/en/discussions/quickstart) |
-
-> NOTICE: to use GitHub Discussions, you have to [enable it first](https://docs.github.com/en/discussions/quickstart).
-
-## Roadmap
-
-See the [open issues](https://github.com/dec0dOS/amazing-github-template/issues) for a list of proposed features (and known issues).
-
-- [Top Feature Requests](https://github.com/dec0dOS/amazing-github-template/issues?q=label%3Aenhancement+is%3Aopen+sort%3Areactions-%2B1-desc) (Add your votes using the 👍 reaction)
-- [Top Bugs](https://github.com/dec0dOS/amazing-github-template/issues?q=is%3Aissue+is%3Aopen+label%3Abug+sort%3Areactions-%2B1-desc) (Add your votes using the 👍 reaction)
-- [Newest Bugs](https://github.com/dec0dOS/amazing-github-template/issues?q=is%3Aopen+is%3Aissue+label%3Abug)
-
-## Contributing
+### Framework
 
 First off, thanks for taking the time to contribute! Contributions are what makes the open-source community such an amazing place to learn, inspire, and create. Any contributions you make will benefit everybody else and are **greatly appreciated**.
 
