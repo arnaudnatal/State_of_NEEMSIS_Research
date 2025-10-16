@@ -68,13 +68,13 @@ These data collections are carried out within the framework of the <a href="http
 
 
 
-## Introduction
+# Introduction
 
-### Study area
+## Study area
 
 ![Study area](https://github.com/arnaudnatal/State_of_NEEMSIS_Research/blob/main/Data/img/RUME-NEEMSIS.png)
 
-### Core teams
+## Core teams
 
 | RUME                  | NEEMSIS-1                | NEEMSIS-2                | NEEMSIS-3                |
 | --------------------- | ------------------------ | ------------------------ | ------------------------ |
@@ -143,6 +143,7 @@ Data are freely available on [DataSuds](https://dataverse.ird.fr/dataverse/odrii
 |NEEMSIS-2 | 0             | 3             |
 
 \*Household data is the master database. Other shared databases (e.g., loans, occupations, etc.) must always be associated with the household database. That is why only requests for household bases are reported here.
+
 \*\*Since January 2025, access to data requires that: (i) the applicant complete a data use agreement; (ii) the request be validated by the survey manager.
 
 
