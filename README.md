@@ -7,6 +7,12 @@
 <div align="center">
   State of NEEMSIS Research
 
+```sh
+pip install --user cookiecutter
+```
+
+**By arnaud Natal, updated in october 2025.**
+
 </div>
 
 
@@ -44,7 +50,7 @@
 <tr>
 <td>
 
-This PDF document provides an overview of the research undertaken using the original <a href="https://neemsis.hypotheses.org"><i>Network, Employment, dEbt, Mobility, and Skills in South India Survey</i></a> (NEEMSIS).
+This document provides an overview of the research undertaken using the original <a href="https://neemsis.hypotheses.org"><i>Network, Employment, dEbt, Mobility, and Skills in South India Survey</i></a> (NEEMSIS).
 
 NEEMSIS is a longitudinal data collection tool that aims at understanding the links between labour, skills, financial practices, social and migration dynamics and social networks formation in rural Tamil Nadu, India, through individual and household surveys.
 NEEMSIS is based on the baseline survey RUME (<a href="https://odriis.hypotheses.org/rume"><i>RUral Microfinance and Employment</i></a>) conducted in 2010.
@@ -59,19 +65,11 @@ These data collections are carried out within the framework of the <a href="http
 
 
 
-## Getting Started
+## Introduction
 
-### Prerequisites
+### Study area
 
-The recommended method to install **Amazing GitHub Template** is by using [Cookiecutter](https://github.com/cookiecutter/cookiecutter). For manual install please refer to [manual setup section](#manual-setup).
-
-The easiest way to install Cookiecutter is by running:
-
-```sh
-pip install --user cookiecutter
-```
-
-For other install options, please refer to [Cookiecutter installation manual](https://cookiecutter.readthedocs.io/en/latest/installation.html).
+![Study area](https://github.com/arnaudnatal/State_of_NEEMSIS_Research/blob/main/Data/img/RUME-NEEMSIS.png)
 
 ### Usage
 
