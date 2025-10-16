@@ -5,7 +5,7 @@
 </h1>
 
 <div align="center">
-<font size="20">  
+<font size="10">  
   State of NEEMSIS Research
 </font>
 
