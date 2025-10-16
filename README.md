@@ -5,18 +5,18 @@
 </h1>
 
 <div align="center">
+<font size="20">  
   State of NEEMSIS Research
+</font>
+
+**Arnaud Natal**
+
+*October 2025*
+</div>
 
 ```sh
-pip install --user cookiecutter
+Natal, A. (2025). State of NEEMSIS Research. Pondicherry: ODRIIS.
 ```
-
-**By arnaud Natal, updated in october 2025.**
-
-> NOTICE: to use GitHub Discussions, you have to [enable it first](https://docs.github.com/en/discussions/quickstart).
-
-
-</div>
 
 
 <details open="open">
