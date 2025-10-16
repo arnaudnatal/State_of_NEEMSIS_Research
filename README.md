@@ -5,9 +5,10 @@
 </h1>
 
 <div align="center">
-<font size="10">  
+
+<h1>
   State of NEEMSIS Research
-</font>
+</h1>
 
 **Arnaud Natal**
 
