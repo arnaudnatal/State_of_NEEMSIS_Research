@@ -106,33 +106,43 @@ See also:
 - The [video presentation](https://www.youtube.com/watch?v=b68yu1CTW0U) of the survey
 
 
-## Contributing
+### Framework
 
-First off, thanks for taking the time to contribute! Contributions are what makes the open-source community such an amazing place to learn, inspire, and create. Any contributions you make will benefit everybody else and are **greatly appreciated**.
+![Framework](https://github.com/arnaudnatal/State_of_NEEMSIS_Research/blob/main/Data/img/framework.png)
 
-Please try to create bug reports that are:
+> All of the above terms are defined in the [appendix](appendix).
 
-- _Reproducible._ Include steps to reproduce the problem.
-- _Specific._ Include as much detail as possible: which version, what environment, etc.
-- _Unique._ Do not duplicate existing opened issues.
-- _Scoped to a Single Bug._ One bug per report.
+Research papers are sometimes classified according to their type (journal, book, etc.) and status (published, submitted, etc.).
 
-Please adhere to this project's [code of conduct](docs/CODE_OF_CONDUCT.md).
+> **_Example:_** Journal articles are either published, submitted, or ongoing. And, published articles include articles in journals, books, and chapters.
 
-You can use [markdownlint-cli](https://github.com/igorshubovych/markdownlint-cli) to check for common markdown style inconsistency.
 
-## Support
 
-Reach out to the maintainer at one of the following places:
+### A brief overview
 
-- [GitHub discussions](https://github.com/dec0dOS/amazing-github-template/discussions)
-- The email which is located [in GitHub profile](https://github.com/dec0dOS)
+- Few researchers have requested access to the data.
+- 46 outputs were produced, including 16 journal articles, 1 book and 6 dissertations.
+- Among the research papers, 50% are cross-sectional and 50% are longitudinal.
+- Debt is the most common topic (60% of the papers), then employment (30%), and gender (25%).
+- Nordman is the most prolific (64% of research papers), then Guérin (50%), and Natal and Venkat (42%).
+- 5 papers are currently submitted, 4 are ongoing and 7 are in project.
+- All published papers using RUME and NEEMSIS data account for 430 citations.
+- The most cited article is "Debt in Rural South India" (2013, *The Journal of Development Studies*).
+- Guérin is the most cited researcher.
 
-## License
 
-This project is licensed under the **MIT license**. Feel free to edit and distribute this template as you like.
 
-See [LICENSE](LICENSE) for more information.
+## Data access request
+
+Data are freely available on [DataSuds](https://dataverse.ird.fr/dataverse/odriis).
+
+|Data\*    | Before 2025   | Since 2025\*\*|
+|----------|---------------|---------------|
+|RUME      | 7             | 0             |
+|NEEMSIS-1 | 5             | 1             |
+|NEEMSIS-2 | 0             | 3             |
+
+
 
 ## Acknowledgements
 
