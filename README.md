@@ -10,7 +10,11 @@
   State of NEEMSIS Research
 </h1>
 
-**Arnaud Natal**
+Arnaud Natal\* \*\*
+
+*\* Bordeaux School of Economics, France*
+
+*\*\*French Institute of Pondicherry, India*
 
 *October 2025*
 </div>
