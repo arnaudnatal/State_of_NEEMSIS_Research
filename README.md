@@ -163,26 +163,26 @@ Data are freely available on [DataSuds](https://dataverse.ird.fr/dataverse/odrii
 
 ---
 
-![Origins](https://github.com/arnaudnatal/State_of_NEEMSIS_Research/tree/main/Stata_cmd/Stata_fig/RP_origins.svg)
+![Origins](https://raw.githubusercontent.com/arnaudnatal/State_of_NEEMSIS_Research/refs/heads/main/Stata_cmd/Stata_fig/RP_origins.svg)
 
 ---
 
-![Authors wave](https://github.com/arnaudnatal/State_of_NEEMSIS_Research/tree/main/Stata_cmd/Stata_fig/RP_authorswave.svg)
+![Authors wave](https://raw.githubusercontent.com/arnaudnatal/State_of_NEEMSIS_Research/refs/heads/main/Stata_cmd/Stata_fig/RP_authorswave.svg)
 
 ---
 
-![Topics wave](https://github.com/arnaudnatal/State_of_NEEMSIS_Research/tree/main/Stata_cmd/Stata_fig/RP_topicswave.svg)
+![Topics wave](https://raw.githubusercontent.com/arnaudnatal/State_of_NEEMSIS_Research/refs/heads/main/Stata_cmd/Stata_fig/RP_topicswave.svg)
 
 
 # Published papers
 
 
-![Global](https://github.com/arnaudnatal/State_of_NEEMSIS_Research/tree/main/Stata_cmd/Stata_fig/PP_global.svg)
+![Global](https://raw.githubusercontent.com/arnaudnatal/State_of_NEEMSIS_Research/refs/heads/main/Stata_cmd/Stata_fig/PP_global.svg)
 
 ---
 
-![Working papers](https://github.com/arnaudnatal/State_of_NEEMSIS_Research/tree/main/Stata_cmd/Stata_fig/PP_wp.svg)
+![Working papers](https://raw.githubusercontent.com/arnaudnatal/State_of_NEEMSIS_Research/refs/heads/main/Stata_cmd/Stata_fig/PP_wp.svg)
 
 ---
 
-![Citations](https://github.com/arnaudnatal/State_of_NEEMSIS_Research/tree/main/Stata_cmd/Stata_fig/PP_citations.svg)
+![Citations](https://raw.githubusercontent.com/arnaudnatal/State_of_NEEMSIS_Research/refs/heads/main/Stata_cmd/Stata_fig/PP_citations.svg)
