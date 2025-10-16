@@ -14,12 +14,25 @@
 <summary>Table of Contents</summary>
 
 - [Foreword](#foreword)
-- [Getting Started](#getting-started)
-- [Roadmap](#roadmap)
-- [Contributing](#contributing)
-- [Support](#support)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
+- [Introduction](#introduction)
+ - [Study area](#studyarea)
+ - [Core teams](#coreteams)
+ - [Resources]{#resources)
+ - [Framework](#framework)
+ - [Overview](#overview)
+- [Data access request](#dataaccessrequest)
+- [All outputs](#alloutputs)
+- [Research papers](#researchpapers)
+- [In details](#indetails)
+ - [Journals](#journals)
+ - [Dissertations](#dissertations)
+ - [Blog posts](#blogposts)
+ - [Upcoming papers](#upcomingpapers)
+ - [Submitted](#submitted)
+ - [Ongoing](#ongoing)
+ - [Projects](#projects)
+- [Conclusion](#conclusion)
+- [Conclusion](#bibliography)
 
 </details>
 
@@ -35,23 +48,12 @@ This PDF document provides an overview of the research undertaken using the orig
 
 NEEMSIS is a longitudinal data collection tool that aims at understanding the links between labour, skills, financial practices, social and migration dynamics and social networks formation in rural Tamil Nadu, India, through individual and household surveys.  NEEMSIS is based on the baseline survey RUME (\href{https://odriis.hypotheses.org/rume}{\textit{RUral Microfinance and Employment}}) conducted in 2010. NEEMSIS has so far been conducted in 2016–2017 and 2020–2021 among more than 600 households. A third wave of NEEMSIS is planned for 2025-2026 (which will constitute a panel with four points in time between 2010 and 2025-2026). \\
 These data collections are carried out within the framework of the \href{https://odriis.hypotheses.org/}{\includegraphics[height=2em]{Beamer_theme/odriis}}. See \href{https://odriis.hypotheses.org/}{https://odriis.hypotheses.org/}
-\end{brickbox}
-
-
-
 
 </td>
 </tr>
 </table>
 
 
-
-### Built With
-
-- [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
-- [Cookiecutter](https://github.com/cookiecutter/cookiecutter)
-- [GitHub Actions](https://github.com/features/actions)
-- [markdownlint-cli](https://github.com/igorshubovych/markdownlint-cli)
 
 ## Getting Started
 

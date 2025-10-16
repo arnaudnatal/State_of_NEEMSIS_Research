@@ -14,12 +14,25 @@
 <summary>Table of Contents</summary>
 
 - [Foreword](#foreword)
-- [Getting Started](#getting-started)
-- [Roadmap](#roadmap)
-- [Contributing](#contributing)
-- [Support](#support)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
+- [Introduction](#introduction)
+ - [Study area](#studyarea)
+ - [Core teams](#coreteams)
+ - [Resources]{#resources)
+ - [Framework](#framework)
+ - [Overview](#overview)
+- [Data access request](#dataaccessrequest)
+- [All outputs](#alloutputs)
+- [Research papers](#researchpapers)
+- [In details](#indetails)
+ - [Journals](#journals)
+ - [Dissertations](#dissertations)
+ - [Blog posts](#blogposts)
+ - [Upcoming papers](#upcomingpapers)
+ - [Submitted](#submitted)
+ - [Ongoing](#ongoing)
+ - [Projects](#projects)
+- [Conclusion](#conclusion)
+- [Bibliography](#bibliography)
 
 </details>
 
@@ -41,13 +54,6 @@ These data collections are carried out within the framework of the \href{https:/
 </table>
 
 
-
-### Built With
-
-- [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
-- [Cookiecutter](https://github.com/cookiecutter/cookiecutter)
-- [GitHub Actions](https://github.com/features/actions)
-- [markdownlint-cli](https://github.com/igorshubovych/markdownlint-cli)
 
 ## Getting Started
 
