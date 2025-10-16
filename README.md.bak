@@ -15,22 +15,22 @@
 
 - [Foreword](#foreword)
 - [Introduction](#introduction)
- - [Study area](#studyarea)
- - [Core teams](#coreteams)
- - [Resources]{#resources)
- - [Framework](#framework)
- - [Overview](#overview)
+  - [Study area](#studyarea)
+  - [Core teams](#coreteams)
+  - [Resources](#resources)
+  - [Framework](#framework)
+  - [Overview](#overview)
 - [Data access request](#dataaccessrequest)
 - [All outputs](#alloutputs)
 - [Research papers](#researchpapers)
 - [In details](#indetails)
- - [Journals](#journals)
- - [Dissertations](#dissertations)
- - [Blog posts](#blogposts)
- - [Upcoming papers](#upcomingpapers)
- - [Submitted](#submitted)
- - [Ongoing](#ongoing)
- - [Projects](#projects)
+  - [Journals](#journals)
+  - [Dissertations](#dissertations)
+  - [Blog posts](#blogposts)
+  - [Upcoming papers](#upcomingpapers)
+  - [Submitted](#submitted)
+  - [Ongoing](#ongoing)
+  - [Projects](#projects)
 - [Conclusion](#conclusion)
 - [Bibliography](#bibliography)
 
@@ -44,10 +44,15 @@
 <tr>
 <td>
 
-This PDF document provides an overview of the research undertaken using the original \href{https://neemsis.hypotheses.org}{\textit{Network, Employment, dEbt, Mobility, and Skills in South India Survey}} (NEEMSIS).
+This PDF document provides an overview of the research undertaken using the original <a href="https://neemsis.hypotheses.org"><i>Network, Employment, dEbt, Mobility, and Skills in South India Survey</i></a> (NEEMSIS).
 
-NEEMSIS is a longitudinal data collection tool that aims at understanding the links between labour, skills, financial practices, social and migration dynamics and social networks formation in rural Tamil Nadu, India, through individual and household surveys.  NEEMSIS is based on the baseline survey RUME (\href{https://odriis.hypotheses.org/rume}{\textit{RUral Microfinance and Employment}}) conducted in 2010. NEEMSIS has so far been conducted in 2016–2017 and 2020–2021 among more than 600 households. A third wave of NEEMSIS is planned for 2025-2026 (which will constitute a panel with four points in time between 2010 and 2025-2026). \\
-These data collections are carried out within the framework of the \href{https://odriis.hypotheses.org/}{\includegraphics[height=2em]{Beamer_theme/odriis}}. See \href{https://odriis.hypotheses.org/}{https://odriis.hypotheses.org/}
+NEEMSIS is a longitudinal data collection tool that aims at understanding the links between labour, skills, financial practices, social and migration dynamics and social networks formation in rural Tamil Nadu, India, through individual and household surveys.
+NEEMSIS is based on the baseline survey RUME (<a href="https://odriis.hypotheses.org/rume"><i>RUral Microfinance and Employment</i></a>) conducted in 2010.
+NEEMSIS has so far been conducted in 2016–2017 and 2020–2021 among more than 600 households.
+A third wave of NEEMSIS is planned for 2025-2026 (which will constitute a panel with four points in time between 2010 and 2025-2026).
+
+These data collections are carried out within the framework of the <a href="https://odriis.hypotheses.org/"><i>Observatory of Rural Dynamics and Inequalities in South India</i></a> (ODRIIS).
+
 
 </td>
 </tr>
