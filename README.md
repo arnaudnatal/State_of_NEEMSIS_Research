@@ -13,7 +13,6 @@
 Arnaud Natal\* \*\*
 
 *\* Bordeaux School of Economics, France*
-
 *\*\*French Institute of Pondicherry, India*
 
 *October 2025*
@@ -52,7 +51,7 @@ Natal, A. (2025). State of NEEMSIS Research. Pondicherry: ODRIIS.
 
 ---
 
-## Foreword
+# Foreword
 
 <table>
 <tr>
@@ -94,7 +93,7 @@ These data collections are carried out within the framework of the <a href="http
 |                       |                          | Antoni Raj               | Antoni Raj               |
 
 
-### Resources
+## Resources
 
 For further details on the NEEMSIS longitudinal survey, see the dedicated website:
 <p><a href="https://neemsis.hypotheses.org/">
@@ -111,7 +110,7 @@ See also:
 - The [video presentation](https://www.youtube.com/watch?v=b68yu1CTW0U) of the survey
 
 
-### Framework
+## Framework
 
 ![Framework](https://github.com/arnaudnatal/State_of_NEEMSIS_Research/blob/main/Data/img/framework.png)
 
@@ -123,7 +122,7 @@ Research papers are sometimes classified according to their type (journal, book,
 
 
 
-### A brief overview
+## A brief overview
 
 - Few researchers have requested access to the data.
 - 46 outputs were produced, including 16 journal articles, 1 book and 6 dissertations.
@@ -137,7 +136,7 @@ Research papers are sometimes classified according to their type (journal, book,
 
 
 
-## Data access request
+# Data access request
 
 Data are freely available on [DataSuds](https://dataverse.ird.fr/dataverse/odriis).
 
@@ -153,28 +152,37 @@ Data are freely available on [DataSuds](https://dataverse.ird.fr/dataverse/odrii
 
 
 
-## Acknowledgements
+# All outputs
 
-Thanks for these awesome resources that were used during the development of the **Amazing GitHub template**:
+![Type](https://github.com/arnaudnatal/State_of_NEEMSIS_Research/tree/main/Stata_cmd/Stata_fig/A_type.pdf)
 
-- <https://github.com/cookiecutter/cookiecutter>
-- <https://github.github.com/gfm/>
-- <https://tom.preston-werner.com/2010/08/23/readme-driven-development.html>
-- <https://changelog.com/posts/top-ten-reasons-why-i-wont-use-your-open-source-project>
-- <https://thoughtbot.com/blog/how-to-write-a-great-readme>
-- <https://www.makeareadme.com>
-- <https://github.com/noffle/art-of-readme>
-- <https://github.com/noffle/common-readme>
-- <https://github.com/RichardLitt/standard-readme>
-- <https://github.com/matiassingers/awesome-readme>
-- <https://github.com/LappleApple/feedmereadmes>
-- <https://github.com/othneildrew/Best-README-Template>
-- <https://github.com/mhucka/readmine>
-- <https://github.com/badges/shields>
-- <https://github.com/cjolowicz/cookiecutter-hypermodern-python>
-- <https://github.com/stevemao/github-issue-templates>
-- <https://github.com/devspace/awesome-github-templates>
-- <https://github.com/cezaraugusto/github-template-guidelines>
-- <https://github.com/frenck?tab=repositories>
-- <https://docs.github.com/en/discussions/quickstart>
-- <https://docs.github.com/en/actions>
+
+# Research papers
+
+![Global](https://github.com/arnaudnatal/State_of_NEEMSIS_Research/tree/main/Stata_cmd/Stata_fig/RP_global.pdf)
+
+---
+
+![Origins](https://github.com/arnaudnatal/State_of_NEEMSIS_Research/tree/main/Stata_cmd/Stata_fig/RP_origins.pdf)
+
+---
+
+![Authors wave](https://github.com/arnaudnatal/State_of_NEEMSIS_Research/tree/main/Stata_cmd/Stata_fig/RP_authorswave.pdf)
+
+---
+
+![Topics wave](https://github.com/arnaudnatal/State_of_NEEMSIS_Research/tree/main/Stata_cmd/Stata_fig/RP_topicswave.pdf)
+
+
+# Published papers
+
+
+![Global](https://github.com/arnaudnatal/State_of_NEEMSIS_Research/tree/main/Stata_cmd/Stata_fig/PP_global.pdf)
+
+---
+
+![Working papers](https://github.com/arnaudnatal/State_of_NEEMSIS_Research/tree/main/Stata_cmd/Stata_fig/PP_wp.pdf)
+
+---
+
+![Citations](https://github.com/arnaudnatal/State_of_NEEMSIS_Research/tree/main/Stata_cmd/Stata_fig/PP_citations.pdf)
