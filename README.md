@@ -154,35 +154,35 @@ Data are freely available on [DataSuds](https://dataverse.ird.fr/dataverse/odrii
 
 # All outputs
 
-![Type](https://github.com/arnaudnatal/State_of_NEEMSIS_Research/tree/main/Stata_cmd/Stata_fig/A_type.pdf)
+![Type](https://github.com/arnaudnatal/State_of_NEEMSIS_Research/tree/main/Stata_cmd/Stata_fig/A_type.svg)
 
 
 # Research papers
 
-![Global](https://github.com/arnaudnatal/State_of_NEEMSIS_Research/tree/main/Stata_cmd/Stata_fig/RP_global.pdf)
+![Global](https://github.com/arnaudnatal/State_of_NEEMSIS_Research/tree/main/Stata_cmd/Stata_fig/RP_global.svg)
 
 ---
 
-![Origins](https://github.com/arnaudnatal/State_of_NEEMSIS_Research/tree/main/Stata_cmd/Stata_fig/RP_origins.pdf)
+![Origins](https://github.com/arnaudnatal/State_of_NEEMSIS_Research/tree/main/Stata_cmd/Stata_fig/RP_origins.svg)
 
 ---
 
-![Authors wave](https://github.com/arnaudnatal/State_of_NEEMSIS_Research/tree/main/Stata_cmd/Stata_fig/RP_authorswave.pdf)
+![Authors wave](https://github.com/arnaudnatal/State_of_NEEMSIS_Research/tree/main/Stata_cmd/Stata_fig/RP_authorswave.svg)
 
 ---
 
-![Topics wave](https://github.com/arnaudnatal/State_of_NEEMSIS_Research/tree/main/Stata_cmd/Stata_fig/RP_topicswave.pdf)
+![Topics wave](https://github.com/arnaudnatal/State_of_NEEMSIS_Research/tree/main/Stata_cmd/Stata_fig/RP_topicswave.svg)
 
 
 # Published papers
 
 
-![Global](https://github.com/arnaudnatal/State_of_NEEMSIS_Research/tree/main/Stata_cmd/Stata_fig/PP_global.pdf)
+![Global](https://github.com/arnaudnatal/State_of_NEEMSIS_Research/tree/main/Stata_cmd/Stata_fig/PP_global.svg)
 
 ---
 
-![Working papers](https://github.com/arnaudnatal/State_of_NEEMSIS_Research/tree/main/Stata_cmd/Stata_fig/PP_wp.pdf)
+![Working papers](https://github.com/arnaudnatal/State_of_NEEMSIS_Research/tree/main/Stata_cmd/Stata_fig/PP_wp.svg)
 
 ---
 
-![Citations](https://github.com/arnaudnatal/State_of_NEEMSIS_Research/tree/main/Stata_cmd/Stata_fig/PP_citations.pdf)
+![Citations](https://github.com/arnaudnatal/State_of_NEEMSIS_Research/tree/main/Stata_cmd/Stata_fig/PP_citations.svg)

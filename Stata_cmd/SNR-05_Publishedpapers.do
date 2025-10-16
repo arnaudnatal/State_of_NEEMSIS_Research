@@ -180,7 +180,7 @@ restore
 ********** Combine 2
 count
 graph combine top bot, col(1) title("Published research papers (N=`r(N)')", size(medium)) note("{it:Note:} *Green or gold open access. Papers cited `c' times (`cn')." "{it:Source:} $authordate", size(vsmall)) name(pub, replace)
-graph export "Stata_cmd\Stata_fig\PP_global.pdf", as(pdf) replace
+graph export "Stata_cmd\Stata_fig\PP_global.svg", as(svg) replace
 
 ****************************************
 * END
@@ -341,7 +341,7 @@ graph combine citauthors cittopics, col(2) name(bot, replace)
 *
 count
 graph combine top bot, col(1) title("Citations for published papers (N=`r(N)')", size(medium)) note("{it:Note:} For a total of `ttc' citations (`ttnc')." "{it:Source:} $authordate", size(vsmall)) name(cite, replace)
-graph export "Stata_cmd\Stata_fig\PP_citations.pdf", as(pdf) replace
+graph export "Stata_cmd\Stata_fig\PP_citations.svg", as(svg) replace
 
 ****************************************
 * END
@@ -436,7 +436,7 @@ legend(order(1 "WP date" 2 "Publication date")) name(wpdate, replace)
 ********** Combine
 graph combine wp serie, col(2) name(top, replace)
 graph combine top wpdate, col(1) title("WP (N=`N')", size(medium)) note("{it:Source:} $authordate", size(vsmall)) name(wpglobal, replace)
-graph export "Stata_cmd\Stata_fig\PP_wp.pdf", as(pdf) replace
+graph export "Stata_cmd\Stata_fig\PP_wp.svg", as(svg) replace
 
 ****************************************
 * END

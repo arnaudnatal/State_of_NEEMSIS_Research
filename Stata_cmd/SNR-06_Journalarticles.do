@@ -96,7 +96,7 @@ graph combine nb journals, col(2) name(top, replace)
 graph combine topics cat, col(2) name(bot, replace)
 count
 graph combine top bot, col(1) title("Papers published in journals (N=`r(N)')", size(medium)) note("{it:Source:} $authordate", size(vsmall)) name(pub, replace)
-graph export "Stata_cmd\Stata_fig\J_global.pdf", as(pdf) replace
+graph export "Stata_cmd\Stata_fig\J_global.svg", as(svg) replace
 
 ****************************************
 * END

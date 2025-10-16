@@ -160,7 +160,7 @@ graph combine dataused topics authors, col(3) name(bot, replace)
 ********** Combine 2
 count
 graph combine top bot, col(1) title("Research papers (N=`r(N)')", size(medium)) note("{it:Source:} $authordate", size(vsmall)) name(all, replace)
-graph export "Stata_cmd\Stata_fig\RP_global.pdf", as(pdf) replace
+graph export "Stata_cmd\Stata_fig\RP_global.svg", as(svg) replace
 
 ****************************************
 * END
@@ -242,7 +242,7 @@ restore
 
 ********** Combine
 graph combine rume neemsis1 neemsis2, col(3) title("Authors by wave for research papers", size(medium)) note("{it:Source:} $authordate", size(vsmall)) name(authors, replace)
-graph export "Stata_cmd\Stata_fig\RP_authorswave.pdf", as(pdf) replace
+graph export "Stata_cmd\Stata_fig\RP_authorswave.svg", as(svg) replace
 
 ****************************************
 * END
@@ -313,7 +313,7 @@ restore
 
 ********** Combine
 graph combine rume neemsis1 neemsis2, col(3) title("Topics by wave for research papers", size(medium)) note("{it:Source:} $authordate", size(vsmall)) name(authors, replace)
-graph export "Stata_cmd\Stata_fig\RP_topicswave.pdf", as(pdf) replace
+graph export "Stata_cmd\Stata_fig\RP_topicswave.svg", as(svg) replace
 
 ****************************************
 * END
@@ -385,7 +385,7 @@ twoway ///
 , xtitle("Paper as lead author") ytitle("Paper as author") ///
 xlabel(0(1)10) ylabel(0(2)20) ///
 title("Lead author and papers (N=`N')") note("{it:Source:} $authordate", size(vsmall)) name(lead, replace)
-graph export "Stata_cmd\Stata_fig\RP_leadauthor.pdf", as(pdf) replace
+graph export "Stata_cmd\Stata_fig\RP_leadauthor.svg", as(svg) replace
 
 ****************************************
 * END
@@ -468,7 +468,7 @@ restore
 ********** Combine
 count
 graph combine type original from, col(3) title("Origin of the papers and authors (N=`r(N)')", size(medium)) note("{it:Source:} $authordate", size(vsmall)) name(origin, replace)
-graph export "Stata_cmd\Stata_fig\RP_origins.pdf", as(pdf) replace
+graph export "Stata_cmd\Stata_fig\RP_origins.svg", as(svg) replace
 
 ****************************************
 * END

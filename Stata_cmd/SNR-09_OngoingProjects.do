@@ -137,7 +137,7 @@ graph combine panel dataused authors, col(3) name(botalt, replace)
 count
 graph combine top bot, col(1) title("Submitted papers (N=`r(N)')", size(medium)) note("{it:Source:} $authordate", size(vsmall)) name(wpglobal, replace)
 
-graph export "Stata_cmd\Stata_fig\SU_global.pdf", as(pdf) replace
+graph export "Stata_cmd\Stata_fig\SU_global.svg", as(svg) replace
 
 ****************************************
 * END
@@ -260,7 +260,7 @@ graph combine panel dataused authors, col(3) name(botalt, replace)
 count
 graph combine top bot, col(1) title("Ongoing papers (N=`r(N)')", size(medium)) note("{it:Source:} $authordate", size(vsmall)) name(wpglobal, replace)
 
-graph export "Stata_cmd\Stata_fig\OG_global.pdf", as(pdf) replace
+graph export "Stata_cmd\Stata_fig\OG_global.svg", as(svg) replace
 
 ****************************************
 * END
@@ -383,7 +383,7 @@ graph combine panel dataused authors, col(3) name(botalt, replace)
 count
 graph combine top bot, col(1) title("Project papers (N=`r(N)')", size(medium)) note("{it:Source:} $authordate", size(vsmall)) name(wpglobal, replace)
 
-graph export "Stata_cmd\Stata_fig\PR_global.pdf", as(pdf) replace
+graph export "Stata_cmd\Stata_fig\PR_global.svg", as(svg) replace
 
 ****************************************
 * END

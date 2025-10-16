@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- This is a Stata 15.1 generated SVG file (http://www.stata.com) -->
+
+<svg version="1.1" width="5.50in" height="4.00in" viewBox="0 0 3960 2880" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>Stata Graph - type</desc>
+	<rect x="0" y="0" width="3960" height="2880" style="fill:#FFFFFF;stroke:none"/>
+	<rect x="0.00" y="0.00" width="3959.88" height="2880.00" style="fill:#FFFFFF"/>
+	<rect x="2.88" y="2.88" width="3954.12" height="2874.24" style="fill:none;stroke:#FFFFFF;stroke-width:5.76"/>
+	<rect x="353.59" y="278.23" width="3502.55" height="1809.34" style="fill:none;stroke:#000000;stroke-width:5.76"/>
+	<line x1="350.71" y1="2090.45" x2="3859.02" y2="2090.45" style="stroke:#E0E0E0;stroke-width:8.64"/>
+	<line x1="350.71" y1="1761.88" x2="3859.02" y2="1761.88" style="stroke:#E0E0E0;stroke-width:8.64"/>
+	<line x1="350.71" y1="1433.32" x2="3859.02" y2="1433.32" style="stroke:#E0E0E0;stroke-width:8.64"/>
+	<line x1="350.71" y1="1104.75" x2="3859.02" y2="1104.75" style="stroke:#E0E0E0;stroke-width:8.64"/>
+	<line x1="350.71" y1="776.18" x2="3859.02" y2="776.18" style="stroke:#E0E0E0;stroke-width:8.64"/>
+	<line x1="350.71" y1="447.62" x2="3859.02" y2="447.62" style="stroke:#E0E0E0;stroke-width:8.64"/>
+	<rect x="509.48" y="376.21" width="289.58" height="1714.24" style="fill:#606060"/>
+	<rect x="512.36" y="379.09" width="283.82" height="1708.48" style="fill:none;stroke:#606060;stroke-width:5.76"/>
+	<rect x="992.97" y="1947.64" width="289.58" height="142.81" style="fill:#606060"/>
+	<rect x="995.85" y="1950.52" width="283.82" height="137.05" style="fill:none;stroke:#606060;stroke-width:5.76"/>
+	<rect x="1476.59" y="2019.04" width="289.58" height="71.41" style="fill:#606060"/>
+	<rect x="1479.46" y="2021.92" width="283.82" height="65.65" style="fill:none;stroke:#606060;stroke-width:5.76"/>
+	<rect x="1960.08" y="2019.04" width="289.57" height="71.41" style="fill:#606060"/>
+	<rect x="1962.96" y="2021.92" width="283.82" height="65.65" style="fill:none;stroke:#606060;stroke-width:5.76"/>
+	<rect x="2443.69" y="1661.89" width="289.58" height="428.56" style="fill:#606060"/>
+	<rect x="2446.57" y="1664.77" width="283.82" height="422.80" style="fill:none;stroke:#606060;stroke-width:5.76"/>
+	<rect x="2927.31" y="1876.23" width="289.45" height="214.22" style="fill:#606060"/>
+	<rect x="2930.19" y="1879.11" width="283.69" height="208.46" style="fill:none;stroke:#606060;stroke-width:5.76"/>
+	<rect x="3410.80" y="1447.55" width="289.57" height="642.90" style="fill:#606060"/>
+	<rect x="3413.68" y="1450.43" width="283.82" height="637.14" style="fill:none;stroke:#606060;stroke-width:5.76"/>
+	<line x1="350.71" y1="2090.45" x2="350.71" y2="275.35" style="stroke:#000000;stroke-width:5.76"/>
+	<line x1="350.71" y1="2090.45" x2="310.74" y2="2090.45" style="stroke:#000000;stroke-width:5.76"/>
+	<text x="266.64" y="2090.45" style="font-family:'Helvetica';font-size:79.94px;fill:#000000" transform="rotate(-90 266.64,2090.45)" text-anchor="middle">0</text>
+	<line x1="350.71" y1="1761.88" x2="310.74" y2="1761.88" style="stroke:#000000;stroke-width:5.76"/>
+	<text x="266.64" y="1761.88" style="font-family:'Helvetica';font-size:79.94px;fill:#000000" transform="rotate(-90 266.64,1761.88)" text-anchor="middle">10</text>
+	<line x1="350.71" y1="1433.32" x2="310.74" y2="1433.32" style="stroke:#000000;stroke-width:5.76"/>
+	<text x="266.64" y="1433.32" style="font-family:'Helvetica';font-size:79.94px;fill:#000000" transform="rotate(-90 266.64,1433.32)" text-anchor="middle">20</text>
+	<line x1="350.71" y1="1104.75" x2="310.74" y2="1104.75" style="stroke:#000000;stroke-width:5.76"/>
+	<text x="266.64" y="1104.75" style="font-family:'Helvetica';font-size:79.94px;fill:#000000" transform="rotate(-90 266.64,1104.75)" text-anchor="middle">30</text>
+	<line x1="350.71" y1="776.18" x2="310.74" y2="776.18" style="stroke:#000000;stroke-width:5.76"/>
+	<text x="266.64" y="776.18" style="font-family:'Helvetica';font-size:79.94px;fill:#000000" transform="rotate(-90 266.64,776.18)" text-anchor="middle">40</text>
+	<line x1="350.71" y1="447.62" x2="310.74" y2="447.62" style="stroke:#000000;stroke-width:5.76"/>
+	<text x="266.64" y="447.62" style="font-family:'Helvetica';font-size:79.94px;fill:#000000" transform="rotate(-90 266.64,447.62)" text-anchor="middle">50</text>
+	<text x="176.68" y="1182.96" style="font-family:'Helvetica';font-size:79.94px;fill:#000000" transform="rotate(-90 176.68,1182.96)" text-anchor="middle">Percentage</text>
+	<line x1="350.71" y1="2090.45" x2="3859.02" y2="2090.45" style="stroke:#000000;stroke-width:5.76"/>
+	<text x="682.28" y="2130.42" style="font-family:'Helvetica';font-size:79.94px;fill:#000000" transform="rotate(-90 682.28,2130.42)" text-anchor="end">Journal article</text>
+	<text x="1165.77" y="2130.42" style="font-family:'Helvetica';font-size:79.94px;fill:#000000" transform="rotate(-90 1165.77,2130.42)" text-anchor="end">Book chapter</text>
+	<text x="1649.38" y="2130.42" style="font-family:'Helvetica';font-size:79.94px;fill:#000000" transform="rotate(-90 1649.38,2130.42)" text-anchor="end">Book</text>
+	<text x="2132.87" y="2130.42" style="font-family:'Helvetica';font-size:79.94px;fill:#000000" transform="rotate(-90 2132.87,2130.42)" text-anchor="end">WP only</text>
+	<text x="2616.49" y="2130.42" style="font-family:'Helvetica';font-size:79.94px;fill:#000000" transform="rotate(-90 2616.49,2130.42)" text-anchor="end">Dissertation</text>
+	<text x="3099.98" y="2130.42" style="font-family:'Helvetica';font-size:79.94px;fill:#000000" transform="rotate(-90 3099.98,2130.42)" text-anchor="end">Policy brief</text>
+	<text x="3583.60" y="2130.42" style="font-family:'Helvetica';font-size:79.94px;fill:#000000" transform="rotate(-90 3583.60,2130.42)" text-anchor="end">Blog post</text>
+	<text x="368.03" y="2743.87" style="fill:#000000">
+		<tspan style="font-family:'Helvetica';font-style:italic;font-size:60.02px">Source:</tspan>
+		<tspan style="font-family:'Helvetica';font-size:60.02px"> A. Natal. Updated in October 2025.</tspan>
+	</text>
+	<text x="2104.86" y="215.98" style="font-family:'Helvetica';font-size:139.96px;fill:#000000" text-anchor="middle">Type of outputs (N=46)</text>
+</svg>

@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- This is a Stata 15.1 generated SVG file (http://www.stata.com) -->
+
+<svg version="1.1" width="5.50in" height="4.00in" viewBox="0 0 3960 2880" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>Stata Graph - authors</desc>
+	<rect x="0" y="0" width="3960" height="2880" style="fill:#FFFFFF;stroke:none"/>
+	<rect x="0.00" y="0.00" width="3959.88" height="2880.00" style="fill:#FFFFFF"/>
+	<rect x="2.88" y="2.88" width="3954.12" height="2874.24" style="fill:none;stroke:#FFFFFF;stroke-width:5.76"/>
+	<rect x="63.36" y="207.91" width="1277.72" height="2514.18" style="fill:#FFFFFF"/>
+	<rect x="65.52" y="210.07" width="1273.40" height="2509.86" style="fill:none;stroke:#FFFFFF;stroke-width:4.32"/>
+	<rect x="328.61" y="386.54" width="934.70" height="1903.10" style="fill:none;stroke:#000000;stroke-width:4.32"/>
+	<line x1="326.45" y1="2291.80" x2="1265.47" y2="2291.80" style="stroke:#E0E0E0;stroke-width:6.48"/>
+	<line x1="326.45" y1="1864.35" x2="1265.47" y2="1864.35" style="stroke:#E0E0E0;stroke-width:6.48"/>
+	<line x1="326.45" y1="1437.03" x2="1265.47" y2="1437.03" style="stroke:#E0E0E0;stroke-width:6.48"/>
+	<line x1="326.45" y1="1009.58" x2="1265.47" y2="1009.58" style="stroke:#E0E0E0;stroke-width:6.48"/>
+	<line x1="326.45" y1="582.14" x2="1265.47" y2="582.14" style="stroke:#E0E0E0;stroke-width:6.48"/>
+	<rect x="408.87" y="459.99" width="34.03" height="1831.80" style="fill:#606060"/>
+	<rect x="411.03" y="462.15" width="29.71" height="1827.48" style="fill:none;stroke:#606060;stroke-width:4.32"/>
+	<rect x="465.80" y="1528.61" width="34.03" height="763.19" style="fill:#606060"/>
+	<rect x="467.95" y="1530.77" width="29.71" height="758.87" style="fill:none;stroke:#606060;stroke-width:4.32"/>
+	<rect x="522.72" y="1986.50" width="34.03" height="305.30" style="fill:#606060"/>
+	<rect x="524.88" y="1988.66" width="29.71" height="300.98" style="fill:none;stroke:#606060;stroke-width:4.32"/>
+	<rect x="579.64" y="1986.50" width="34.03" height="305.30" style="fill:#606060"/>
+	<rect x="581.80" y="1988.66" width="29.71" height="300.98" style="fill:none;stroke:#606060;stroke-width:4.32"/>
+	<rect x="636.57" y="1986.50" width="34.03" height="305.30" style="fill:#606060"/>
+	<rect x="638.73" y="1988.66" width="29.71" height="300.98" style="fill:none;stroke:#606060;stroke-width:4.32"/>
+	<rect x="693.50" y="1986.50" width="34.15" height="305.30" style="fill:#606060"/>
+	<rect x="695.65" y="1988.66" width="29.84" height="300.98" style="fill:none;stroke:#606060;stroke-width:4.32"/>
+	<rect x="750.42" y="1986.50" width="34.16" height="305.30" style="fill:#606060"/>
+	<rect x="752.58" y="1988.66" width="29.84" height="300.98" style="fill:none;stroke:#606060;stroke-width:4.32"/>
+	<rect x="807.35" y="2139.21" width="34.15" height="152.59" style="fill:#606060"/>
+	<rect x="809.50" y="2141.37" width="29.84" height="148.27" style="fill:none;stroke:#606060;stroke-width:4.32"/>
+	<rect x="864.27" y="2139.21" width="34.15" height="152.59" style="fill:#606060"/>
+	<rect x="866.43" y="2141.37" width="29.84" height="148.27" style="fill:none;stroke:#606060;stroke-width:4.32"/>
+	<rect x="921.20" y="2139.21" width="34.15" height="152.59" style="fill:#606060"/>
+	<rect x="923.35" y="2141.37" width="29.84" height="148.27" style="fill:none;stroke:#606060;stroke-width:4.32"/>
+	<rect x="978.12" y="2139.21" width="34.15" height="152.59" style="fill:#606060"/>
+	<rect x="980.28" y="2141.37" width="29.84" height="148.27" style="fill:none;stroke:#606060;stroke-width:4.32"/>
+	<rect x="1035.05" y="2139.21" width="34.15" height="152.59" style="fill:#606060"/>
+	<rect x="1037.20" y="2141.37" width="29.84" height="148.27" style="fill:none;stroke:#606060;stroke-width:4.32"/>
+	<rect x="1092.09" y="2139.21" width="34.03" height="152.59" style="fill:#606060"/>
+	<rect x="1094.25" y="2141.37" width="29.71" height="148.27" style="fill:none;stroke:#606060;stroke-width:4.32"/>
+	<rect x="1149.02" y="2139.21" width="34.03" height="152.59" style="fill:#606060"/>
+	<rect x="1151.18" y="2141.37" width="29.71" height="148.27" style="fill:none;stroke:#606060;stroke-width:4.32"/>
+	<line x1="326.45" y1="2291.80" x2="326.45" y2="384.38" style="stroke:#000000;stroke-width:4.32"/>
+	<line x1="326.45" y1="2291.80" x2="296.38" y2="2291.80" style="stroke:#000000;stroke-width:4.32"/>
+	<text x="263.34" y="2291.80" style="font-family:'Helvetica';font-size:60.02px;fill:#000000" transform="rotate(-90 263.34,2291.80)" text-anchor="middle">0</text>
+	<line x1="326.45" y1="1864.35" x2="296.38" y2="1864.35" style="stroke:#000000;stroke-width:4.32"/>
+	<text x="263.34" y="1864.35" style="font-family:'Helvetica';font-size:60.02px;fill:#000000" transform="rotate(-90 263.34,1864.35)" text-anchor="middle">20</text>
+	<line x1="326.45" y1="1437.03" x2="296.38" y2="1437.03" style="stroke:#000000;stroke-width:4.32"/>
+	<text x="263.34" y="1437.03" style="font-family:'Helvetica';font-size:60.02px;fill:#000000" transform="rotate(-90 263.34,1437.03)" text-anchor="middle">40</text>
+	<line x1="326.45" y1="1009.58" x2="296.38" y2="1009.58" style="stroke:#000000;stroke-width:4.32"/>
+	<text x="263.34" y="1009.58" style="font-family:'Helvetica';font-size:60.02px;fill:#000000" transform="rotate(-90 263.34,1009.58)" text-anchor="middle">60</text>
+	<line x1="326.45" y1="582.14" x2="296.38" y2="582.14" style="stroke:#000000;stroke-width:4.32"/>
+	<text x="263.34" y="582.14" style="font-family:'Helvetica';font-size:60.02px;fill:#000000" transform="rotate(-90 263.34,582.14)" text-anchor="middle">80</text>
+	<text x="195.90" y="1338.15" style="font-family:'Helvetica';font-size:60.02px;fill:#000000" transform="rotate(-90 195.90,1338.15)" text-anchor="middle">Percentage</text>
+	<line x1="326.45" y1="2291.80" x2="1265.47" y2="2291.80" style="stroke:#000000;stroke-width:4.32"/>
+	<text x="446.86" y="2321.87" style="font-family:'Helvetica';font-size:60.02px;fill:#000000" transform="rotate(-90 446.86,2321.87)" text-anchor="end">Debt</text>
+	<text x="503.79" y="2321.87" style="font-family:'Helvetica';font-size:60.02px;fill:#000000" transform="rotate(-90 503.79,2321.87)" text-anchor="end">Employment</text>
+	<text x="560.84" y="2321.87" style="font-family:'Helvetica';font-size:60.02px;fill:#000000" transform="rotate(-90 560.84,2321.87)" text-anchor="end">Agriculture</text>
+	<text x="617.76" y="2321.87" style="font-family:'Helvetica';font-size:60.02px;fill:#000000" transform="rotate(-90 617.76,2321.87)" text-anchor="end">Education</text>
+	<text x="674.69" y="2321.87" style="font-family:'Helvetica';font-size:60.02px;fill:#000000" transform="rotate(-90 674.69,2321.87)" text-anchor="end">Gender</text>
+	<text x="731.61" y="2321.87" style="font-family:'Helvetica';font-size:60.02px;fill:#000000" transform="rotate(-90 731.61,2321.87)" text-anchor="end">Income</text>
+	<text x="788.53" y="2321.87" style="font-family:'Helvetica';font-size:60.02px;fill:#000000" transform="rotate(-90 788.53,2321.87)" text-anchor="end">Inequality</text>
+	<text x="845.46" y="2321.87" style="font-family:'Helvetica';font-size:60.02px;fill:#000000" transform="rotate(-90 845.46,2321.87)" text-anchor="end">Consumption</text>
+	<text x="902.38" y="2321.87" style="font-family:'Helvetica';font-size:60.02px;fill:#000000" transform="rotate(-90 902.38,2321.87)" text-anchor="end">Marriage</text>
+	<text x="959.31" y="2321.87" style="font-family:'Helvetica';font-size:60.02px;fill:#000000" transform="rotate(-90 959.31,2321.87)" text-anchor="end">Migration</text>
+	<text x="1016.24" y="2321.87" style="font-family:'Helvetica';font-size:60.02px;fill:#000000" transform="rotate(-90 1016.24,2321.87)" text-anchor="end">Networks</text>
+	<text x="1073.16" y="2321.87" style="font-family:'Helvetica';font-size:60.02px;fill:#000000" transform="rotate(-90 1073.16,2321.87)" text-anchor="end">Personality</text>
+	<text x="1130.08" y="2321.87" style="font-family:'Helvetica';font-size:60.02px;fill:#000000" transform="rotate(-90 1130.08,2321.87)" text-anchor="end">Saving</text>
+	<text x="1187.01" y="2321.87" style="font-family:'Helvetica';font-size:60.02px;fill:#000000" transform="rotate(-90 1187.01,2321.87)" text-anchor="end">Wealth</text>
+	<text x="795.96" y="348.95" style="font-family:'Helvetica';font-size:74.99px;fill:#000000" text-anchor="middle">RUME (N=14)</text>
+	<rect x="1341.08" y="207.91" width="1277.72" height="2514.18" style="fill:#FFFFFF"/>
+	<rect x="1343.24" y="210.07" width="1273.40" height="2509.86" style="fill:none;stroke:#FFFFFF;stroke-width:4.32"/>
+	<rect x="1606.33" y="386.54" width="934.70" height="1763.13" style="fill:none;stroke:#000000;stroke-width:4.32"/>
+	<line x1="1604.17" y1="2151.83" x2="2543.19" y2="2151.83" style="stroke:#E0E0E0;stroke-width:6.48"/>
+	<line x1="1604.17" y1="1728.97" x2="2543.19" y2="1728.97" style="stroke:#E0E0E0;stroke-width:6.48"/>
+	<line x1="1604.17" y1="1305.97" x2="2543.19" y2="1305.97" style="stroke:#E0E0E0;stroke-width:6.48"/>
+	<line x1="1604.17" y1="882.98" x2="2543.19" y2="882.98" style="stroke:#E0E0E0;stroke-width:6.48"/>
+	<rect x="1684.98" y="927.54" width="26.48" height="1224.30" style="fill:#606060"/>
+	<rect x="1687.14" y="929.70" width="22.16" height="1219.98" style="fill:none;stroke:#606060;stroke-width:4.32"/>
+	<rect x="1729.16" y="1706.69" width="26.48" height="445.14" style="fill:#606060"/>
+	<rect x="1731.32" y="1708.85" width="22.16" height="440.82" style="fill:none;stroke:#606060;stroke-width:4.32"/>
+	<rect x="1773.34" y="1706.69" width="26.48" height="445.14" style="fill:#606060"/>
+	<rect x="1775.50" y="1708.85" width="22.16" height="440.82" style="fill:none;stroke:#606060;stroke-width:4.32"/>
+	<rect x="1817.52" y="1706.69" width="26.48" height="445.14" style="fill:#606060"/>
+	<rect x="1819.68" y="1708.85" width="22.16" height="440.82" style="fill:none;stroke:#606060;stroke-width:4.32"/>
+	<rect x="1861.69" y="1706.69" width="26.48" height="445.14" style="fill:#606060"/>
+	<rect x="1863.85" y="1708.85" width="22.16" height="440.82" style="fill:none;stroke:#606060;stroke-width:4.32"/>
+	<rect x="1905.87" y="1817.94" width="26.48" height="333.89" style="fill:#606060"/>
+	<rect x="1908.03" y="1820.10" width="22.16" height="329.57" style="fill:none;stroke:#606060;stroke-width:4.32"/>
+	<rect x="1950.05" y="1817.94" width="26.36" height="333.89" style="fill:#606060"/>
+	<rect x="1952.21" y="1820.10" width="22.04" height="329.57" style="fill:none;stroke:#606060;stroke-width:4.32"/>
+	<rect x="1994.23" y="1817.94" width="26.36" height="333.89" style="fill:#606060"/>
+	<rect x="1996.39" y="1820.10" width="22.04" height="329.57" style="fill:none;stroke:#606060;stroke-width:4.32"/>
+	<rect x="2038.41" y="1929.20" width="26.36" height="222.63" style="fill:#606060"/>
+	<rect x="2040.57" y="1931.36" width="22.04" height="218.31" style="fill:none;stroke:#606060;stroke-width:4.32"/>
+	<rect x="2082.47" y="1929.20" width="26.48" height="222.63" style="fill:#606060"/>
+	<rect x="2084.62" y="1931.36" width="22.16" height="218.31" style="fill:none;stroke:#606060;stroke-width:4.32"/>
+	<rect x="2126.64" y="1929.20" width="26.48" height="222.63" style="fill:#606060"/>
+	<rect x="2128.80" y="1931.36" width="22.16" height="218.31" style="fill:none;stroke:#606060;stroke-width:4.32"/>
+	<rect x="2170.82" y="1929.20" width="26.48" height="222.63" style="fill:#606060"/>
+	<rect x="2172.98" y="1931.36" width="22.16" height="218.31" style="fill:none;stroke:#606060;stroke-width:4.32"/>
+	<rect x="2215.00" y="2040.58" width="26.48" height="111.25" style="fill:#606060"/>
+	<rect x="2217.16" y="2042.74" width="22.16" height="106.93" style="fill:none;stroke:#606060;stroke-width:4.32"/>
+	<rect x="2259.18" y="2040.58" width="26.48" height="111.25" style="fill:#606060"/>
+	<rect x="2261.34" y="2042.74" width="22.16" height="106.93" style="fill:none;stroke:#606060;stroke-width:4.32"/>
+	<rect x="2303.36" y="2040.58" width="26.48" height="111.25" style="fill:#606060"/>
+	<rect x="2305.52" y="2042.74" width="22.16" height="106.93" style="fill:none;stroke:#606060;stroke-width:4.32"/>
+	<rect x="2347.54" y="2040.58" width="26.48" height="111.25" style="fill:#606060"/>
+	<rect x="2349.70" y="2042.74" width="22.16" height="106.93" style="fill:none;stroke:#606060;stroke-width:4.32"/>
+	<rect x="2391.72" y="2040.58" width="26.48" height="111.25" style="fill:#606060"/>
+	<rect x="2393.88" y="2042.74" width="22.16" height="106.93" style="fill:none;stroke:#606060;stroke-width:4.32"/>
+	<rect x="2435.90" y="2040.58" width="26.36" height="111.25" style="fill:#606060"/>
+	<rect x="2438.05" y="2042.74" width="22.04" height="106.93" style="fill:none;stroke:#606060;stroke-width:4.32"/>
+	<line x1="1604.17" y1="2151.83" x2="1604.17" y2="384.38" style="stroke:#000000;stroke-width:4.32"/>
+	<line x1="1604.17" y1="2151.83" x2="1574.10" y2="2151.83" style="stroke:#000000;stroke-width:4.32"/>
+	<text x="1541.06" y="2151.83" style="font-family:'Helvetica';font-size:60.02px;fill:#000000" transform="rotate(-90 1541.06,2151.83)" text-anchor="middle">0</text>
+	<line x1="1604.17" y1="1728.97" x2="1574.10" y2="1728.97" style="stroke:#000000;stroke-width:4.32"/>
+	<text x="1541.06" y="1728.97" style="font-family:'Helvetica';font-size:60.02px;fill:#000000" transform="rotate(-90 1541.06,1728.97)" text-anchor="middle">20</text>
+	<line x1="1604.17" y1="1305.97" x2="1574.10" y2="1305.97" style="stroke:#000000;stroke-width:4.32"/>
+	<text x="1541.06" y="1305.97" style="font-family:'Helvetica';font-size:60.02px;fill:#000000" transform="rotate(-90 1541.06,1305.97)" text-anchor="middle">40</text>
+	<line x1="1604.17" y1="882.98" x2="1574.10" y2="882.98" style="stroke:#000000;stroke-width:4.32"/>
+	<text x="1541.06" y="882.98" style="font-family:'Helvetica';font-size:60.02px;fill:#000000" transform="rotate(-90 1541.06,882.98)" text-anchor="middle">60</text>
+	<line x1="1604.17" y1="459.99" x2="1574.10" y2="459.99" style="stroke:#000000;stroke-width:4.32"/>
+	<text x="1541.06" y="459.99" style="font-family:'Helvetica';font-size:60.02px;fill:#000000" transform="rotate(-90 1541.06,459.99)" text-anchor="middle">80</text>
+	<text x="1473.61" y="1268.11" style="font-family:'Helvetica';font-size:60.02px;fill:#000000" transform="rotate(-90 1473.61,1268.11)" text-anchor="middle">Percentage</text>
+	<line x1="1604.17" y1="2151.83" x2="2543.19" y2="2151.83" style="stroke:#000000;stroke-width:4.32"/>
+	<text x="1719.26" y="2181.90" style="font-family:'Helvetica';font-size:60.02px;fill:#000000" transform="rotate(-90 1719.26,2181.90)" text-anchor="end">Debt</text>
+	<text x="1763.44" y="2181.90" style="font-family:'Helvetica';font-size:60.02px;fill:#000000" transform="rotate(-90 1763.44,2181.90)" text-anchor="end">Employment</text>
+	<text x="1807.62" y="2181.90" style="font-family:'Helvetica';font-size:60.02px;fill:#000000" transform="rotate(-90 1807.62,2181.90)" text-anchor="end">Gender</text>
+	<text x="1851.79" y="2181.90" style="font-family:'Helvetica';font-size:60.02px;fill:#000000" transform="rotate(-90 1851.79,2181.90)" text-anchor="end">Networks</text>
+	<text x="1895.97" y="2181.90" style="font-family:'Helvetica';font-size:60.02px;fill:#000000" transform="rotate(-90 1895.97,2181.90)" text-anchor="end">Personality</text>
+	<text x="1940.15" y="2181.90" style="font-family:'Helvetica';font-size:60.02px;fill:#000000" transform="rotate(-90 1940.15,2181.90)" text-anchor="end">Covid</text>
+	<text x="1984.33" y="2181.90" style="font-family:'Helvetica';font-size:60.02px;fill:#000000" transform="rotate(-90 1984.33,2181.90)" text-anchor="end">Demonetisation</text>
+	<text x="2028.51" y="2181.90" style="font-family:'Helvetica';font-size:60.02px;fill:#000000" transform="rotate(-90 2028.51,2181.90)" text-anchor="end">Inequality</text>
+	<text x="2072.57" y="2181.90" style="font-family:'Helvetica';font-size:60.02px;fill:#000000" transform="rotate(-90 2072.57,2181.90)" text-anchor="end">Agriculture</text>
+	<text x="2116.74" y="2181.90" style="font-family:'Helvetica';font-size:60.02px;fill:#000000" transform="rotate(-90 2116.74,2181.90)" text-anchor="end">Caste</text>
+	<text x="2160.92" y="2181.90" style="font-family:'Helvetica';font-size:60.02px;fill:#000000" transform="rotate(-90 2160.92,2181.90)" text-anchor="end">Education</text>
+	<text x="2205.10" y="2181.90" style="font-family:'Helvetica';font-size:60.02px;fill:#000000" transform="rotate(-90 2205.10,2181.90)" text-anchor="end">Income</text>
+	<text x="2249.28" y="2181.90" style="font-family:'Helvetica';font-size:60.02px;fill:#000000" transform="rotate(-90 2249.28,2181.90)" text-anchor="end">Consumption</text>
+	<text x="2293.46" y="2181.90" style="font-family:'Helvetica';font-size:60.02px;fill:#000000" transform="rotate(-90 2293.46,2181.90)" text-anchor="end">Marriage</text>
+	<text x="2337.64" y="2181.90" style="font-family:'Helvetica';font-size:60.02px;fill:#000000" transform="rotate(-90 2337.64,2181.90)" text-anchor="end">Migration</text>
+	<text x="2381.82" y="2181.90" style="font-family:'Helvetica';font-size:60.02px;fill:#000000" transform="rotate(-90 2381.82,2181.90)" text-anchor="end">Mobility</text>
+	<text x="2425.99" y="2181.90" style="font-family:'Helvetica';font-size:60.02px;fill:#000000" transform="rotate(-90 2425.99,2181.90)" text-anchor="end">Trust</text>
+	<text x="2470.17" y="2181.90" style="font-family:'Helvetica';font-size:60.02px;fill:#000000" transform="rotate(-90 2470.17,2181.90)" text-anchor="end">Wealth</text>
+	<text x="2073.68" y="348.95" style="font-family:'Helvetica';font-size:74.99px;fill:#000000" text-anchor="middle">NEEMSIS-1 (N=19)</text>
+	<rect x="2618.80" y="207.91" width="1277.72" height="2514.18" style="fill:#FFFFFF"/>
+	<rect x="2620.96" y="210.07" width="1273.40" height="2509.86" style="fill:none;stroke:#FFFFFF;stroke-width:4.32"/>
+	<rect x="2884.05" y="386.54" width="934.70" height="1756.20" style="fill:none;stroke:#000000;stroke-width:4.32"/>
+	<line x1="2881.89" y1="2144.90" x2="3820.91" y2="2144.90" style="stroke:#E0E0E0;stroke-width:6.48"/>
+	<line x1="2881.89" y1="1723.64" x2="3820.91" y2="1723.64" style="stroke:#E0E0E0;stroke-width:6.48"/>
+	<line x1="2881.89" y1="1302.51" x2="3820.91" y2="1302.51" style="stroke:#E0E0E0;stroke-width:6.48"/>
+	<line x1="2881.89" y1="881.25" x2="3820.91" y2="881.25" style="stroke:#E0E0E0;stroke-width:6.48"/>
+	<rect x="2963.07" y="974.81" width="27.97" height="1170.09" style="fill:#606060"/>
+	<rect x="2965.23" y="976.97" width="23.65" height="1165.77" style="fill:none;stroke:#606060;stroke-width:4.32"/>
+	<rect x="3009.85" y="1442.85" width="27.97" height="702.06" style="fill:#606060"/>
+	<rect x="3012.01" y="1445.01" width="23.65" height="697.74" style="fill:none;stroke:#606060;stroke-width:4.32"/>
+	<rect x="3056.63" y="1442.85" width="27.97" height="702.06" style="fill:#606060"/>
+	<rect x="3058.78" y="1445.01" width="23.65" height="697.74" style="fill:none;stroke:#606060;stroke-width:4.32"/>
+	<rect x="3103.40" y="1442.85" width="28.09" height="702.06" style="fill:#606060"/>
+	<rect x="3105.56" y="1445.01" width="23.77" height="697.74" style="fill:none;stroke:#606060;stroke-width:4.32"/>
+	<rect x="3150.18" y="1559.79" width="28.09" height="585.11" style="fill:#606060"/>
+	<rect x="3152.34" y="1561.95" width="23.77" height="580.79" style="fill:none;stroke:#606060;stroke-width:4.32"/>
+	<rect x="3196.96" y="1559.79" width="28.09" height="585.11" style="fill:#606060"/>
+	<rect x="3199.12" y="1561.95" width="23.77" height="580.79" style="fill:none;stroke:#606060;stroke-width:4.32"/>
+	<rect x="3243.74" y="1676.86" width="28.09" height="468.04" style="fill:#606060"/>
+	<rect x="3245.89" y="1679.02" width="23.77" height="463.72" style="fill:none;stroke:#606060;stroke-width:4.32"/>
+	<rect x="3290.64" y="1910.88" width="27.97" height="234.02" style="fill:#606060"/>
+	<rect x="3292.80" y="1913.04" width="23.65" height="229.70" style="fill:none;stroke:#606060;stroke-width:4.32"/>
+	<rect x="3337.41" y="1910.88" width="27.97" height="234.02" style="fill:#606060"/>
+	<rect x="3339.57" y="1913.04" width="23.65" height="229.70" style="fill:none;stroke:#606060;stroke-width:4.32"/>
+	<rect x="3384.19" y="1910.88" width="27.97" height="234.02" style="fill:#606060"/>
+	<rect x="3386.35" y="1913.04" width="23.65" height="229.70" style="fill:none;stroke:#606060;stroke-width:4.32"/>
+	<rect x="3430.97" y="1910.88" width="27.97" height="234.02" style="fill:#606060"/>
+	<rect x="3433.13" y="1913.04" width="23.65" height="229.70" style="fill:none;stroke:#606060;stroke-width:4.32"/>
+	<rect x="3477.75" y="2027.83" width="27.97" height="117.07" style="fill:#606060"/>
+	<rect x="3479.91" y="2029.99" width="23.65" height="112.75" style="fill:none;stroke:#606060;stroke-width:4.32"/>
+	<rect x="3524.52" y="2027.83" width="28.09" height="117.07" style="fill:#606060"/>
+	<rect x="3526.68" y="2029.99" width="23.77" height="112.75" style="fill:none;stroke:#606060;stroke-width:4.32"/>
+	<rect x="3571.30" y="2027.83" width="28.09" height="117.07" style="fill:#606060"/>
+	<rect x="3573.46" y="2029.99" width="23.77" height="112.75" style="fill:none;stroke:#606060;stroke-width:4.32"/>
+	<rect x="3618.08" y="2027.83" width="28.09" height="117.07" style="fill:#606060"/>
+	<rect x="3620.24" y="2029.99" width="23.77" height="112.75" style="fill:none;stroke:#606060;stroke-width:4.32"/>
+	<rect x="3664.86" y="2027.83" width="28.09" height="117.07" style="fill:#606060"/>
+	<rect x="3667.02" y="2029.99" width="23.77" height="112.75" style="fill:none;stroke:#606060;stroke-width:4.32"/>
+	<rect x="3711.76" y="2027.83" width="27.97" height="117.07" style="fill:#606060"/>
+	<rect x="3713.92" y="2029.99" width="23.65" height="112.75" style="fill:none;stroke:#606060;stroke-width:4.32"/>
+	<line x1="2881.89" y1="2144.90" x2="2881.89" y2="384.38" style="stroke:#000000;stroke-width:4.32"/>
+	<line x1="2881.89" y1="2144.90" x2="2851.82" y2="2144.90" style="stroke:#000000;stroke-width:4.32"/>
+	<text x="2818.78" y="2144.90" style="font-family:'Helvetica';font-size:60.02px;fill:#000000" transform="rotate(-90 2818.78,2144.90)" text-anchor="middle">0</text>
+	<line x1="2881.89" y1="1723.64" x2="2851.82" y2="1723.64" style="stroke:#000000;stroke-width:4.32"/>
+	<text x="2818.78" y="1723.64" style="font-family:'Helvetica';font-size:60.02px;fill:#000000" transform="rotate(-90 2818.78,1723.64)" text-anchor="middle">20</text>
+	<line x1="2881.89" y1="1302.51" x2="2851.82" y2="1302.51" style="stroke:#000000;stroke-width:4.32"/>
+	<text x="2818.78" y="1302.51" style="font-family:'Helvetica';font-size:60.02px;fill:#000000" transform="rotate(-90 2818.78,1302.51)" text-anchor="middle">40</text>
+	<line x1="2881.89" y1="881.25" x2="2851.82" y2="881.25" style="stroke:#000000;stroke-width:4.32"/>
+	<text x="2818.78" y="881.25" style="font-family:'Helvetica';font-size:60.02px;fill:#000000" transform="rotate(-90 2818.78,881.25)" text-anchor="middle">60</text>
+	<line x1="2881.89" y1="459.99" x2="2851.82" y2="459.99" style="stroke:#000000;stroke-width:4.32"/>
+	<text x="2818.78" y="459.99" style="font-family:'Helvetica';font-size:60.02px;fill:#000000" transform="rotate(-90 2818.78,459.99)" text-anchor="middle">80</text>
+	<text x="2751.33" y="1264.64" style="font-family:'Helvetica';font-size:60.02px;fill:#000000" transform="rotate(-90 2751.33,1264.64)" text-anchor="middle">Percentage</text>
+	<line x1="2881.89" y1="2144.90" x2="3820.91" y2="2144.90" style="stroke:#000000;stroke-width:4.32"/>
+	<text x="2998.09" y="2174.85" style="font-family:'Helvetica';font-size:60.02px;fill:#000000" transform="rotate(-90 2998.09,2174.85)" text-anchor="end">Debt</text>
+	<text x="3044.87" y="2174.85" style="font-family:'Helvetica';font-size:60.02px;fill:#000000" transform="rotate(-90 3044.87,2174.85)" text-anchor="end">Caste</text>
+	<text x="3091.65" y="2174.85" style="font-family:'Helvetica';font-size:60.02px;fill:#000000" transform="rotate(-90 3091.65,2174.85)" text-anchor="end">Employment</text>
+	<text x="3138.42" y="2174.85" style="font-family:'Helvetica';font-size:60.02px;fill:#000000" transform="rotate(-90 3138.42,2174.85)" text-anchor="end">Networks</text>
+	<text x="3185.20" y="2174.85" style="font-family:'Helvetica';font-size:60.02px;fill:#000000" transform="rotate(-90 3185.20,2174.85)" text-anchor="end">Gender</text>
+	<text x="3232.10" y="2174.85" style="font-family:'Helvetica';font-size:60.02px;fill:#000000" transform="rotate(-90 3232.10,2174.85)" text-anchor="end">Personality</text>
+	<text x="3278.88" y="2174.85" style="font-family:'Helvetica';font-size:60.02px;fill:#000000" transform="rotate(-90 3278.88,2174.85)" text-anchor="end">Inequality</text>
+	<text x="3325.66" y="2174.85" style="font-family:'Helvetica';font-size:60.02px;fill:#000000" transform="rotate(-90 3325.66,2174.85)" text-anchor="end">Agriculture</text>
+	<text x="3372.43" y="2174.85" style="font-family:'Helvetica';font-size:60.02px;fill:#000000" transform="rotate(-90 3372.43,2174.85)" text-anchor="end">Covid</text>
+	<text x="3419.21" y="2174.85" style="font-family:'Helvetica';font-size:60.02px;fill:#000000" transform="rotate(-90 3419.21,2174.85)" text-anchor="end">Education</text>
+	<text x="3465.99" y="2174.85" style="font-family:'Helvetica';font-size:60.02px;fill:#000000" transform="rotate(-90 3465.99,2174.85)" text-anchor="end">Income</text>
+	<text x="3512.77" y="2174.85" style="font-family:'Helvetica';font-size:60.02px;fill:#000000" transform="rotate(-90 3512.77,2174.85)" text-anchor="end">Consumption</text>
+	<text x="3559.55" y="2174.85" style="font-family:'Helvetica';font-size:60.02px;fill:#000000" transform="rotate(-90 3559.55,2174.85)" text-anchor="end">Decisionmaking</text>
+	<text x="3606.32" y="2174.85" style="font-family:'Helvetica';font-size:60.02px;fill:#000000" transform="rotate(-90 3606.32,2174.85)" text-anchor="end">Demonetisation</text>
+	<text x="3653.22" y="2174.85" style="font-family:'Helvetica';font-size:60.02px;fill:#000000" transform="rotate(-90 3653.22,2174.85)" text-anchor="end">Marriage</text>
+	<text x="3700.00" y="2174.85" style="font-family:'Helvetica';font-size:60.02px;fill:#000000" transform="rotate(-90 3700.00,2174.85)" text-anchor="end">Migration</text>
+	<text x="3746.78" y="2174.85" style="font-family:'Helvetica';font-size:60.02px;fill:#000000" transform="rotate(-90 3746.78,2174.85)" text-anchor="end">Wealth</text>
+	<text x="3351.40" y="348.95" style="font-family:'Helvetica';font-size:74.99px;fill:#000000" text-anchor="middle">NEEMSIS-2 (N=18)</text>
+	<text x="80.69" y="2781.24" style="fill:#000000">
+		<tspan style="font-family:'Helvetica';font-style:italic;font-size:60.02px">Source:</tspan>
+		<tspan style="font-family:'Helvetica';font-size:60.02px"> A. Natal. Updated in October 2025.</tspan>
+	</text>
+	<text x="1980.00" y="157.51" style="font-family:'Helvetica';font-size:110.01px;fill:#000000" text-anchor="middle">Topics by wave for research papers</text>
+</svg>

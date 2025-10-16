@@ -46,7 +46,7 @@ ylabel(0(10)50,labsize(small)) ///
 ytitle("Percentage",size(small)) ///
 title("Type of outputs (N=`r(N)')") ///
 note("{it:Source:} $authordate", size(vsmall)) name(type, replace) 
-graph export "Stata_cmd\Stata_fig\A_type.pdf", as(pdf) replace
+graph export "Stata_cmd\Stata_fig\A_type.svg", as(svg) replace
 
 ****************************************
 * END

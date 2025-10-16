@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- This is a Stata 15.1 generated SVG file (http://www.stata.com) -->
+
+<svg version="1.1" width="5.50in" height="4.00in" viewBox="0 0 3960 2880" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>Stata Graph - wpglobal</desc>
+	<rect x="0" y="0" width="3960" height="2880" style="fill:#FFFFFF;stroke:none"/>
+	<rect x="0.00" y="0.00" width="3959.88" height="2880.00" style="fill:#FFFFFF"/>
+	<rect x="2.88" y="2.88" width="3954.12" height="2874.24" style="fill:none;stroke:#FFFFFF;stroke-width:5.76"/>
+	<rect x="63.36" y="207.91" width="3833.16" height="1257.09" style="fill:#FFFFFF"/>
+	<rect x="65.52" y="210.07" width="3828.84" height="1252.77" style="fill:none;stroke:#FFFFFF;stroke-width:4.32"/>
+	<rect x="110.88" y="255.43" width="1869.12" height="1162.05" style="fill:#FFFFFF"/>
+	<rect x="112.50" y="257.05" width="1865.88" height="1158.81" style="fill:none;stroke:#FFFFFF;stroke-width:3.24"/>
+	<rect x="309.76" y="411.99" width="1611.82" height="782.23" style="fill:none;stroke:#000000;stroke-width:3.24"/>
+	<line x1="308.14" y1="1195.83" x2="1923.20" y2="1195.83" style="stroke:#E0E0E0;stroke-width:4.86"/>
+	<line x1="308.14" y1="1050.05" x2="1923.20" y2="1050.05" style="stroke:#E0E0E0;stroke-width:4.86"/>
+	<line x1="308.14" y1="904.27" x2="1923.20" y2="904.27" style="stroke:#E0E0E0;stroke-width:4.86"/>
+	<line x1="308.14" y1="758.49" x2="1923.20" y2="758.49" style="stroke:#E0E0E0;stroke-width:4.86"/>
+	<line x1="308.14" y1="612.83" x2="1923.20" y2="612.83" style="stroke:#E0E0E0;stroke-width:4.86"/>
+	<rect x="579.40" y="467.05" width="1072.67" height="728.79" style="fill:#606060"/>
+	<rect x="581.02" y="468.67" width="1069.43" height="725.55" style="fill:none;stroke:#606060;stroke-width:3.24"/>
+	<line x1="308.14" y1="1195.83" x2="308.14" y2="410.37" style="stroke:#000000;stroke-width:3.24"/>
+	<line x1="308.14" y1="1195.83" x2="285.62" y2="1195.83" style="stroke:#000000;stroke-width:3.24"/>
+	<text x="260.90" y="1195.83" style="font-family:'Helvetica';font-size:45.05px;fill:#000000" transform="rotate(-90 260.90,1195.83)" text-anchor="middle">0</text>
+	<line x1="308.14" y1="1050.05" x2="285.62" y2="1050.05" style="stroke:#000000;stroke-width:3.24"/>
+	<text x="260.90" y="1050.05" style="font-family:'Helvetica';font-size:45.05px;fill:#000000" transform="rotate(-90 260.90,1050.05)" text-anchor="middle">20</text>
+	<line x1="308.14" y1="904.27" x2="285.62" y2="904.27" style="stroke:#000000;stroke-width:3.24"/>
+	<text x="260.90" y="904.27" style="font-family:'Helvetica';font-size:45.05px;fill:#000000" transform="rotate(-90 260.90,904.27)" text-anchor="middle">40</text>
+	<line x1="308.14" y1="758.49" x2="285.62" y2="758.49" style="stroke:#000000;stroke-width:3.24"/>
+	<text x="260.90" y="758.49" style="font-family:'Helvetica';font-size:45.05px;fill:#000000" transform="rotate(-90 260.90,758.49)" text-anchor="middle">60</text>
+	<line x1="308.14" y1="612.83" x2="285.62" y2="612.83" style="stroke:#000000;stroke-width:3.24"/>
+	<text x="260.90" y="612.83" style="font-family:'Helvetica';font-size:45.05px;fill:#000000" transform="rotate(-90 260.90,612.83)" text-anchor="middle">80</text>
+	<text x="210.29" y="803.04" style="font-family:'Helvetica';font-size:45.05px;fill:#000000" transform="rotate(-90 210.29,803.04)" text-anchor="middle">Percentage</text>
+	<line x1="308.14" y1="1195.83" x2="1923.20" y2="1195.83" style="stroke:#000000;stroke-width:3.24"/>
+	<text x="1131.53" y="1218.36" style="font-family:'Helvetica';font-size:45.05px;fill:#000000" transform="rotate(-90 1131.53,1218.36)" text-anchor="end">Panel</text>
+	<text x="1115.73" y="376.92" style="font-family:'Helvetica';font-size:78.70px;fill:#000000" text-anchor="middle">Analysis</text>
+	<rect x="1980.00" y="255.43" width="1869.00" height="1162.05" style="fill:#FFFFFF"/>
+	<rect x="1981.62" y="257.05" width="1865.76" height="1158.81" style="fill:none;stroke:#FFFFFF;stroke-width:3.24"/>
+	<rect x="2178.88" y="411.99" width="1611.82" height="648.32" style="fill:none;stroke:#000000;stroke-width:3.24"/>
+	<line x1="2177.26" y1="1061.93" x2="3792.32" y2="1061.93" style="stroke:#E0E0E0;stroke-width:4.86"/>
+	<line x1="2177.26" y1="943.00" x2="3792.32" y2="943.00" style="stroke:#E0E0E0;stroke-width:4.86"/>
+	<line x1="2177.26" y1="823.95" x2="3792.32" y2="823.95" style="stroke:#E0E0E0;stroke-width:4.86"/>
+	<line x1="2177.26" y1="705.03" x2="3792.32" y2="705.03" style="stroke:#E0E0E0;stroke-width:4.86"/>
+	<line x1="2177.26" y1="585.97" x2="3792.32" y2="585.97" style="stroke:#E0E0E0;stroke-width:4.86"/>
+	<line x1="2177.26" y1="467.05" x2="3792.32" y2="467.05" style="stroke:#E0E0E0;stroke-width:4.86"/>
+	<rect x="2297.30" y="467.05" width="316.80" height="594.88" style="fill:#606060"/>
+	<rect x="2298.91" y="468.67" width="313.56" height="591.64" style="fill:none;stroke:#606060;stroke-width:3.24"/>
+	<rect x="2826.33" y="467.05" width="316.80" height="594.88" style="fill:#606060"/>
+	<rect x="2827.95" y="468.67" width="313.56" height="591.64" style="fill:none;stroke:#606060;stroke-width:3.24"/>
+	<rect x="3355.48" y="467.05" width="316.80" height="594.88" style="fill:#606060"/>
+	<rect x="3357.10" y="468.67" width="313.56" height="591.64" style="fill:none;stroke:#606060;stroke-width:3.24"/>
+	<line x1="2177.26" y1="1061.93" x2="2177.26" y2="410.37" style="stroke:#000000;stroke-width:3.24"/>
+	<line x1="2177.26" y1="1061.93" x2="2154.74" y2="1061.93" style="stroke:#000000;stroke-width:3.24"/>
+	<text x="2129.90" y="1061.93" style="font-family:'Helvetica';font-size:45.05px;fill:#000000" transform="rotate(-90 2129.90,1061.93)" text-anchor="middle">0</text>
+	<line x1="2177.26" y1="943.00" x2="2154.74" y2="943.00" style="stroke:#000000;stroke-width:3.24"/>
+	<text x="2129.90" y="943.00" style="font-family:'Helvetica';font-size:45.05px;fill:#000000" transform="rotate(-90 2129.90,943.00)" text-anchor="middle">20</text>
+	<line x1="2177.26" y1="823.95" x2="2154.74" y2="823.95" style="stroke:#000000;stroke-width:3.24"/>
+	<text x="2129.90" y="823.95" style="font-family:'Helvetica';font-size:45.05px;fill:#000000" transform="rotate(-90 2129.90,823.95)" text-anchor="middle">40</text>
+	<line x1="2177.26" y1="705.03" x2="2154.74" y2="705.03" style="stroke:#000000;stroke-width:3.24"/>
+	<text x="2129.90" y="705.03" style="font-family:'Helvetica';font-size:45.05px;fill:#000000" transform="rotate(-90 2129.90,705.03)" text-anchor="middle">60</text>
+	<line x1="2177.26" y1="585.97" x2="2154.74" y2="585.97" style="stroke:#000000;stroke-width:3.24"/>
+	<text x="2129.90" y="585.97" style="font-family:'Helvetica';font-size:45.05px;fill:#000000" transform="rotate(-90 2129.90,585.97)" text-anchor="middle">80</text>
+	<line x1="2177.26" y1="467.05" x2="2154.74" y2="467.05" style="stroke:#000000;stroke-width:3.24"/>
+	<text x="2129.90" y="467.05" style="font-family:'Helvetica';font-size:45.05px;fill:#000000" transform="rotate(-90 2129.90,467.05)" text-anchor="middle">100</text>
+	<text x="2079.28" y="736.21" style="font-family:'Helvetica';font-size:45.05px;fill:#000000" transform="rotate(-90 2079.28,736.21)" text-anchor="middle">Percentage</text>
+	<line x1="2177.26" y1="1061.93" x2="3792.32" y2="1061.93" style="stroke:#000000;stroke-width:3.24"/>
+	<text x="2471.49" y="1084.46" style="font-family:'Helvetica';font-size:45.05px;fill:#000000" transform="rotate(-90 2471.49,1084.46)" text-anchor="end">RUME</text>
+	<text x="3000.52" y="1084.46" style="font-family:'Helvetica';font-size:45.05px;fill:#000000" transform="rotate(-90 3000.52,1084.46)" text-anchor="end">NEEMSIS-1</text>
+	<text x="3529.68" y="1084.46" style="font-family:'Helvetica';font-size:45.05px;fill:#000000" transform="rotate(-90 3529.68,1084.46)" text-anchor="end">NEEMSIS-2</text>
+	<text x="2984.73" y="376.92" style="font-family:'Helvetica';font-size:78.70px;fill:#000000" text-anchor="middle">Data used</text>
+	<rect x="63.36" y="1465.00" width="3833.16" height="1257.09" style="fill:#FFFFFF"/>
+	<rect x="65.52" y="1467.16" width="3828.84" height="1252.77" style="fill:none;stroke:#FFFFFF;stroke-width:4.32"/>
+	<rect x="110.88" y="1512.52" width="1869.12" height="1162.05" style="fill:#FFFFFF"/>
+	<rect x="112.50" y="1514.14" width="1865.88" height="1158.81" style="fill:none;stroke:#FFFFFF;stroke-width:3.24"/>
+	<rect x="309.76" y="1669.08" width="1611.82" height="626.05" style="fill:none;stroke:#000000;stroke-width:3.24"/>
+	<line x1="308.14" y1="2296.75" x2="1923.20" y2="2296.75" style="stroke:#E0E0E0;stroke-width:4.86"/>
+	<line x1="308.14" y1="2153.56" x2="1923.20" y2="2153.56" style="stroke:#E0E0E0;stroke-width:4.86"/>
+	<line x1="308.14" y1="2010.38" x2="1923.20" y2="2010.38" style="stroke:#E0E0E0;stroke-width:4.86"/>
+	<line x1="308.14" y1="1867.32" x2="1923.20" y2="1867.32" style="stroke:#E0E0E0;stroke-width:4.86"/>
+	<rect x="395.63" y="1938.85" width="154.07" height="357.90" style="fill:#606060"/>
+	<rect x="397.25" y="1940.47" width="150.83" height="354.66" style="fill:none;stroke:#606060;stroke-width:3.24"/>
+	<rect x="652.90" y="1938.85" width="153.95" height="357.90" style="fill:#606060"/>
+	<rect x="654.52" y="1940.47" width="150.71" height="354.66" style="fill:none;stroke:#606060;stroke-width:3.24"/>
+	<rect x="910.06" y="1938.85" width="154.07" height="357.90" style="fill:#606060"/>
+	<rect x="911.68" y="1940.47" width="150.83" height="354.66" style="fill:none;stroke:#606060;stroke-width:3.24"/>
+	<rect x="1167.33" y="2117.80" width="153.94" height="178.95" style="fill:#606060"/>
+	<rect x="1168.95" y="2119.42" width="150.71" height="175.71" style="fill:none;stroke:#606060;stroke-width:3.24"/>
+	<rect x="1424.49" y="2117.80" width="154.07" height="178.95" style="fill:#606060"/>
+	<rect x="1426.11" y="2119.42" width="150.83" height="175.71" style="fill:none;stroke:#606060;stroke-width:3.24"/>
+	<rect x="1681.76" y="2117.80" width="153.94" height="178.95" style="fill:#606060"/>
+	<rect x="1683.38" y="2119.42" width="150.71" height="175.71" style="fill:none;stroke:#606060;stroke-width:3.24"/>
+	<line x1="308.14" y1="2296.75" x2="308.14" y2="1667.46" style="stroke:#000000;stroke-width:3.24"/>
+	<line x1="308.14" y1="2296.75" x2="285.62" y2="2296.75" style="stroke:#000000;stroke-width:3.24"/>
+	<text x="260.90" y="2296.75" style="font-family:'Helvetica';font-size:45.05px;fill:#000000" transform="rotate(-90 260.90,2296.75)" text-anchor="middle">0</text>
+	<line x1="308.14" y1="2153.56" x2="285.62" y2="2153.56" style="stroke:#000000;stroke-width:3.24"/>
+	<text x="260.90" y="2153.56" style="font-family:'Helvetica';font-size:45.05px;fill:#000000" transform="rotate(-90 260.90,2153.56)" text-anchor="middle">20</text>
+	<line x1="308.14" y1="2010.38" x2="285.62" y2="2010.38" style="stroke:#000000;stroke-width:3.24"/>
+	<text x="260.90" y="2010.38" style="font-family:'Helvetica';font-size:45.05px;fill:#000000" transform="rotate(-90 260.90,2010.38)" text-anchor="middle">40</text>
+	<line x1="308.14" y1="1867.32" x2="285.62" y2="1867.32" style="stroke:#000000;stroke-width:3.24"/>
+	<text x="260.90" y="1867.32" style="font-family:'Helvetica';font-size:45.05px;fill:#000000" transform="rotate(-90 260.90,1867.32)" text-anchor="middle">60</text>
+	<line x1="308.14" y1="1724.14" x2="285.62" y2="1724.14" style="stroke:#000000;stroke-width:3.24"/>
+	<text x="260.90" y="1724.14" style="font-family:'Helvetica';font-size:45.05px;fill:#000000" transform="rotate(-90 260.90,1724.14)" text-anchor="middle">80</text>
+	<text x="210.29" y="1982.04" style="font-family:'Helvetica';font-size:45.05px;fill:#000000" transform="rotate(-90 210.29,1982.04)" text-anchor="middle">Percentage</text>
+	<line x1="308.14" y1="2296.75" x2="1923.20" y2="2296.75" style="stroke:#000000;stroke-width:3.24"/>
+	<text x="488.52" y="2319.27" style="font-family:'Helvetica';font-size:45.05px;fill:#000000" transform="rotate(-90 488.52,2319.27)" text-anchor="end">Debt</text>
+	<text x="745.67" y="2319.27" style="font-family:'Helvetica';font-size:45.05px;fill:#000000" transform="rotate(-90 745.67,2319.27)" text-anchor="end">Income</text>
+	<text x="1002.95" y="2319.27" style="font-family:'Helvetica';font-size:45.05px;fill:#000000" transform="rotate(-90 1002.95,2319.27)" text-anchor="end">Inequality</text>
+	<text x="1260.10" y="2319.27" style="font-family:'Helvetica';font-size:45.05px;fill:#000000" transform="rotate(-90 1260.10,2319.27)" text-anchor="end">Consumption</text>
+	<text x="1517.26" y="2319.27" style="font-family:'Helvetica';font-size:45.05px;fill:#000000" transform="rotate(-90 1517.26,2319.27)" text-anchor="end">Employment</text>
+	<text x="1774.53" y="2319.27" style="font-family:'Helvetica';font-size:45.05px;fill:#000000" transform="rotate(-90 1774.53,2319.27)" text-anchor="end">Wealth</text>
+	<text x="1115.73" y="1634.01" style="font-family:'Helvetica';font-size:78.70px;fill:#000000" text-anchor="middle">Topics</text>
+	<rect x="1980.00" y="1512.52" width="1869.00" height="1162.05" style="fill:#FFFFFF"/>
+	<rect x="1981.62" y="1514.14" width="1865.76" height="1158.81" style="fill:none;stroke:#FFFFFF;stroke-width:3.24"/>
+	<rect x="2178.88" y="1669.08" width="1611.82" height="706.12" style="fill:none;stroke:#000000;stroke-width:3.24"/>
+	<line x1="2177.26" y1="2376.82" x2="3792.32" y2="2376.82" style="stroke:#E0E0E0;stroke-width:4.86"/>
+	<line x1="2177.26" y1="2246.26" x2="3792.32" y2="2246.26" style="stroke:#E0E0E0;stroke-width:4.86"/>
+	<line x1="2177.26" y1="2115.70" x2="3792.32" y2="2115.70" style="stroke:#E0E0E0;stroke-width:4.86"/>
+	<line x1="2177.26" y1="1985.14" x2="3792.32" y2="1985.14" style="stroke:#E0E0E0;stroke-width:4.86"/>
+	<rect x="2331.70" y="1724.14" width="489.18" height="652.68" style="fill:#606060"/>
+	<rect x="2333.32" y="1725.76" width="485.94" height="649.44" style="fill:none;stroke:#606060;stroke-width:3.24"/>
+	<rect x="3148.57" y="1887.25" width="489.18" height="489.57" style="fill:#606060"/>
+	<rect x="3150.19" y="1888.87" width="485.94" height="486.33" style="fill:none;stroke:#606060;stroke-width:3.24"/>
+	<line x1="2177.26" y1="2376.82" x2="2177.26" y2="1667.46" style="stroke:#000000;stroke-width:3.24"/>
+	<line x1="2177.26" y1="2376.82" x2="2154.74" y2="2376.82" style="stroke:#000000;stroke-width:3.24"/>
+	<text x="2129.90" y="2376.82" style="font-family:'Helvetica';font-size:45.05px;fill:#000000" transform="rotate(-90 2129.90,2376.82)" text-anchor="middle">0</text>
+	<line x1="2177.26" y1="2246.26" x2="2154.74" y2="2246.26" style="stroke:#000000;stroke-width:3.24"/>
+	<text x="2129.90" y="2246.26" style="font-family:'Helvetica';font-size:45.05px;fill:#000000" transform="rotate(-90 2129.90,2246.26)" text-anchor="middle">20</text>
+	<line x1="2177.26" y1="2115.70" x2="2154.74" y2="2115.70" style="stroke:#000000;stroke-width:3.24"/>
+	<text x="2129.90" y="2115.70" style="font-family:'Helvetica';font-size:45.05px;fill:#000000" transform="rotate(-90 2129.90,2115.70)" text-anchor="middle">40</text>
+	<line x1="2177.26" y1="1985.14" x2="2154.74" y2="1985.14" style="stroke:#000000;stroke-width:3.24"/>
+	<text x="2129.90" y="1985.14" style="font-family:'Helvetica';font-size:45.05px;fill:#000000" transform="rotate(-90 2129.90,1985.14)" text-anchor="middle">60</text>
+	<text x="2079.28" y="2022.14" style="font-family:'Helvetica';font-size:45.05px;fill:#000000" transform="rotate(-90 2079.28,2022.14)" text-anchor="middle">Percentage</text>
+	<line x1="2177.26" y1="2376.82" x2="3792.32" y2="2376.82" style="stroke:#000000;stroke-width:3.24"/>
+	<text x="2592.15" y="2399.34" style="font-family:'Helvetica';font-size:45.05px;fill:#000000" transform="rotate(-90 2592.15,2399.34)" text-anchor="end">Natal</text>
+	<text x="3409.02" y="2399.34" style="font-family:'Helvetica';font-size:45.05px;fill:#000000" transform="rotate(-90 3409.02,2399.34)" text-anchor="end">Nordman</text>
+	<text x="2984.73" y="1634.01" style="font-family:'Helvetica';font-size:78.70px;fill:#000000" text-anchor="middle">Authors</text>
+	<text x="80.69" y="2781.24" style="fill:#000000">
+		<tspan style="font-family:'Helvetica';font-style:italic;font-size:60.02px">Source:</tspan>
+		<tspan style="font-family:'Helvetica';font-size:60.02px"> A. Natal. Updated in October 2025.</tspan>
+	</text>
+	<text x="1979.88" y="157.51" style="font-family:'Helvetica';font-size:110.01px;fill:#000000" text-anchor="middle">Submitted papers (N=4)</text>
+</svg>
