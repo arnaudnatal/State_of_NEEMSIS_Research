@@ -48,7 +48,6 @@ These data collections are carried out within the framework of the <a href="http
 -->
 
 ---
----
 
 <h1 id="introduction">:+1: Introduction</h1>
 
@@ -121,7 +120,6 @@ Research papers are sometimes classified according to their type (journal, book,
 </table>
 
 ---
----
 
 <h1 id="data">:e-mail: Data request access</h1>
 
@@ -138,32 +136,23 @@ Data are freely available on [DataSuds](https://dataverse.ird.fr/dataverse/odrii
 \*\*Since January 2025, access to data requires that: (i) the applicant complete a data use agreement; (ii) the request be validated by the survey manager.
 
 ---
----
 
 <h1 id="alloutputs">:books: All outputs</h1>
 
 ![Type](https://raw.githubusercontent.com/arnaudnatal/State_of_NEEMSIS_Research/refs/heads/main/Stata_cmd/Stata_fig/A_type.svg)
 
 ---
----
 
 <h1 id="researchpapers">:green_book: Research papers</h1>
 
 ![Global](https://raw.githubusercontent.com/arnaudnatal/State_of_NEEMSIS_Research/refs/heads/main/Stata_cmd/Stata_fig/RP_global.svg)
 
----
-
 ![Origins](https://raw.githubusercontent.com/arnaudnatal/State_of_NEEMSIS_Research/refs/heads/main/Stata_cmd/Stata_fig/RP_origins.svg)
-
----
 
 ![Authors wave](https://raw.githubusercontent.com/arnaudnatal/State_of_NEEMSIS_Research/refs/heads/main/Stata_cmd/Stata_fig/RP_authorswave.svg)
 
----
-
 ![Topics wave](https://raw.githubusercontent.com/arnaudnatal/State_of_NEEMSIS_Research/refs/heads/main/Stata_cmd/Stata_fig/RP_topicswave.svg)
 
----
 ---
 
 <h1 id="publishedpapers">:closed_book: Published papers</h1>
@@ -171,15 +160,10 @@ Data are freely available on [DataSuds](https://dataverse.ird.fr/dataverse/odrii
 
 ![Global](https://raw.githubusercontent.com/arnaudnatal/State_of_NEEMSIS_Research/refs/heads/main/Stata_cmd/Stata_fig/PP_global.svg)
 
----
-
 ![Working papers](https://raw.githubusercontent.com/arnaudnatal/State_of_NEEMSIS_Research/refs/heads/main/Stata_cmd/Stata_fig/PP_wp.svg)
-
----
 
 ![Citations](https://raw.githubusercontent.com/arnaudnatal/State_of_NEEMSIS_Research/refs/heads/main/Stata_cmd/Stata_fig/PP_citations.svg)
 
----
 ---
 
 <h1 id="indetails">:blue_book: In details</h1>
@@ -190,22 +174,16 @@ Data are freely available on [DataSuds](https://dataverse.ird.fr/dataverse/odrii
 
 ![Dissertations](https://raw.githubusercontent.com/arnaudnatal/State_of_NEEMSIS_Research/refs/heads/main/Stata_cmd/Stata_fig/D_global.svg)
 
----
-
 ![Blogposts](https://raw.githubusercontent.com/arnaudnatal/State_of_NEEMSIS_Research/refs/heads/main/Stata_cmd/Stata_fig/BP_global.svg)
 
----
 ---
 
 <h1 id="upcomingpapers">:orange_book: Upcoming papers</h1>
 
 ![Submitted](https://raw.githubusercontent.com/arnaudnatal/State_of_NEEMSIS_Research/refs/heads/main/Stata_cmd/Stata_fig/SU_global.svg)
 
----
-
 ![Ongoing](https://raw.githubusercontent.com/arnaudnatal/State_of_NEEMSIS_Research/refs/heads/main/Stata_cmd/Stata_fig/OG_global.svg)
 
----
 ---
 
 <h1 id="projects">:memo: Projects</h1>
@@ -228,8 +206,7 @@ Data are freely available on [DataSuds](https://dataverse.ird.fr/dataverse/odrii
 - Household Indebtedness Landscape: Evolution between 2010 and 2025
   > Using RUME to NEEMSIS-3, Natal (corresponding author) wants to conduct a loan-level MCA to look at the transformation of debt practices since 2010. Try to extract household-level variables to do econometrics and look at the determinants of financial vulnerability.
 <ins>Collaboration:</ins> Guérin, Michiels?
-  
----
+
 ---
 
 <h1 id="conclusion">:wave: Conclusion</h1>
@@ -250,7 +227,6 @@ Topics such as **Agriculture**, **Migration**, and **Education** have been under
 </tr>
 </table>
 
----
 ---
 
 <h1 id="bibliography">:round_pushpin: Bibliography</h1>
@@ -320,7 +296,6 @@ Topics such as **Agriculture**, **Migration**, and **Education** have been under
 - Natal, A., & Nordman, C. J. (2025). *She Works Hard for the Money: Debt Burden and Labour Supply in India*.
 - Natal, A., & Nordman, C. J. (2025). *Unveiling Inequalities in Rural South India: A Decade of Household Income and Wealth Imbalances*.
 
----
 ---
 
 <h1 id="appendix">:page_facing_up: Appendix</h1>
