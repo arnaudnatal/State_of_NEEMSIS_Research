@@ -38,15 +38,17 @@ These data collections are carried out within the framework of the <a href="http
 <details open="open">
 <summary>Table of Contents</summary>
 
-- [Introduction](#introduction)
-- [Data access request](#data)
-- [All outputs](#alloutputs)
-- [Research papers](#researchpapers)
-- [In details](#indetails)
-- [Upcoming papers](#upcomingpapers)
-- [Conclusion](#conclusion)
-- [Bibliography](#bibliography)
-- [Appendix](#appendix)
+- [:+1: Introduction](#introduction)
+- [:e-mail: Data access request](#data)
+- [:books: All outputs](#alloutputs)
+- [:green_book: Research papers](#researchpapers)
+- [:closed_book: Published papers](#publishedpapers)
+- [:blue_book: In details](#indetails)
+- [:orange_book: Upcoming papers](#upcomingpapers)
+- [:memo: Projects](#projects)
+- [:wave: Conclusion](#conclusion)
+- [:round_pushpin: Bibliography](#bibliography)
+- [:page_facing_up: Appendix](#appendix)
 
 
 </details>
