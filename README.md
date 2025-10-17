@@ -80,11 +80,11 @@ For further details on the NEEMSIS longitudinal survey, see the dedicated [websi
 </a></p>
 
 See also:
-- The article presenting the data.
+1. The article presenting the data.
   > Nordman, C. J., Venkatasubramanian, G., Guérin, I., Natal, A., Mouchel, C., Michiels, S., & Di Santolo, M. (2025). Networks, Employment, Debt, Mobilities, and Skills in India Survey (NEEMSIS): Presentation of a longitudinal data collection tool. *Population, 80*(1), 79–93. https://doi.org/10.3917/popu.2501.0079
-- The article presenting the trends observed in the data between 2010 and 2020-2021.
+1. The article presenting the trends observed in the data between 2010 and 2020-2021.
   > Di Santolo, M., Guérin, I., Michiels, S., Mouchel, C., Natal, A., Nordman, C. J., & Venkatasubramanian, G. (2024). A Decade in Rural Tamil Nadu: Socio-Economic, Labour and Migration Trends from an Original Longitudinal Household Survey. *Economic & Political Weekly, 59*(43), 62–71.
-- The [video presentation](https://www.youtube.com/watch?v=b68yu1CTW0U) of the survey :movie_camera:.
+1. The [video presentation](https://www.youtube.com/watch?v=b68yu1CTW0U) of the survey :movie_camera:.
 
 
 ## :pencil: Framework
@@ -157,7 +157,6 @@ Data are freely available on [DataSuds](https://dataverse.ird.fr/dataverse/odrii
 
 <h1 id="publishedpapers">:closed_book: Published papers</h1>
 
-
 ![Global](https://raw.githubusercontent.com/arnaudnatal/State_of_NEEMSIS_Research/refs/heads/main/Stata_cmd/Stata_fig/PP_global.svg)
 
 ![Working papers](https://raw.githubusercontent.com/arnaudnatal/State_of_NEEMSIS_Research/refs/heads/main/Stata_cmd/Stata_fig/PP_wp.svg)
@@ -169,8 +168,6 @@ Data are freely available on [DataSuds](https://dataverse.ird.fr/dataverse/odrii
 <h1 id="indetails">:blue_book: In details</h1>
 
 ![Journals](https://raw.githubusercontent.com/arnaudnatal/State_of_NEEMSIS_Research/refs/heads/main/Stata_cmd/Stata_fig/J_global.svg)
-
----
 
 ![Dissertations](https://raw.githubusercontent.com/arnaudnatal/State_of_NEEMSIS_Research/refs/heads/main/Stata_cmd/Stata_fig/D_global.svg)
 
