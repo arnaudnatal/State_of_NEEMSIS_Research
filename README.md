@@ -14,10 +14,18 @@
 
 <details>
 <summary> <h3> Table of contents </h3> </summary>
-- [Introduction](#introduction)
-- [Data request access](#data)
-- [Introduction](#introduction)
-- [Introduction](#introduction)
+
+- :+1: [Introduction](#introduction)
+- :e-mail: [Data request access](#data)
+- :books: [All outputs](#alloutputs)
+- :green_book: [Research papers](#researchpapers)
+- :closed_book: [Published papers](#publishedpapers)
+- :blue_book: [In details](#indetails)
+- :orange_book: [Upcoming papers](#upcomingpapers)
+- :memo: [Projects](#projects)
+- :wave: [Conclusion](#conclusion)  
+- :round_pushpin: [Bibliography](#bibliography)
+- :page_facing_up: [Appendix](#appendix)
 
 </details>
 
