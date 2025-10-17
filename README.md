@@ -55,7 +55,7 @@ These data collections are carried out within the framework of the <a href="http
 
 <h1 id="introduction">Introduction</h1>
 
-## Study area
+## :earth_asia: Study area
 
 The NEEMSIS originally takes place in 10 villages in Tamil Nadu, India, located in the Cuddalore and Kallakurichi (ex Viluppuram) districts: Manappakam, Semakottai, Manamthavizhthaputhur, Natham, Korattore, Karumbur, Oraiyur, Govulapuram, Elamthampattu, and Kuvagam.
 
@@ -140,12 +140,12 @@ Data are freely available on [DataSuds](https://dataverse.ird.fr/dataverse/odrii
 
 
 
-<h1 id="alloutputs">All outputs</h1>
+<h1 id="alloutputs">:books: All outputs</h1>
 
 ![Type](https://raw.githubusercontent.com/arnaudnatal/State_of_NEEMSIS_Research/refs/heads/main/Stata_cmd/Stata_fig/A_type.svg)
 
 
-<h1 id="researchpapers">Research papers</h1>
+<h1 id="researchpapers">:green_book: Research papers</h1>
 
 ![Global](https://raw.githubusercontent.com/arnaudnatal/State_of_NEEMSIS_Research/refs/heads/main/Stata_cmd/Stata_fig/RP_global.svg)
 
@@ -162,7 +162,7 @@ Data are freely available on [DataSuds](https://dataverse.ird.fr/dataverse/odrii
 ![Topics wave](https://raw.githubusercontent.com/arnaudnatal/State_of_NEEMSIS_Research/refs/heads/main/Stata_cmd/Stata_fig/RP_topicswave.svg)
 
 
-<h1 id="publishedpapers">Published papers</h1>
+<h1 id="publishedpapers">:closed_book: Published papers</h1>
 
 
 ![Global](https://raw.githubusercontent.com/arnaudnatal/State_of_NEEMSIS_Research/refs/heads/main/Stata_cmd/Stata_fig/PP_global.svg)
@@ -175,7 +175,7 @@ Data are freely available on [DataSuds](https://dataverse.ird.fr/dataverse/odrii
 
 ![Citations](https://raw.githubusercontent.com/arnaudnatal/State_of_NEEMSIS_Research/refs/heads/main/Stata_cmd/Stata_fig/PP_citations.svg)
 
-<h1 id="indetails">In details</h1>
+<h1 id="indetails">:blue_book: In details</h1>
 
 ## Journals
 
@@ -191,7 +191,7 @@ Data are freely available on [DataSuds](https://dataverse.ird.fr/dataverse/odrii
 ![Blogposts](https://raw.githubusercontent.com/arnaudnatal/State_of_NEEMSIS_Research/refs/heads/main/Stata_cmd/Stata_fig/BP_global.svg)
 
 
-<h1 id="upcomingpapers">Upcoming papers</h1>
+<h1 id="upcomingpapers">:orange_book: Upcoming papers</h1>
 
 ## Submitted
 
@@ -203,7 +203,7 @@ Data are freely available on [DataSuds](https://dataverse.ird.fr/dataverse/odrii
 ![Ongoing](https://raw.githubusercontent.com/arnaudnatal/State_of_NEEMSIS_Research/refs/heads/main/Stata_cmd/Stata_fig/OG_global.svg)
 
 
-## Projects
+## :memo: Projects
 
 - The curse of having a job. Threats on female employment in a context of rising patriarcal norms
    > Using NEEMSIS-2, Di Santolo, Guérin, and Mouchel (corresponding author).
