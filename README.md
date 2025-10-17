@@ -1,3 +1,4 @@
+<center>
 <a href="https://neemsis.hypotheses.org/">
 <img src="https://raw.githubusercontent.com/arnaudnatal/State_of_NEEMSIS_Research/refs/heads/main/Data/img/NEEMSIS_banner.png" alt="Banner" width="100%">
 </a>
@@ -9,6 +10,8 @@
 :raising_hand: Arnaud Natal
 
 *October 2025*
+
+</center>
 
 <table>
 <tr>
