@@ -39,7 +39,9 @@ These data collections are carried out within the framework of the <a href="http
 
 The NEEMSIS originally takes place in 10 villages in Tamil Nadu, India, located in the Cuddalore and Kallakurichi (ex Viluppuram) districts: Manappakam, Semakottai, Manamthavizhthaputhur, Natham, Korattore, Karumbur, Oraiyur, Govulapuram, Elamthampattu, and Kuvagam.
 
+<div align="center">
 <img src="https://raw.githubusercontent.com/arnaudnatal/State_of_NEEMSIS_Research/refs/heads/main/Data/img/RUME-NEEMSIS.png" alt="Survey area" width="400">
+</div>
 
 ## :construction_worker: Core teams
 
@@ -73,7 +75,9 @@ See also:
 
 ## :pencil: Framework
 
+<div align="center">
 <img src="https://raw.githubusercontent.com/arnaudnatal/State_of_NEEMSIS_Research/refs/heads/main/Data/img/framework.png" alt="Framework" width="400">
+</div>
 
 > All of the above terms are defined in the [appendix](https://github.com/arnaudnatal/State_of_NEEMSIS_Research/blob/main/README.md#appendix).
 
@@ -109,11 +113,15 @@ Research papers are sometimes classified according to their type (journal, book,
 
 Data are freely available on [DataSuds](https://dataverse.ird.fr/dataverse/odriis).
 
+<div align="center">
+
 |Data\*    | Before 2025   | Since 2025\*\*|
 |----------|---------------|---------------|
 |RUME      | 7             | 0             |
 |NEEMSIS-1 | 5             | 1             |
 |NEEMSIS-2 | 0             | 3             |
+
+</div>
 
 \*Household data is the master database. Other shared databases (e.g., loans, occupations, etc.) must always be associated with the household database. That is why only requests for household bases are reported here.
 
@@ -123,11 +131,17 @@ Data are freely available on [DataSuds](https://dataverse.ird.fr/dataverse/odrii
 
 <h1 id="alloutputs">:books: All outputs</h1>
 
+<div align="center">
+
 ![Type](https://raw.githubusercontent.com/arnaudnatal/State_of_NEEMSIS_Research/refs/heads/main/Stata_cmd/Stata_fig/A_type.svg)
+
+</div>
 
 ---
 
 <h1 id="researchpapers">:green_book: Research papers</h1>
+
+<div align="center">
 
 ![Global](https://raw.githubusercontent.com/arnaudnatal/State_of_NEEMSIS_Research/refs/heads/main/Stata_cmd/Stata_fig/RP_global.svg)
 
@@ -137,9 +151,13 @@ Data are freely available on [DataSuds](https://dataverse.ird.fr/dataverse/odrii
 
 ![Topics wave](https://raw.githubusercontent.com/arnaudnatal/State_of_NEEMSIS_Research/refs/heads/main/Stata_cmd/Stata_fig/RP_topicswave.svg)
 
+</div>
+
 ---
 
 <h1 id="publishedpapers">:closed_book: Published papers</h1>
+
+<div align="center">
 
 ![Global](https://raw.githubusercontent.com/arnaudnatal/State_of_NEEMSIS_Research/refs/heads/main/Stata_cmd/Stata_fig/PP_global.svg)
 
@@ -147,9 +165,13 @@ Data are freely available on [DataSuds](https://dataverse.ird.fr/dataverse/odrii
 
 ![Citations](https://raw.githubusercontent.com/arnaudnatal/State_of_NEEMSIS_Research/refs/heads/main/Stata_cmd/Stata_fig/PP_citations.svg)
 
+</div>
+
 ---
 
 <h1 id="indetails">:blue_book: In details</h1>
+
+<div align="center">
 
 ![Journals](https://raw.githubusercontent.com/arnaudnatal/State_of_NEEMSIS_Research/refs/heads/main/Stata_cmd/Stata_fig/J_global.svg)
 
@@ -157,13 +179,19 @@ Data are freely available on [DataSuds](https://dataverse.ird.fr/dataverse/odrii
 
 ![Blogposts](https://raw.githubusercontent.com/arnaudnatal/State_of_NEEMSIS_Research/refs/heads/main/Stata_cmd/Stata_fig/BP_global.svg)
 
+</div>
+
 ---
 
 <h1 id="upcomingpapers">:orange_book: Upcoming papers</h1>
 
+<div align="center">
+
 ![Submitted](https://raw.githubusercontent.com/arnaudnatal/State_of_NEEMSIS_Research/refs/heads/main/Stata_cmd/Stata_fig/SU_global.svg)
 
 ![Ongoing](https://raw.githubusercontent.com/arnaudnatal/State_of_NEEMSIS_Research/refs/heads/main/Stata_cmd/Stata_fig/OG_global.svg)
+
+</div>
 
 ---
 
