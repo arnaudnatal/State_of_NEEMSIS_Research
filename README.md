@@ -60,7 +60,7 @@ The NEEMSIS originally takes place in 10 villages in Tamil Nadu, India, located 
 
 For further details on the NEEMSIS longitudinal survey, see the dedicated [website](https://neemsis.hypotheses.org/).
 <p><a href="https://neemsis.hypotheses.org/">
-<img src="https://raw.githubusercontent.com/arnaudnatal/State_of_NEEMSIS_Research/refs/heads/main/Data/img/website.png" alt="https://neemsis.hypotheses.org/" width="600">
+<img src="https://raw.githubusercontent.com/arnaudnatal/State_of_NEEMSIS_Research/refs/heads/main/Data/img/website.png" alt="https://neemsis.hypotheses.org/" width="400">
 </a></p>
 
 See also:
