@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://neemsis.hypotheses.org/">
-    <img src="https://github.com/arnaudnatal/State_of_NEEMSIS_Research/blob/main/Data/img/neemsis.png" alt="Logo" width="125" height="125">
+    <img src="https://raw.githubusercontent.com/arnaudnatal/State_of_NEEMSIS_Research/refs/heads/main/Data/img/NEEMSIS_banner.png" alt="Banner" width="100%">
   </a>
 </h1>
 
