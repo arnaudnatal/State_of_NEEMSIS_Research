@@ -61,7 +61,7 @@ The NEEMSIS originally takes place in 10 villages in Tamil Nadu, India, located 
 
 <img src="https://github.com/arnaudnatal/State_of_NEEMSIS_Research/blob/main/Data/img/RUME-NEEMSIS.png" alt="Survey area" width="600">
 
-## Core teams
+## :family: Core teams
 
 | RUME                  | NEEMSIS-1                | NEEMSIS-2                | NEEMSIS-3                |
 | --------------------- | ------------------------ | ------------------------ | ------------------------ |
