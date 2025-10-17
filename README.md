@@ -215,23 +215,26 @@ Data are freely available on [DataSuds](https://dataverse.ird.fr/dataverse/odrii
 ## Projects
 
 - **The curse of having a job. Threats on female employment in a context of rising patriarcal norms**. Using NEEMSIS-2, Di Santolo, Guérin, and Mouchel (corresponding author).
-
 - **Intra-household inequality and recourse to debt**. Using NEEMSIS-3, Di Santolo and Natal (corresponding author) want to study the effects of intra-household inequalities in consumption and income on household/individual debt (recourse, burden).
-
 - **The Ties That Bind: Lender-Borrower Relationships and Indebtedness in Rural South India**. Using NEEMSIS-2, Girollet and Natal (corresponding author) want to study the effects of lender-borrower relationships on loan characteristics (price, repayment difficulties, services associated with loans).
-
 - **The Role of Networks in Labor Market Segmentation**. Using NEEMSIS-2, Mouchel (corresponding author) wants to.
-
 - **The Financial Burden of Education in Rural South India**. Using NEEMSIS-3, Natal (corresponding author) wants to study the financialisation/commodification of education: How much does education cost? How do families finance it? What are the effects on family debt? What are the effects in terms of well-being?
 <ins>Collaboration:</ins> Guérin, Nordman
-
 - **Stability Over Time of the Locus of Control**. Using NEEMSIS-2 and NEEMSIS-3, in a short paper, Natal (corresponding author) wants to examine the stability of the locus of control over time. Conduct regressions to examine the explanatory factors of change. Possibly conduct a PSM with the effects of COVID.
 <ins>Collaboration:</ins> Nordman
-
 - **Household Indebtedness Landscape: Evolution between 2010 and 2025**. Using RUME to NEEMSIS-3, Natal (corresponding author) wants to conduct a loan-level MCA to look at the transformation of debt practices since 2010. Try to extract household-level variables to do econometrics and look at the determinants of financial vulnerability.
 <ins>Collaboration:</ins> Guérin, Michiels?
   
 
 # Conclusion
+
+- Few researchers have requested access to the data.
+- 46 ouputs were produced, including 16 journal articles, 1 book and 6 dissertations.
+- Debt is the most common topic (60\% of the papers), then employment (30%), and gender (25%).
+- All published papers using RUME and NEEMSIS data account for 430 citations.
+- 5 papers are currently submitted, 4 are ongoing and 7 are in project.
+
+> Topics such as **Agriculture**, **Migration**, and **Education** have been understudied and <ins>should be studied in the future</ins>.
+
 
 # Bibliography
