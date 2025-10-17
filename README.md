@@ -245,7 +245,7 @@ Data are freely available on [DataSuds](https://dataverse.ird.fr/dataverse/odrii
 - All published papers using RUME and NEEMSIS data account for 430 citations.
 - 5 papers are currently submitted, 4 are ongoing and 7 are in project.
 
-> Topics such as **Agriculture**, **Migration**, and **Education** have been understudied and <ins>should be studied in the future</ins>.
+Topics such as **Agriculture**, **Migration**, and **Education** have been understudied and <ins>should be studied in the future</ins>.
 
 </td>
 </tr>
@@ -309,6 +309,7 @@ Data are freely available on [DataSuds](https://dataverse.ird.fr/dataverse/odrii
 - Guérin, I., & Nordman, C. J. (2017). *Le choc de la démonétisation indienne : Les réseaux interpersonnels constituent-ils un filet de protection pour tous ?* DIALOGUE.
 - Nordman, C. J. (2017). *Skills, Status, and Social Networks: New Research from South India*. SurveyCTO.
 
+
 ## Submitted
 
 - Natal, A. (2025). *Tangled Up in Debt: Household Debt Trap and Its Effects on Spending in Rural India*.
@@ -316,3 +317,20 @@ Data are freely available on [DataSuds](https://dataverse.ird.fr/dataverse/odrii
 - Natal, A., & Nordman, C. J. (2025). *Inégalités et mobilité de revenu dans des villages indiens : Résultats issus d’une micro-enquête longitudinale (2010 - 2020)*.
 - Natal, A., & Nordman, C. J. (2025). *She Works Hard for the Money: Debt Burden and Labour Supply in India*.
 - Natal, A., & Nordman, C. J. (2025). *Unveiling Inequalities in Rural South India: A Decade of Household Income and Wealth Imbalances*.
+
+
+# Appendix
+
+- **Journal articles:** Articles published in journals.
+- **Book chapters:** Articles published in books.
+- **Books:** Published books.
+- **Working papers (WP):** Completed articles that remained at the working paper stage (not published in journals or books).
+- **Dissertations:** Doctoral thesis manuscript.
+- ** Policy briefs:** Concise summary of a particular issue, the policy options to deal with it, and some recommendations on the best option.
+- **Blog posts:** Short popular science article posted on blogs.
+- **All outputs:** All writings produced that mobilise data.
+- **Research papers:** All papers that use data. Excluded are policy briefs, blog posts, dissertations, and project articles. However, submitted and ongoing articles are included.
+- **Published papers:** Includes journal articles, book chapters, and published books that have undergone a peer-review process.
+- **Submitted:** Articles that are currently submitted to academic journals.
+- **Ongoing:** Articles that are being finalized (analysis is done and most of the writing is done). They have not yet been submitted.
+- **Projects:** Articles whose authors have a clear idea of the analyses they want to conduct. Writing may have begun. This is the stage that precedes the “ongoing” status.
