@@ -3,12 +3,12 @@
 <a href="https://neemsis.hypotheses.org/"><img src="https://raw.githubusercontent.com/arnaudnatal/State_of_NEEMSIS_Research/refs/heads/main/Data/img/header.png" alt="Banner" width="100%"></a>
 
 <h1>
-📌 State of <a href="https://neemsis.hypotheses.org/"><img src="https://raw.githubusercontent.com/arnaudnatal/State_of_NEEMSIS_Research/refs/heads/main/Data/img/neemsis.png" alt="NEEMSIS" height="50"></a> Research
+:pushpin: State of <a href="https://neemsis.hypotheses.org/"><img src="https://raw.githubusercontent.com/arnaudnatal/State_of_NEEMSIS_Research/refs/heads/main/Data/img/neemsis.png" alt="NEEMSIS" height="50"></a> Research
 </h1>
 
-🙋‍♂️ **Arnaud Natal**[^1] 
+:raising_and: **Arnaud Natal**[^1] 
 
-📅 Updated in October 2025
+:date: Updated in October 2025
 
 </div>
 
@@ -18,9 +18,9 @@
 <tr>
 <td>
 
-<h3 id="foreword">💬 Foreword</h3>
+<h3 id="foreword">:speech_balloon: Foreword</h3>
 
-This document provides an overview of the research undertaken using the original <a href="https://neemsis.hypotheses.org"><i>Network, Employment, dEbt, Mobility, and Skills in South India Survey</i></a> (NEEMSIS) 📊. 
+This document provides an overview of the research undertaken using the original <a href="https://neemsis.hypotheses.org"><i>Network, Employment, dEbt, Mobility, and Skills in South India Survey</i></a> (NEEMSIS) :bar_chart:. 
 
 NEEMSIS is a longitudinal data collection tool that aims at understanding the links between labour, skills, financial practices, social and migration dynamics and social networks formation in rural Tamil Nadu, India, through individual and household surveys.
 NEEMSIS is based on the baseline survey RUME (<a href="https://odriis.hypotheses.org/rume"><i>RUral Microfinance and Employment</i></a>) conducted in 2010.
@@ -33,11 +33,31 @@ These data collections are carried out within the framework of the <a href="http
 </tr>
 </table>
 
+
+
+<details>
+
+<summary> <h3> Table of contents </h3> </summary>
+
+- :+1: [Introduction](#introduction) (study area, core teams, resources, framework, overview)
+- :e-mail: [Data request access](#data) 
+- :books: [All outputs](#alloutputs)
+- :green_book: [Research papers](#researchpapers) (topics, authors, status)
+- :closed_book: [Published papers](#publishedpapers) (topics, authors, citations)
+- :blue_book: [In details](#indetails) (journals, dissertations, blog posts)
+- :orange_book: [Upcoming papers](#upcomingpapers) (submitted, ongoing)
+- :memo: [Projects](#projects)
+- :wave: [Conclusion](#conclusion)  
+- :round_pushpin: [Bibliography](#bibliography)
+- :page_facing_up: [Appendix](#appendix)
+
+</details>
+
 ---
 
-<h1 id="introduction">👍 Introduction</h1>
+<h1 id="introduction">:+1: Introduction</h1>
 
-## 🌏 Study area
+## :earth_asia: Study area
 
 The NEEMSIS originally takes place in 10 villages in Tamil Nadu, India, located in the Cuddalore and Kallakurichi (ex Viluppuram) districts: Manappakam, Semakottai, Manamthavizhthaputhur, Natham, Korattore, Karumbur, Oraiyur, Govulapuram, Elamthampattu, and Kuvagam.
 
@@ -45,7 +65,7 @@ The NEEMSIS originally takes place in 10 villages in Tamil Nadu, India, located 
 <img src="https://raw.githubusercontent.com/arnaudnatal/State_of_NEEMSIS_Research/refs/heads/main/Data/img/RUME-NEEMSIS.png" alt="Survey area" width="400">
 </div>
 
-## 👷 Core teams
+## :construction_worker: Core teams
 
 <div align="center">
 
@@ -64,7 +84,7 @@ The NEEMSIS originally takes place in 10 villages in Tamil Nadu, India, located 
 </div>
 
 
-## 📁 Resources
+## :file_folder: Resources
 
 For further details on the NEEMSIS longitudinal survey, see the dedicated [website](https://neemsis.hypotheses.org/).
 
@@ -80,10 +100,10 @@ See also:
   > Nordman, C. J., Venkatasubramanian, G., Guérin, I., Natal, A., Mouchel, C., Michiels, S., & Di Santolo, M. (2025). Networks, Employment, Debt, Mobilities, and Skills in India Survey (NEEMSIS): Presentation of a longitudinal data collection tool. *Population, 80*(1), 79–93. https://doi.org/10.3917/popu.2501.0079
 - The article presenting the trends observed in the data between 2010 and 2020-2021.
   > Di Santolo, M., Guérin, I., Michiels, S., Mouchel, C., Natal, A., Nordman, C. J., & Venkatasubramanian, G. (2024). A Decade in Rural Tamil Nadu: Socio-Economic, Labour and Migration Trends from an Original Longitudinal Household Survey. *Economic & Political Weekly, 59*(43), 62–71.
-- The [video presentation](https://www.youtube.com/watch?v=b68yu1CTW0U) of the survey 🎥.
+- The [video presentation](https://www.youtube.com/watch?v=b68yu1CTW0U) of the survey :movie_camera:.
 
 
-## 🔲 Framework
+## :black_square_button: Framework
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/arnaudnatal/State_of_NEEMSIS_Research/refs/heads/main/Data/img/framework.png" alt="Framework" width="400">
@@ -97,7 +117,7 @@ Research papers are sometimes classified according to their type (journal, book,
 
 
 
-## 🔥 A brief overview
+## :fire: A brief overview
 
 <table>
 <tr>
@@ -119,7 +139,7 @@ Research papers are sometimes classified according to their type (journal, book,
 
 ---
 
-<h1 id="data">📧 Data request access</h1>
+<h1 id="data">:e-mail: Data request access</h1>
 
 Data are freely available on [DataSuds](https://dataverse.ird.fr/dataverse/odriis).
 
@@ -139,7 +159,7 @@ Data are freely available on [DataSuds](https://dataverse.ird.fr/dataverse/odrii
 
 ---
 
-<h1 id="alloutputs">📚 All outputs</h1>
+<h1 id="alloutputs">:books: All outputs</h1>
 
 <div align="center">
 
@@ -149,7 +169,7 @@ Data are freely available on [DataSuds](https://dataverse.ird.fr/dataverse/odrii
 
 ---
 
-<h1 id="researchpapers">📗 Research papers</h1>
+<h1 id="researchpapers">:green_book: Research papers</h1>
 
 <div align="center">
 
@@ -165,7 +185,7 @@ Data are freely available on [DataSuds](https://dataverse.ird.fr/dataverse/odrii
 
 ---
 
-<h1 id="publishedpapers">📕 Published papers</h1>
+<h1 id="publishedpapers">:closed_book: Published papers</h1>
 
 <div align="center">
 
@@ -179,7 +199,7 @@ Data are freely available on [DataSuds](https://dataverse.ird.fr/dataverse/odrii
 
 ---
 
-<h1 id="indetails">📘 In details</h1>
+<h1 id="indetails">:blue_book: In details</h1>
 
 <div align="center">
 
@@ -193,7 +213,7 @@ Data are freely available on [DataSuds](https://dataverse.ird.fr/dataverse/odrii
 
 ---
 
-<h1 id="upcomingpapers">📙 Upcoming papers</h1>
+<h1 id="upcomingpapers">:orange_book: Upcoming papers</h1>
 
 <div align="center">
 
@@ -205,7 +225,7 @@ Data are freely available on [DataSuds](https://dataverse.ird.fr/dataverse/odrii
 
 ---
 
-<h1 id="projects">📝 Projects</h1>
+<h1 id="projects">:memo: Projects</h1>
 
 
 - The curse of having a job. Threats on female employment in a context of rising patriarcal norms
@@ -228,7 +248,7 @@ Data are freely available on [DataSuds](https://dataverse.ird.fr/dataverse/odrii
 
 ---
 
-<h1 id="conclusion">👋 Conclusion</h1>
+<h1 id="conclusion">:wave: Conclusion</h1>
 
 <table>
 <tr>
@@ -249,7 +269,7 @@ Topics such as **Agriculture**, **Migration**, and **Education** have been under
 
 ---
 
-<h1 id="bibliography">📍 Bibliography</h1>
+<h1 id="bibliography">:round_pushpin: Bibliography</h1>
 
 > The bibliography in `.bib` format is available [here](https://raw.githubusercontent.com/arnaudnatal/State_of_NEEMSIS_Research/refs/heads/main/Data/NEEMSIS.bib).
 
@@ -318,7 +338,7 @@ Topics such as **Agriculture**, **Migration**, and **Education** have been under
 
 ---
 
-<h1 id="appendix">📄 Appendix</h1>
+<h1 id="appendix">:page_facing_up: Appendix</h1>
 
 > - **Journal articles:** Articles published in journals.
 > - **Book chapters:** Articles published in books.
