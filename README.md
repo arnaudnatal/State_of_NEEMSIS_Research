@@ -15,15 +15,31 @@ Arnaud Natal
 *October 2025*
 </div>
 
-```sh
-Natal, A. (2025). State of NEEMSIS Research. Pondicherry: ODRIIS.
-```
+
+# Foreword
+
+<table>
+<tr>
+<td>
+
+This document provides an overview of the research undertaken using the original <a href="https://neemsis.hypotheses.org"><i>Network, Employment, dEbt, Mobility, and Skills in South India Survey</i></a> (NEEMSIS).
+
+NEEMSIS is a longitudinal data collection tool that aims at understanding the links between labour, skills, financial practices, social and migration dynamics and social networks formation in rural Tamil Nadu, India, through individual and household surveys.
+NEEMSIS is based on the baseline survey RUME (<a href="https://odriis.hypotheses.org/rume"><i>RUral Microfinance and Employment</i></a>) conducted in 2010.
+NEEMSIS has so far been conducted in 2016–2017 and 2020–2021 among more than 600 households.
+A third wave of NEEMSIS is planned for 2025-2026 (which will constitute a panel with four points in time between 2010 and 2025-2026).
+
+These data collections are carried out within the framework of the <a href="https://odriis.hypotheses.org/"><i>Observatory of Rural Dynamics and Inequalities in South India</i></a> (ODRIIS).
+
+</td>
+</tr>
+</table>
+
 
 
 <details open="open">
 <summary>Table of Contents</summary>
 
-- [Foreword](#foreword)
 - [Introduction](#introduction)
   - [Study area](#studyarea)
   - [Core teams](#coreteams)
@@ -47,26 +63,6 @@ Natal, A. (2025). State of NEEMSIS Research. Pondicherry: ODRIIS.
 </details>
 
 ---
-
-# Foreword
-
-<table>
-<tr>
-<td>
-
-This document provides an overview of the research undertaken using the original <a href="https://neemsis.hypotheses.org"><i>Network, Employment, dEbt, Mobility, and Skills in South India Survey</i></a> (NEEMSIS).
-
-NEEMSIS is a longitudinal data collection tool that aims at understanding the links between labour, skills, financial practices, social and migration dynamics and social networks formation in rural Tamil Nadu, India, through individual and household surveys.
-NEEMSIS is based on the baseline survey RUME (<a href="https://odriis.hypotheses.org/rume"><i>RUral Microfinance and Employment</i></a>) conducted in 2010.
-NEEMSIS has so far been conducted in 2016–2017 and 2020–2021 among more than 600 households.
-A third wave of NEEMSIS is planned for 2025-2026 (which will constitute a panel with four points in time between 2010 and 2025-2026).
-
-These data collections are carried out within the framework of the <a href="https://odriis.hypotheses.org/"><i>Observatory of Rural Dynamics and Inequalities in South India</i></a> (ODRIIS).
-
-</td>
-</tr>
-</table>
-
 
 
 # Introduction
