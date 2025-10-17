@@ -12,6 +12,10 @@
 
 > [^1]: I am [Arnaud Natal](https://arnaudnatal.github.io/) an independent research in economics affiliated with the Economics department of the University of Bordeaux in France and the French Institute of Pondicherry in India. I obtained my PhD in economics from the University of Bordeaux in December 2023. I take part in the activities of the ODRIIS, in particular by actively participating in all stages of the collection of longitudinal NEEMSIS household data. Feel free to contact me at: [arnaud.natal@ifpindia.org](mailto:arnaud.natal@ifpindia.org).
 
+<table>
+<tr>
+<td>
+
 <details>
 <summary> <h3> Table of contents </h3> </summary>
 
@@ -29,12 +33,13 @@
 
 </details>
 
+</td>
+</tr>
+</table>
 
-<table>
-<tr>
-<td>
-  
-### :speech_balloon: Foreword
+
+<h1 id="foreword">:speech_balloon: Foreword</h1>
+
 This document provides an overview of the research undertaken using the original <a href="https://neemsis.hypotheses.org"><i>Network, Employment, dEbt, Mobility, and Skills in South India Survey</i></a> (NEEMSIS).
 
 NEEMSIS is a longitudinal data collection tool that aims at understanding the links between labour, skills, financial practices, social and migration dynamics and social networks formation in rural Tamil Nadu, India, through individual and household surveys.
@@ -43,11 +48,6 @@ NEEMSIS has so far been conducted in 2016–2017 and 2020–2021 among more than
 A third wave of NEEMSIS is planned for 2025-2026 (which will constitute a panel with four points in time between 2010 and 2025-2026).
 
 These data collections are carried out within the framework of the <a href="https://odriis.hypotheses.org/"><img src="https://raw.githubusercontent.com/arnaudnatal/State_of_NEEMSIS_Research/refs/heads/main/Data/img/odriis.png" alt="ODRIIS" width="50"></a>.
-
-</td>
-</tr>
-</table>
-
 
 ---
 
