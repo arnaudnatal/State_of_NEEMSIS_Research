@@ -111,7 +111,7 @@ See also:
 
 ![Framework](https://github.com/arnaudnatal/State_of_NEEMSIS_Research/blob/main/Data/img/framework.png)
 
-> All of the above terms are defined in the [appendix](appendix).
+> All of the above terms are defined in the [appendix]([appendix](https://github.com/arnaudnatal/State_of_NEEMSIS_Research/blob/main/README.md#appendix)).
 
 Research papers are sometimes classified according to their type (journal, book, etc.) and status (published, submitted, etc.).
 
