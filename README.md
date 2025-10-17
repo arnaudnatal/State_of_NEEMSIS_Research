@@ -39,7 +39,7 @@ These data collections are carried out within the framework of the <a href="http
 <summary>Table of Contents</summary>
 
 - [Introduction](#introduction)
-- [Data access request](#dataaccessrequest)
+- [Data access request](#data)
 - [All outputs](#alloutputs)
 - [Research papers](#researchpapers)
 - [In details](#indetails)
@@ -53,8 +53,7 @@ These data collections are carried out within the framework of the <a href="http
 
 ---
 
-
-# Introduction
+<h1 id="introduction">Introduction</h1>
 
 ## Study area
 
@@ -125,7 +124,7 @@ Research papers are sometimes classified according to their type (journal, book,
 </table>
 
 
-# Data access request
+<h1 id="data">Data request access</h1>
 
 Data are freely available on [DataSuds](https://dataverse.ird.fr/dataverse/odriis).
 
@@ -141,12 +140,12 @@ Data are freely available on [DataSuds](https://dataverse.ird.fr/dataverse/odrii
 
 
 
-# All outputs
+<h1 id="alloutputs">All outputs</h1>
 
 ![Type](https://raw.githubusercontent.com/arnaudnatal/State_of_NEEMSIS_Research/refs/heads/main/Stata_cmd/Stata_fig/A_type.svg)
 
 
-# Research papers
+<h1 id="researchpapers">Research papers</h1>
 
 ![Global](https://raw.githubusercontent.com/arnaudnatal/State_of_NEEMSIS_Research/refs/heads/main/Stata_cmd/Stata_fig/RP_global.svg)
 
@@ -163,7 +162,7 @@ Data are freely available on [DataSuds](https://dataverse.ird.fr/dataverse/odrii
 ![Topics wave](https://raw.githubusercontent.com/arnaudnatal/State_of_NEEMSIS_Research/refs/heads/main/Stata_cmd/Stata_fig/RP_topicswave.svg)
 
 
-# Published papers
+<h1 id="publishedpapers">Published papers</h1>
 
 
 ![Global](https://raw.githubusercontent.com/arnaudnatal/State_of_NEEMSIS_Research/refs/heads/main/Stata_cmd/Stata_fig/PP_global.svg)
@@ -176,7 +175,7 @@ Data are freely available on [DataSuds](https://dataverse.ird.fr/dataverse/odrii
 
 ![Citations](https://raw.githubusercontent.com/arnaudnatal/State_of_NEEMSIS_Research/refs/heads/main/Stata_cmd/Stata_fig/PP_citations.svg)
 
-# In details
+<h1 id="indetails">In details</h1>
 
 ## Journals
 
@@ -192,7 +191,7 @@ Data are freely available on [DataSuds](https://dataverse.ird.fr/dataverse/odrii
 ![Blogposts](https://raw.githubusercontent.com/arnaudnatal/State_of_NEEMSIS_Research/refs/heads/main/Stata_cmd/Stata_fig/BP_global.svg)
 
 
-# Upcoming papers
+<h1 id="upcomingpapers">Upcoming papers</h1>
 
 ## Submitted
 
@@ -225,7 +224,7 @@ Data are freely available on [DataSuds](https://dataverse.ird.fr/dataverse/odrii
 <ins>Collaboration:</ins> Guérin, Michiels?
   
 
-# Conclusion
+<h1 id="conclusion">Conclusion</h1>
 
 <table>
 <tr>
@@ -243,7 +242,7 @@ Topics such as **Agriculture**, **Migration**, and **Education** have been under
 </tr>
 </table>
 
-# Bibliography
+<h1 id="bibliography">Bibliography</h1>
 
 > The bibliography in `.bib` format is available [here](https://raw.githubusercontent.com/arnaudnatal/State_of_NEEMSIS_Research/refs/heads/main/Data/NEEMSIS.bib).
 
@@ -311,7 +310,7 @@ Topics such as **Agriculture**, **Migration**, and **Education** have been under
 - Natal, A., & Nordman, C. J. (2025). *Unveiling Inequalities in Rural South India: A Decade of Household Income and Wealth Imbalances*.
 
 
-# Appendix
+<h1 id="appendix">Appendix</h1>
 
 > - **Journal articles:** Articles published in journals.
 > - **Book chapters:** Articles published in books.
