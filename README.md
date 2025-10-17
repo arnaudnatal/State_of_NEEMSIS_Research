@@ -15,7 +15,12 @@
 <table>
 <tr>
 <td>
-  
+
+ <button type="button" class="collapsible">Open Collapsible</button>
+<div class="content">
+  <p>Lorem ipsum...</p>
+</div> 
+
 ### :speech_balloon: Foreword
 This document provides an overview of the research undertaken using the original <a href="https://neemsis.hypotheses.org"><i>Network, Employment, dEbt, Mobility, and Skills in South India Survey</i></a> (NEEMSIS).
 
