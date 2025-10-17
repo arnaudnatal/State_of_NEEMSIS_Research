@@ -24,7 +24,7 @@ NEEMSIS is based on the baseline survey RUME (<a href="https://odriis.hypotheses
 NEEMSIS has so far been conducted in 2016–2017 and 2020–2021 among more than 600 households.
 A third wave of NEEMSIS is planned for 2025-2026 (which will constitute a panel with four points in time between 2010 and 2025-2026).
 
-These data collections are carried out within the framework of the <a href="https://odriis.hypotheses.org/"><img src="https://raw.githubusercontent.com/arnaudnatal/State_of_NEEMSIS_Research/refs/heads/main/Data/img/odriis.png" alt="ODRIIS" height="50"></a>.
+These data collections are carried out within the framework of the <a href="https://odriis.hypotheses.org/"><img src="https://raw.githubusercontent.com/arnaudnatal/State_of_NEEMSIS_Research/refs/heads/main/Data/img/odriis.png" alt="ODRIIS" width="50"></a>.
 
 </td>
 </tr>
