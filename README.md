@@ -1,4 +1,3 @@
-<center>
 <a href="https://neemsis.hypotheses.org/">
 <img src="https://raw.githubusercontent.com/arnaudnatal/State_of_NEEMSIS_Research/refs/heads/main/Data/img/NEEMSIS_banner.png" alt="Banner" width="100%">
 </a>
@@ -7,11 +6,8 @@
 :pushpin: State of NEEMSIS Research
 </h1>
 
-:raising_hand: Arnaud Natal
-
-*October 2025*
-
-</center>
+> This document was prepared by Arnaud Natal :raising_hand: and was updated in October 2025.
+> For any questions or additional information, please contact me at the following email address: 
 
 <table>
 <tr>
