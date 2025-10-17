@@ -14,11 +14,10 @@
 
 <details>
   <summary> <h3> Table of contents </h3> </summary>
-  1. [Introduction](#introduction)
-  2. [Data request access](#data)
-  3. [Introduction](#introduction)
-  4. [Introduction](#introduction)
-
+1. [Introduction](#introduction)
+2. [Data request access](#data)
+3. [Introduction](#introduction)
+4. [Introduction](#introduction)
 
 </details>
 
