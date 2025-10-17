@@ -40,7 +40,7 @@ Natal, A. (2025). State of NEEMSIS Research. Pondicherry: ODRIIS.
   - [Journals](#journals)
   - [Dissertations](#dissertations)
   - [Blog posts](#blogposts)
-  - [Upcoming papers](#upcomingpapers)
+- [Upcoming papers](#upcomingpapers)
   - [Submitted](#submitted)
   - [Ongoing](#ongoing)
   - [Projects](#projects)
@@ -186,3 +186,49 @@ Data are freely available on [DataSuds](https://dataverse.ird.fr/dataverse/odrii
 ---
 
 ![Citations](https://raw.githubusercontent.com/arnaudnatal/State_of_NEEMSIS_Research/refs/heads/main/Stata_cmd/Stata_fig/PP_citations.svg)
+
+# In details
+
+## Journals
+
+![Journals](https://raw.githubusercontent.com/arnaudnatal/State_of_NEEMSIS_Research/refs/heads/main/Stata_cmd/Stata_fig/J_global.svg)
+
+## Dissertations
+
+![Dissertations](https://raw.githubusercontent.com/arnaudnatal/State_of_NEEMSIS_Research/refs/heads/main/Stata_cmd/Stata_fig/D_global.svg)
+
+
+## Blog pots
+
+![Blogposts](https://raw.githubusercontent.com/arnaudnatal/State_of_NEEMSIS_Research/refs/heads/main/Stata_cmd/Stata_fig/BP_global.svg)
+
+
+# Upcoming papers
+
+## Submitted
+
+![Submitted](https://raw.githubusercontent.com/arnaudnatal/State_of_NEEMSIS_Research/refs/heads/main/Stata_cmd/Stata_fig/SU_global.svg)
+
+
+## Ongoing
+
+![Ongoing](https://raw.githubusercontent.com/arnaudnatal/State_of_NEEMSIS_Research/refs/heads/main/Stata_cmd/Stata_fig/OG_global.svg)
+
+
+## Projects
+
+- *The curse of having a job. Threats on female employment in a context of rising patriarcal norms*. Using NEEMSIS-2, Di Santolo, Guérin, and Mouchel (corresponding author) want to.
+- *Intra-household inequality and recourse to debt*. Using NEEMSIS-3, Di Santolo and Natal (corresponding author) want to study the effects of intra-household inequalities in consumption and income on household/individual debt (recourse, burden).
+- *The Ties That Bind: Lender-Borrower Relationships and Indebtedness in Rural South India*. Using NEEMSIS-2, Girollet and Natal (corresponding author) want to study the effects of lender-borrower relationships on loan characteristics (price, repayment difficulties, services associated with loans).
+- *The Role of Networks in Labor Market Segmentation*. Using NEEMSIS-2, Mouchel (corresponding author) wants to.
+- *The Financial Burden of Education in Rural South India*. Using NEEMSIS-3, Natal (corresponding author) wants to study the financialisation/commodification of education: How much does education cost? How do families finance it? What are the effects on family debt? What are the effects in terms of well-being?
+<ins>Collaboration:</ins> Guérin, Nordman
+- *Stability Over Time of the Locus of Control*. Using NEEMSIS-2 and NEEMSIS-3, in a short paper, Natal (corresponding author) wants to examine the stability of the locus of control over time. Conduct regressions to examine the explanatory factors of change. Possibly conduct a PSM with the effects of COVID.
+<ins>Collaboration:</ins> Nordman
+- *Household Indebtedness Landscape: Evolution between 2010 and 2025*. Using RUME to NEEMSIS-3, Natal (corresponding author) wants to conduct a loan-level MCA to look at the transformation of debt practices since 2010. Try to extract household-level variables to do econometrics and look at the determinants of financial vulnerability. \\
+<ins>Collaboration:</ins> Guérin, Michiels?
+  
+
+# Conclusion
+
+# Bibliography
