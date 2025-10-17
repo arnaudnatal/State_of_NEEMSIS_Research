@@ -5,7 +5,8 @@
 </h1>
 
 Arnaud Natal :raising_hand:
-*October 2025*
+
+Updated in *October 2025*
 
 </div>
 
