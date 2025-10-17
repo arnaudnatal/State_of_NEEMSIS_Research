@@ -89,7 +89,7 @@ See also:
   > Nordman, C. J., Venkatasubramanian, G., Guérin, I., Natal, A., Mouchel, C., Michiels, S., & Di Santolo, M. (2025). Networks, Employment, Debt, Mobilities, and Skills in India Survey (NEEMSIS): Presentation of a longitudinal data collection tool. *Population, 80*(1), 79–93. https://doi.org/10.3917/popu.2501.0079
 - The article presenting the trends observed in the data between 2010 and 2020-2021.
   > Di Santolo, M., Guérin, I., Michiels, S., Mouchel, C., Natal, A., Nordman, C. J., & Venkatasubramanian, G. (2024). A Decade in Rural Tamil Nadu: Socio-Economic, Labour and Migration Trends from an Original Longitudinal Household Survey. *Economic & Political Weekly, 59*(43), 62–71.
-- The [video presentation](https://www.youtube.com/watch?v=b68yu1CTW0U) of the survey.
+- The [video presentation](https://www.youtube.com/watch?v=b68yu1CTW0U) of the survey :movie_camera:.
 
 
 ## :pencil: Framework
