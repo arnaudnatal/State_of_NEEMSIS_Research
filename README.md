@@ -252,3 +252,65 @@ Data are freely available on [DataSuds](https://dataverse.ird.fr/dataverse/odrii
 </table>
 
 # Bibliography
+
+## Published papers
+
+- Mouchel, C. (2026a). L'encadrement du pouvoir des intermédiaires d’emploi pour les travailleurs journaliers de basses castes. *Esclavages et Post-Esclavages*.
+- Guérin, I., Natal, A., Nordman, C. J., & Venkatasubramanian, G. (2025). For money can’t buy me love? the political economy of marriages at the time of financialization. *Contemporary South Asia, 33*(2), 281–300. https://doi.org/10.1080/09584935.2025.2494605
+- Natal, A., & Nordman, C. J. (2025c). Psychology of Debt in Rural South India. *The Journal of Development Studies, 61*(7), 1042–1057. https://doi.org/10.1080/00220388.2025.2451871
+- Nordman, C. J., Venkatasubramanian, G., Guérin, I., Natal, A., Mouchel, C., Michiels, S., & Di Santolo, M. (2025). Networks, Employment, Debt, Mobilities, and Skills in India Survey (NEEMSIS): Presentation of a longitudinal data collection tool. *Population, 80*(1).
+- Di Santolo, M., Guérin, I., Michiels, S., Mouchel, C., Natal, A., Nordman, C. J., & Venkatasubramanian, G. (2024). A Decade in Rural Tamil Nadu: Socio-Economic, Labour and Migration Trends from an Original Longitudinal Household Survey. *Economic & Political Weekly, 59*(43), 62–71.
+- Guérin, I., & Venkatasubramanian, G. (2024). Debt and the Politics of Numbers: Hegemonic Numbers, Political Numbers, Ordinary Numbers. *Review of Political Economy, 36*(2), 481–499. https://doi.org/10.1080/09538259.2024.2318959
+- Guérin, I., Kumar, S., & Venkatasubramanian, G. (2023). The Indebted Woman: Kinship, Sexuality, and Capitalism. Stanford University Press.
+- Guérin, I., Michiels, S., Natal, A., Nordman, C. J., & Venkatasubramanian, G. (2022). Surviving Debt and Survival Debt in Times of Lockdown. *Economic & Political Weekly, 57*(1), 41–49.
+- Guérin, I., Mouchel, C., & Nordman, C. J. (2022). With a Little Help From My Friends? Surviving the Lockdown Using Social Networks in Rural South India. *South Asia Multidisciplinary Academic Journal, 29*. https://doi.org/10.4000/samaj.8309
+- Natal, A., & Nordman, C. J. (2022). Locus de contrôle, identité sociale et endettement en Inde du Sud. *Revue d’Économie du Développement, 31*(2-3), 95–101. https://doi.org/10.3917/edd.362-363.0095
+- Michiels, S., Nordman, C. J., & Seetahul, S. (2021). Many Rivers to Cross: Social Identity, Cognition, and Labor Mobility in Rural India. *The ANNALS of the American Academy of Political and Social Science, 697*(1), 66–80. https://doi.org/10.1177/00027162211055990
+- Reboul, E., Guérin, I., & Nordman, C. J. (2021). The gender of debt and credit: Insights from rural Tamil Nadu. *World Development, 142*, 105363. https://doi.org/10.1016/j.worlddev.2020.105363
+- Guérin, I., Michiels, S., Nordman, C. J., Reboul, E., & Venkatasubramanian, G. (2020). There Has Been No Silent Revolution: A Decade of Empowerment for Women in Rural Tamil Nadu. In M. Ochman & A. Ortega-Díaz (Eds.), *Advances in women’s empowerment: Critical insights from Asia, Africa and Latin America* (pp. 183–200, Vol. 29). Emerald Publishing Limited. https://doi.org/10.1108/S1529-212620200000029008
+- Goedecke, J., Guérin, I., D’Espallier, B., & Venkatasubramanian, G. (2018). Why do financial inclusion policies fail in mobilizing savings from the poor? Lessons from rural South India. *Development Policy Review, 36*, O201–O219. https://doi.org/10.1111/dpr.12272
+- Guérin, I., Lanos, Y., Michiels, S., Nordman, C. J., & Venkatasubramanian, G. (2017a). Insights on Demonetisation from Rural Tamil Nadu: understanding social networks and social protection. *Economic & Political Weekly, 52*(52).
+- Guérin, I., D’Espallier, B., & Venkatasubramanian, G. (2015). The Social Regulation of Markets: Why Microcredit Fails to Promote Jobs in Rural South India. *Development and Change, 46*(6), 1277–1301. https://doi.org/10.1111/dech.12197
+- Guérin, I., D’Espallier, B., & Venkatasubramanian, G. (2013). Debt in Rural South India: Fragmentation, Social Regulation and Discrimination. *The Journal of Development Studies, 49*(9), 1155–1171. https://doi.org/10.1080/00220388.2012.720365
+- Guérin, I., Roesch, M., Michiels, S., & Venkatasubramanian, G. (2012). Dettes, protections et solidarités en Inde du Sud. *Economie et sociétés, 46*(2), 385–413.
+
+
+## Unpublished working papers
+
+- Hilger, A., & Nordman, C. J. (2020). *The Determinants of Trust: Evidence from Rural South India* (Working Paper No. 13150). IZA. Bonn.
+
+
+## Dissertations
+
+- Mouchel, C. (2025). *Réseaux interpersonnels et trajectoires d’emploi individuelles dans les zones rurales d’Inde du Sud* \[Doctoral dissertation, Université Paris Cité\].
+- Di Santolo, M. (2024). *Four essays on gender in rural India* \[Doctoral dissertation, PSL Research University\].
+- Natal, A. (2023). *Debt, Labour, and Cognition: Microeconomic Interactions in Rural South India* \[Doctoral dissertation, Université de Bordeaux\].
+- Reboul, E. (2021). *Gender and Debt, Past and Present: Financing Social Reproduction* \[Doctoral dissertation, Université Paris Cité\].
+- Hilger, A. (2018). *Cognitive and non-cognitive skills in developing countries* \[Doctoral dissertation, PSL Research University\].
+- Michiels, S. (2016). *Modernisation, marchés du travail et circulation en Inde: Une approche mixte et multi-scalaire des migrations de travail* \[Doctoral dissertation, Université de Bordeaux\].
+
+## Policy briefs
+
+- Kar, B., Natal, A., & Nordman, C. J. (2025). *On the importance of measuring personality traits in household surveys* (Policy brief). ODRIIS.
+- Guérin, I., Natal, A., & Venkatasubramanian, G. (2024). *Why and how to measure household debt in informal economies?* (Policy brief). ODRIIS.
+- Guérin, I., Lanos, Y., Michiels, S., Nordman, C. J., & Venkatasubramanian, G. (2017b). *The Use of Social Networks in a Self-Inflicted Macroeconomic Shock Context: Demonetisation in India* (Policy brief). NOPOOR.
+
+## Blog posts
+
+- Natal, A., & Jalil, C. (2025). *Inégalités de revenu et de patrimoine en Inde du Sud : résultats à partir d’une micro-enquête longitudinale. MSH-Bordeaux.
+- Guérin, I., Natal, A., Nordman, C. J., & Venkatasubramanian, G. (2024). *Apports et défis des micro-enquêtes longitudinales pour l’étude des inégalités en Inde rurale. MSH-Bordeaux.
+- Nordman, C. J. (2024). *Inclusion féminine en Inde rurale. Entre promesses politiques et réalités sociales*. Dauphine éclairages.
+- Mouchel, C., & Nordman, C. J. (2022). *Survivre au confinement en utilisant les réseaux sociaux dans les zones rurales du sud de l’Inde*. DIALOGUE.
+- Guérin, I., & Nordman, C. J. (2020). *Le coût social de la démonétisation indienne*. IRD Le Mag.
+- Hilger, A., & Nordman, C. J. (2019). *Coping with a policy shock in rural South India: Social networks as a determinant of trust*. Ideas for India.
+- Guérin, I., & Nordman, C. J. (2018). *The shock of Indian demonetisation: a failed attempt to formalise the economy*. The Conversation.
+- Guérin, I., & Nordman, C. J. (2017). *Le choc de la démonétisation indienne : Les réseaux interpersonnels constituent-ils un filet de protection pour tous ?* DIALOGUE.
+- Nordman, C. J. (2017). *Skills, Status, and Social Networks: New Research from South India*. SurveyCTO.
+
+## Submitted
+
+- Natal, A. (2025). *Tangled Up in Debt: Household Debt Trap and Its Effects on Spending in Rural India*.
+- Natal, A., & Nordman, C. J. (2025). *A Change is Gonna Come: Measure and Stability of Personality Traits in Rural South India*.
+- Natal, A., & Nordman, C. J. (2025). *Inégalités et mobilité de revenu dans des villages indiens : Résultats issus d’une micro-enquête longitudinale (2010 - 2020)*.
+- Natal, A., & Nordman, C. J. (2025). *She Works Hard for the Money: Debt Burden and Labour Supply in India*.
+- Natal, A., & Nordman, C. J. (2025). *Unveiling Inequalities in Rural South India: A Decade of Household Income and Wealth Imbalances*.
