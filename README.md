@@ -255,11 +255,12 @@ Data are freely available on [DataSuds](https://dataverse.ird.fr/dataverse/odrii
 - All published papers using RUME and NEEMSIS data account for 430 citations.
 - 5 papers are currently submitted, 4 are ongoing and 7 are in project.
 
-Topics such as **Agriculture**, **Migration**, and **Education** have been understudied and <ins>should be studied in the future</ins>.
-
 </td>
 </tr>
 </table>
+
+Topics such as **Agriculture**, **Migration**, and **Education** have been understudied and <ins>should be studied in the future</ins>.
+
 
 ---
 
