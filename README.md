@@ -15,7 +15,7 @@
 
 
 <details>
-<summary> <h3> Table of contents </h3> </summary>
+<summary> <h4> Table of contents </h4> </summary>
 
 - :+1: [Introduction](#introduction)
 - :e-mail: [Data request access](#data)
