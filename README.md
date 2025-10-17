@@ -1,13 +1,7 @@
 <div align="center">
 
-<a href="https://neemsis.hypotheses.org/">
-    <img src="https://raw.githubusercontent.com/arnaudnatal/State_of_NEEMSIS_Research/refs/heads/main/Data/img/neemsis.png" alt="Logo" width="80" height="80">
-  </a>
-
 <h1>
-:pushpin: State of <a href="https://neemsis.hypotheses.org/">
-    <img src="https://raw.githubusercontent.com/arnaudnatal/State_of_NEEMSIS_Research/refs/heads/main/Data/img/neemsis.png" alt="Logo" width="80" height="80">
-  </a> Research
+:pushpin: State of <a href="https://neemsis.hypotheses.org/"><img src="https://raw.githubusercontent.com/arnaudnatal/State_of_NEEMSIS_Research/refs/heads/main/Data/img/neemsis.png" alt="Logo" width="80" height="80"></a> Research
 </h1>
 
 **Arnaud Natal** :raising_hand:
