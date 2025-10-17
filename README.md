@@ -233,8 +233,10 @@ Data are freely available on [DataSuds](https://dataverse.ird.fr/dataverse/odrii
   > Using RUME to NEEMSIS-3, Natal (corresponding author) wants to conduct a loan-level MCA to look at the transformation of debt practices since 2010. Try to extract household-level variables to do econometrics and look at the determinants of financial vulnerability.
 <ins>Collaboration:</ins> Guérin, Michiels?
   
+---
+---
 
-<h1 id="conclusion">Conclusion</h1>
+<h1 id="conclusion">:wave: Conclusion</h1>
 
 <table>
 <tr>
@@ -251,6 +253,9 @@ Topics such as **Agriculture**, **Migration**, and **Education** have been under
 </td>
 </tr>
 </table>
+
+---
+---
 
 <h1 id="bibliography">:round_pushpin: Bibliography</h1>
 
@@ -319,6 +324,8 @@ Topics such as **Agriculture**, **Migration**, and **Education** have been under
 - Natal, A., & Nordman, C. J. (2025). *She Works Hard for the Money: Debt Burden and Labour Supply in India*.
 - Natal, A., & Nordman, C. J. (2025). *Unveiling Inequalities in Rural South India: A Decade of Household Income and Wealth Imbalances*.
 
+---
+---
 
 <h1 id="appendix">Appendix</h1>
 
