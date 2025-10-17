@@ -327,7 +327,7 @@ Topics such as **Agriculture**, **Migration**, and **Education** have been under
 ---
 ---
 
-<h1 id="appendix">Appendix</h1>
+<h1 id="appendix">:page_facing_up: Appendix</h1>
 
 > - **Journal articles:** Articles published in journals.
 > - **Book chapters:** Articles published in books.
