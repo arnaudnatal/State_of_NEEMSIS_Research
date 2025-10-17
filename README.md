@@ -258,6 +258,7 @@ Topics such as **Agriculture**, **Migration**, and **Education** have been under
 ## Published papers
 
 - Mouchel, C. (2026a). L'encadrement du pouvoir des intermédiaires d’emploi pour les travailleurs journaliers de basses castes. *Esclavages et Post-Esclavages*.
+- Natal, A., & Nordman, C. J. (2025). A Change is Gonna Come: Universality, Stability, and Shocks in Personality Traits in Rural India. *The Journal of Development Studies*. https://doi.org/10.1080/00220388.2025.2577312
 - Guérin, I., Natal, A., Nordman, C. J., & Venkatasubramanian, G. (2025). For money can’t buy me love? the political economy of marriages at the time of financialization. *Contemporary South Asia, 33*(2), 281–300. https://doi.org/10.1080/09584935.2025.2494605
 - Natal, A., & Nordman, C. J. (2025c). Psychology of Debt in Rural South India. *The Journal of Development Studies, 61*(7), 1042–1057. https://doi.org/10.1080/00220388.2025.2451871
 - Nordman, C. J., Venkatasubramanian, G., Guérin, I., Natal, A., Mouchel, C., Michiels, S., & Di Santolo, M. (2025). Networks, Employment, Debt, Mobilities, and Skills in India Survey (NEEMSIS): Presentation of a longitudinal data collection tool. *Population, 80*(1).
@@ -313,7 +314,6 @@ Topics such as **Agriculture**, **Migration**, and **Education** have been under
 ## Submitted
 
 - Natal, A. (2025). *Tangled Up in Debt: Household Debt Trap and Its Effects on Spending in Rural India*.
-- Natal, A., & Nordman, C. J. (2025). *A Change is Gonna Come: Measure and Stability of Personality Traits in Rural South India*.
 - Natal, A., & Nordman, C. J. (2025). *Inégalités et mobilité de revenu dans des villages indiens : Résultats issus d’une micro-enquête longitudinale (2010 - 2020)*.
 - Natal, A., & Nordman, C. J. (2025). *She Works Hard for the Money: Debt Burden and Labour Supply in India*.
 - Natal, A., & Nordman, C. J. (2025). *Unveiling Inequalities in Rural South India: A Decade of Household Income and Wealth Imbalances*.
@@ -326,7 +326,7 @@ Topics such as **Agriculture**, **Migration**, and **Education** have been under
 - **Books:** Published books.
 - **Working papers (WP):** Completed articles that remained at the working paper stage (not published in journals or books).
 - **Dissertations:** Doctoral thesis manuscript.
-- ** Policy briefs:** Concise summary of a particular issue, the policy options to deal with it, and some recommendations on the best option.
+- **Policy briefs:** Concise summary of a particular issue, the policy options to deal with it, and some recommendations on the best option.
 - **Blog posts:** Short popular science article posted on blogs.
 - **All outputs:** All writings produced that mobilise data.
 - **Research papers:** All papers that use data. Excluded are policy briefs, blog posts, dissertations, and project articles. However, submitted and ongoing articles are included.
