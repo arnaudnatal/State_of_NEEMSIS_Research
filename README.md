@@ -10,7 +10,7 @@
 
 </div>
 
-> [^1]: [arnaud.natal@ifpindia.org](mailto:arnaud.natal@ifpindia.org)
+> [^1]: I am [Arnaud Natal](https://arnaudnatal.github.io/) an independent research in economics affiliated with the Economics department of the University of Bordeaux in France and the French Institute of Pondicherry in India. I obtained my PhD in economics from the University of Bordeaux in December 2023. I take part in the activities of the ODRIIS, in particular by actively participating in all stages of the collection of longitudinal NEEMSIS household data. Feel free to contact me at: [arnaud.natal@ifpindia.org](mailto:arnaud.natal@ifpindia.org).
 
 <table>
 <tr>
