@@ -217,13 +217,13 @@ Data are freely available on [DataSuds](https://dataverse.ird.fr/dataverse/odrii
 
 - The curse of having a job. Threats on female employment in a context of rising patriarcal norms
    > Using NEEMSIS-2, Di Santolo, Guérin, and Mouchel (corresponding author).
-- Intra-household inequality and recourse to debt**.
+- Intra-household inequality and recourse to debt
    > Using NEEMSIS-3, Di Santolo and Natal (corresponding author) want to study the effects of intra-household inequalities in consumption and income on household/individual debt (recourse, burden).
 - The Ties That Bind: Lender-Borrower Relationships and Indebtedness in Rural South India
   > Using NEEMSIS-2, Girollet and Natal (corresponding author) want to study the effects of lender-borrower relationships on loan characteristics (price, repayment difficulties, services associated with loans).
 - The Role of Networks in Labor Market Segmentation
   > Using NEEMSIS-2, Mouchel (corresponding author) wants to.
-- **The Financial Burden of Education in Rural South India
+- The Financial Burden of Education in Rural South India
   > Using NEEMSIS-3, Natal (corresponding author) wants to study the financialisation/commodification of education: How much does education cost? How do families finance it? What are the effects on family debt? What are the effects in terms of well-being?
 <ins>Collaboration:</ins> Guérin, Nordman
 - Stability Over Time of the Locus of Control
@@ -322,16 +322,16 @@ Topics such as **Agriculture**, **Migration**, and **Education** have been under
 
 # Appendix
 
-- **Journal articles:** Articles published in journals.
-- **Book chapters:** Articles published in books.
-- **Books:** Published books.
-- **Working papers (WP):** Completed articles that remained at the working paper stage (not published in journals or books).
-- **Dissertations:** Doctoral thesis manuscript.
-- **Policy briefs:** Concise summary of a particular issue, the policy options to deal with it, and some recommendations on the best option.
-- **Blog posts:** Short popular science article posted on blogs.
-- **All outputs:** All writings produced that mobilise data.
-- **Research papers:** All papers that use data. Excluded are policy briefs, blog posts, dissertations, and project articles. However, submitted and ongoing articles are included.
-- **Published papers:** Includes journal articles, book chapters, and published books that have undergone a peer-review process.
-- **Submitted:** Articles that are currently submitted to academic journals.
-- **Ongoing:** Articles that are being finalized (analysis is done and most of the writing is done). They have not yet been submitted.
-- **Projects:** Articles whose authors have a clear idea of the analyses they want to conduct. Writing may have begun. This is the stage that precedes the “ongoing” status.
+> - **Journal articles:** Articles published in journals.
+> - **Book chapters:** Articles published in books.
+> - **Books:** Published books.
+> - **Working papers (WP):** Completed articles that remained at the working paper stage (not published in journals or books).
+> - **Dissertations:** Doctoral thesis manuscript.
+> - **Policy briefs:** Concise summary of a particular issue, the policy options to deal with it, and some recommendations on the best option.
+> - **Blog posts:** Short popular science article posted on blogs.
+> - **All outputs:** All writings produced that mobilise data.
+> - **Research papers:** All papers that use data. Excluded are policy briefs, blog posts, dissertations, and project articles. However, submitted and ongoing articles are included.
+> - **Published papers:** Includes journal articles, book chapters, and published books that have undergone a peer-review process.
+> - **Submitted:** Articles that are currently submitted to academic journals.
+> - **Ongoing:** Articles that are being finalized (analysis is done and most of the writing is done). They have not yet been submitted.
+> - **Projects:** Articles whose authors have a clear idea of the analyses they want to conduct. Writing may have begun. This is the stage that precedes the “ongoing” status.
