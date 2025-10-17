@@ -93,7 +93,7 @@ See also:
 
 ## Framework
 
-<img src="https://github.com/arnaudnatal/State_of_NEEMSIS_Research/blob/main/Data/img/framework.png" alt="Framework" width="800">
+<img src="https://github.com/arnaudnatal/State_of_NEEMSIS_Research/blob/main/Data/img/framework.png" alt="Framework" width="600">
 
 > All of the above terms are defined in the [appendix](https://github.com/arnaudnatal/State_of_NEEMSIS_Research/blob/main/README.md#appendix).
 
