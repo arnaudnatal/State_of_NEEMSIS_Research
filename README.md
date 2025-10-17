@@ -45,6 +45,8 @@ The NEEMSIS originally takes place in 10 villages in Tamil Nadu, India, located 
 
 ## :construction_worker: Core teams
 
+<div align="center">
+
 | RUME                  | NEEMSIS-1                | NEEMSIS-2                | NEEMSIS-3                |
 | --------------------- | ------------------------ | ------------------------ | ------------------------ |
 | Isabelle Guérin       | Christophe Jalil Nordman | Christophe Jalil Nordman | Christophe Jalil Nordman |
@@ -57,13 +59,19 @@ The NEEMSIS originally takes place in 10 villages in Tamil Nadu, India, located 
 |                       | Antoni Raj               | Anne Hilger              | Féodor Desplanques       |
 |                       |                          | Antoni Raj               | Antoni Raj               |
 
+</div>
+
 
 ## :file_folder: Resources
 
 For further details on the NEEMSIS longitudinal survey, see the dedicated [website](https://neemsis.hypotheses.org/).
+
+<div align="center">
 <p><a href="https://neemsis.hypotheses.org/">
 <img src="https://raw.githubusercontent.com/arnaudnatal/State_of_NEEMSIS_Research/refs/heads/main/Data/img/website.png" alt="https://neemsis.hypotheses.org/" width="400">
 </a></p>
+</div>
+
 
 See also:
 - The article presenting the data.
