@@ -7,7 +7,7 @@
 <div align="center">
 
 <h1>
-  State of NEEMSIS Research
+ :pushpin: State of NEEMSIS Research
 </h1>
 
 Arnaud Natal
@@ -61,7 +61,7 @@ The NEEMSIS originally takes place in 10 villages in Tamil Nadu, India, located 
 
 <img src="https://github.com/arnaudnatal/State_of_NEEMSIS_Research/blob/main/Data/img/RUME-NEEMSIS.png" alt="Survey area" width="600">
 
-## :family: Core teams
+## :construction_worker: Core teams
 
 | RUME                  | NEEMSIS-1                | NEEMSIS-2                | NEEMSIS-3                |
 | --------------------- | ------------------------ | ------------------------ | ------------------------ |
@@ -76,7 +76,7 @@ The NEEMSIS originally takes place in 10 villages in Tamil Nadu, India, located 
 |                       |                          | Antoni Raj               | Antoni Raj               |
 
 
-## Resources
+## :file_folder: Resources
 
 For further details on the NEEMSIS longitudinal survey, see the dedicated [website](https://neemsis.hypotheses.org/):
 <p><a href="https://neemsis.hypotheses.org/">
@@ -91,7 +91,7 @@ See also:
 - The [video presentation](https://www.youtube.com/watch?v=b68yu1CTW0U) of the survey.
 
 
-## Framework
+## :pencil: Framework
 
 <img src="https://github.com/arnaudnatal/State_of_NEEMSIS_Research/blob/main/Data/img/framework.png" alt="Framework" width="600">
 
@@ -103,7 +103,7 @@ Research papers are sometimes classified according to their type (journal, book,
 
 
 
-## A brief overview
+## :fire: A brief overview
 
 <table>
 <tr>
@@ -124,7 +124,7 @@ Research papers are sometimes classified according to their type (journal, book,
 </table>
 
 
-<h1 id="data">Data request access</h1>
+<h1 id="data">:e-mail: Data request access</h1>
 
 Data are freely available on [DataSuds](https://dataverse.ird.fr/dataverse/odriis).
 
