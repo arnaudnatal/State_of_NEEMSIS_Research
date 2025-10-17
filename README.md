@@ -39,7 +39,7 @@ These data collections are carried out within the framework of the <a href="http
 
 The NEEMSIS originally takes place in 10 villages in Tamil Nadu, India, located in the Cuddalore and Kallakurichi (ex Viluppuram) districts: Manappakam, Semakottai, Manamthavizhthaputhur, Natham, Korattore, Karumbur, Oraiyur, Govulapuram, Elamthampattu, and Kuvagam.
 
-<img src="https://github.com/arnaudnatal/State_of_NEEMSIS_Research/blob/main/Data/img/RUME-NEEMSIS.png" alt="Survey area" width="600">
+<img src="https://raw.githubusercontent.com/arnaudnatal/State_of_NEEMSIS_Research/refs/heads/main/Data/img/RUME-NEEMSIS.png" alt="Survey area" width="600">
 
 ## :construction_worker: Core teams
 
@@ -60,7 +60,7 @@ The NEEMSIS originally takes place in 10 villages in Tamil Nadu, India, located 
 
 For further details on the NEEMSIS longitudinal survey, see the dedicated [website](https://neemsis.hypotheses.org/):
 <p><a href="https://neemsis.hypotheses.org/">
-<img src="https://github.com/arnaudnatal/State_of_NEEMSIS_Research/blob/main/Data/img/website.png" alt="https://neemsis.hypotheses.org/" width="600">
+<img src="https://raw.githubusercontent.com/arnaudnatal/State_of_NEEMSIS_Research/refs/heads/main/Data/img/website.png" alt="https://neemsis.hypotheses.org/" width="600">
 </a></p>
 
 See also:
@@ -73,7 +73,7 @@ See also:
 
 ## :pencil: Framework
 
-<img src="https://github.com/arnaudnatal/State_of_NEEMSIS_Research/blob/main/Data/img/framework.png" alt="Framework" width="600">
+<img src="https://raw.githubusercontent.com/arnaudnatal/State_of_NEEMSIS_Research/refs/heads/main/Data/img/framework.png" alt="Framework" width="600">
 
 > All of the above terms are defined in the [appendix](https://github.com/arnaudnatal/State_of_NEEMSIS_Research/blob/main/README.md#appendix).
 
