@@ -10,7 +10,9 @@ Updated in October 2025
 
 </div>
 
+---
 > For any questions or additional information, feel free to [contact me](mailto:arnaud.natal@ifpindia.org)! 
+---
 
 <table>
 <tr>
