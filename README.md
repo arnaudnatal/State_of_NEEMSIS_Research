@@ -95,11 +95,9 @@ For further details on the NEEMSIS longitudinal survey, see the dedicated [websi
 
 See also:
 - The article presenting the data.
- > Nordman, C. J., Venkatasubramanian, G., Guérin, I., Natal, A., Mouchel, C., Michiels, S., & Di Santolo, M. (2025). Networks, Employment, Debt, Mobilities, and Skills in India Survey (NEEMSIS): Presentation of a longitudinal data collection tool. *Population, 80*(1), 79–93. https://doi.org/10.3917/popu.2501.0079
-
+  > Nordman, C. J., Venkatasubramanian, G., Guérin, I., Natal, A., Mouchel, C., Michiels, S., & Di Santolo, M. (2025). Networks, Employment, Debt, Mobilities, and Skills in India Survey (NEEMSIS): Presentation of a longitudinal data collection tool. *Population, 80*(1), 79–93. https://doi.org/10.3917/popu.2501.0079
 - The article presenting the trends observed in the data between 2010 and 2020-2021.
- > Di Santolo, M., Guérin, I., Michiels, S., Mouchel, C., Natal, A., Nordman, C. J., & Venkatasubramanian, G. (2024). A Decade in Rural Tamil Nadu: Socio-Economic, Labour and Migration Trends from an Original Longitudinal Household Survey. *Economic & Political Weekly, 59*(43), 62–71.
-
+  > Di Santolo, M., Guérin, I., Michiels, S., Mouchel, C., Natal, A., Nordman, C. J., & Venkatasubramanian, G. (2024). A Decade in Rural Tamil Nadu: Socio-Economic, Labour and Migration Trends from an Original Longitudinal Household Survey. *Economic & Political Weekly, 59*(43), 62–71.
 - The [video presentation](https://www.youtube.com/watch?v=b68yu1CTW0U) of the survey.
 
 
@@ -257,7 +255,7 @@ Topics such as **Agriculture**, **Migration**, and **Education** have been under
 - Natal, A., & Nordman, C. J. (2025). A Change is Gonna Come: Universality, Stability, and Shocks in Personality Traits in Rural India. *The Journal of Development Studies*. https://doi.org/10.1080/00220388.2025.2577312
 - Guérin, I., Natal, A., Nordman, C. J., & Venkatasubramanian, G. (2025). For money can’t buy me love? the political economy of marriages at the time of financialization. *Contemporary South Asia, 33*(2), 281–300. https://doi.org/10.1080/09584935.2025.2494605
 - Natal, A., & Nordman, C. J. (2025c). Psychology of Debt in Rural South India. *The Journal of Development Studies, 61*(7), 1042–1057. https://doi.org/10.1080/00220388.2025.2451871
-- Nordman, C. J., Venkatasubramanian, G., Guérin, I., Natal, A., Mouchel, C., Michiels, S., & Di Santolo, M. (2025). Networks, Employment, Debt, Mobilities, and Skills in India Survey (NEEMSIS): Presentation of a longitudinal data collection tool. *Population, 80*(1).
+- Nordman, C. J., Venkatasubramanian, G., Guérin, I., Natal, A., Mouchel, C., Michiels, S., & Di Santolo, M. (2025). Networks, Employment, Debt, Mobilities, and Skills in India Survey (NEEMSIS): Presentation of a longitudinal data collection tool. *Population, 80*(1), 79–93. https://doi.org/10.3917/popu.2501.0079
 - Di Santolo, M., Guérin, I., Michiels, S., Mouchel, C., Natal, A., Nordman, C. J., & Venkatasubramanian, G. (2024). A Decade in Rural Tamil Nadu: Socio-Economic, Labour and Migration Trends from an Original Longitudinal Household Survey. *Economic & Political Weekly, 59*(43), 62–71.
 - Guérin, I., & Venkatasubramanian, G. (2024). Debt and the Politics of Numbers: Hegemonic Numbers, Political Numbers, Ordinary Numbers. *Review of Political Economy, 36*(2), 481–499. https://doi.org/10.1080/09538259.2024.2318959
 - Guérin, I., Kumar, S., & Venkatasubramanian, G. (2023). The Indebted Woman: Kinship, Sexuality, and Capitalism. Stanford University Press.
