@@ -1,9 +1,15 @@
+<div align="center">
+  
 <h1>
 :pushpin: State of NEEMSIS Research
 </h1>
 
-> This document was prepared by Arnaud Natal :raising_hand: and was updated in October 2025.
-> For any questions or additional information, please contact me at the following email address: 
+Arnaud Natal :raising_hand:
+*October 2025*
+
+</div>
+
+> For any questions or additional information, feel free to [contact me](mailto:arnaud.natal@ifpindia.org)! 
 
 <table>
 <tr>
