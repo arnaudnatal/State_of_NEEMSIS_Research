@@ -121,6 +121,10 @@ Research papers are sometimes classified according to their type (journal, book,
 
 ## A brief overview
 
+<table>
+<tr>
+<td>
+  
 - Few researchers have requested access to the data.
 - 46 outputs were produced, including 16 journal articles, 1 book and 6 dissertations.
 - Among the research papers, 50% are cross-sectional and 50% are longitudinal.
@@ -131,6 +135,9 @@ Research papers are sometimes classified according to their type (journal, book,
 - The most cited article is "Debt in Rural South India" (2013, *The Journal of Development Studies*).
 - Guérin is the most cited researcher.
 
+</td>
+</tr>
+</table>
 
 
 # Data access request
@@ -228,6 +235,10 @@ Data are freely available on [DataSuds](https://dataverse.ird.fr/dataverse/odrii
 
 # Conclusion
 
+<table>
+<tr>
+<td>
+  
 - Few researchers have requested access to the data.
 - 46 ouputs were produced, including 16 journal articles, 1 book and 6 dissertations.
 - Debt is the most common topic (60\% of the papers), then employment (30%), and gender (25%).
@@ -236,5 +247,8 @@ Data are freely available on [DataSuds](https://dataverse.ird.fr/dataverse/odrii
 
 > Topics such as **Agriculture**, **Migration**, and **Education** have been understudied and <ins>should be studied in the future</ins>.
 
+</td>
+</tr>
+</table>
 
 # Bibliography
