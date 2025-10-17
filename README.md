@@ -39,24 +39,15 @@ These data collections are carried out within the framework of the <a href="http
 <summary>Table of Contents</summary>
 
 - [Introduction](#introduction)
-  - [Study area](#studyarea)
-  - [Core teams](#coreteams)
-  - [Resources](#resources)
-  - [Framework](#framework)
-  - [Overview](#overview)
 - [Data access request](#dataaccessrequest)
 - [All outputs](#alloutputs)
 - [Research papers](#researchpapers)
 - [In details](#indetails)
-  - [Journals](#journals)
-  - [Dissertations](#dissertations)
-  - [Blog posts](#blogposts)
 - [Upcoming papers](#upcomingpapers)
-  - [Submitted](#submitted)
-  - [Ongoing](#ongoing)
-  - [Projects](#projects)
 - [Conclusion](#conclusion)
 - [Bibliography](#bibliography)
+- [Appendix](#appendix)
+
 
 </details>
 
