@@ -4,9 +4,9 @@
 :pushpin: State of NEEMSIS Research
 </h1>
 
-Arnaud Natal :raising_hand:
+**Arnaud Natal** :raising_hand:
 
-Updated in *October 2025*
+Updated in October 2025
 
 </div>
 
