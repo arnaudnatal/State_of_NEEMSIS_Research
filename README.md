@@ -24,6 +24,7 @@ These data collections are carried out within the framework of the <a href="http
 </table>
 
 
+<!--
 ### :speech_balloon: Table of contents
 
 - :+1: [Introduction](#introduction)
@@ -37,9 +38,7 @@ These data collections are carried out within the framework of the <a href="http
 - :wave: [Conclusion](#conclusion)
 - :round_pushpin: [Bibliography](#bibliography)
 - :page_facing_up: [Appendix](#appendix)
-
-
-</details>
+-->
 
 ---
 ---
