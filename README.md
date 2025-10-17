@@ -4,15 +4,12 @@
 :pushpin: State of <a href="https://neemsis.hypotheses.org/"><img src="https://raw.githubusercontent.com/arnaudnatal/State_of_NEEMSIS_Research/refs/heads/main/Data/img/neemsis.png" alt="NEEMSIS" height="50"></a> Research
 </h1>
 
-**Arnaud Natal** :raising_hand:
+**Arnaud Natal** [:raising_hand:](mailto:arnaud.natal@ifpindia.org)
 
 Updated in October 2025
 
 </div>
 
----
-> For any questions or additional information, feel free to [contact me](mailto:arnaud.natal@ifpindia.org)! 
----
 
 <table>
 <tr>
