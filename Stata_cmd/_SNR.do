@@ -7,11 +7,13 @@ cls
 *All in one
 *-----
 cd"C:\Users\Arnaud\Documents\GitHub\State_of_NEEMSIS_Research"
-*----- Schemes
-set scheme s1mono, perm
 *----- Routines
 *ssc install fre
 *ssc install catplot
+*ssc install git
+*
+*----- Schemes
+set scheme plottig, permanently
 *-------------------------
 
 set graph off

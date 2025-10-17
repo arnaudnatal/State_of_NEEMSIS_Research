@@ -1,57 +1,57 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- This is a Stata 15.1 generated SVG file (http://www.stata.com) -->
 
-<svg version="1.1" width="5.50in" height="4.00in" viewBox="0 0 3960 2880" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg version="1.1" width="6.00in" height="4.00in" viewBox="0 0 4320 2880" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 	<desc>Stata Graph - type</desc>
-	<rect x="0" y="0" width="3960" height="2880" style="fill:#FFFFFF;stroke:none"/>
-	<rect x="0.00" y="0.00" width="3959.88" height="2880.00" style="fill:#FFFFFF"/>
-	<rect x="2.88" y="2.88" width="3954.12" height="2874.24" style="fill:none;stroke:#FFFFFF;stroke-width:5.76"/>
-	<rect x="353.59" y="278.23" width="3502.55" height="1809.34" style="fill:none;stroke:#000000;stroke-width:5.76"/>
-	<line x1="350.71" y1="2090.45" x2="3859.02" y2="2090.45" style="stroke:#E0E0E0;stroke-width:8.64"/>
-	<line x1="350.71" y1="1761.88" x2="3859.02" y2="1761.88" style="stroke:#E0E0E0;stroke-width:8.64"/>
-	<line x1="350.71" y1="1433.32" x2="3859.02" y2="1433.32" style="stroke:#E0E0E0;stroke-width:8.64"/>
-	<line x1="350.71" y1="1104.75" x2="3859.02" y2="1104.75" style="stroke:#E0E0E0;stroke-width:8.64"/>
-	<line x1="350.71" y1="776.18" x2="3859.02" y2="776.18" style="stroke:#E0E0E0;stroke-width:8.64"/>
-	<line x1="350.71" y1="447.62" x2="3859.02" y2="447.62" style="stroke:#E0E0E0;stroke-width:8.64"/>
-	<rect x="509.48" y="376.21" width="289.58" height="1714.24" style="fill:#606060"/>
-	<rect x="512.36" y="379.09" width="283.82" height="1708.48" style="fill:none;stroke:#606060;stroke-width:5.76"/>
-	<rect x="992.97" y="1947.64" width="289.58" height="142.81" style="fill:#606060"/>
-	<rect x="995.85" y="1950.52" width="283.82" height="137.05" style="fill:none;stroke:#606060;stroke-width:5.76"/>
-	<rect x="1476.59" y="2019.04" width="289.58" height="71.41" style="fill:#606060"/>
-	<rect x="1479.46" y="2021.92" width="283.82" height="65.65" style="fill:none;stroke:#606060;stroke-width:5.76"/>
-	<rect x="1960.08" y="2019.04" width="289.57" height="71.41" style="fill:#606060"/>
-	<rect x="1962.96" y="2021.92" width="283.82" height="65.65" style="fill:none;stroke:#606060;stroke-width:5.76"/>
-	<rect x="2443.69" y="1661.89" width="289.58" height="428.56" style="fill:#606060"/>
-	<rect x="2446.57" y="1664.77" width="283.82" height="422.80" style="fill:none;stroke:#606060;stroke-width:5.76"/>
-	<rect x="2927.31" y="1876.23" width="289.45" height="214.22" style="fill:#606060"/>
-	<rect x="2930.19" y="1879.11" width="283.69" height="208.46" style="fill:none;stroke:#606060;stroke-width:5.76"/>
-	<rect x="3410.80" y="1447.55" width="289.57" height="642.90" style="fill:#606060"/>
-	<rect x="3413.68" y="1450.43" width="283.82" height="637.14" style="fill:none;stroke:#606060;stroke-width:5.76"/>
-	<line x1="350.71" y1="2090.45" x2="350.71" y2="275.35" style="stroke:#000000;stroke-width:5.76"/>
-	<line x1="350.71" y1="2090.45" x2="310.74" y2="2090.45" style="stroke:#000000;stroke-width:5.76"/>
-	<text x="266.64" y="2090.45" style="font-family:'Helvetica';font-size:79.94px;fill:#000000" transform="rotate(-90 266.64,2090.45)" text-anchor="middle">0</text>
-	<line x1="350.71" y1="1761.88" x2="310.74" y2="1761.88" style="stroke:#000000;stroke-width:5.76"/>
-	<text x="266.64" y="1761.88" style="font-family:'Helvetica';font-size:79.94px;fill:#000000" transform="rotate(-90 266.64,1761.88)" text-anchor="middle">10</text>
-	<line x1="350.71" y1="1433.32" x2="310.74" y2="1433.32" style="stroke:#000000;stroke-width:5.76"/>
-	<text x="266.64" y="1433.32" style="font-family:'Helvetica';font-size:79.94px;fill:#000000" transform="rotate(-90 266.64,1433.32)" text-anchor="middle">20</text>
-	<line x1="350.71" y1="1104.75" x2="310.74" y2="1104.75" style="stroke:#000000;stroke-width:5.76"/>
-	<text x="266.64" y="1104.75" style="font-family:'Helvetica';font-size:79.94px;fill:#000000" transform="rotate(-90 266.64,1104.75)" text-anchor="middle">30</text>
-	<line x1="350.71" y1="776.18" x2="310.74" y2="776.18" style="stroke:#000000;stroke-width:5.76"/>
-	<text x="266.64" y="776.18" style="font-family:'Helvetica';font-size:79.94px;fill:#000000" transform="rotate(-90 266.64,776.18)" text-anchor="middle">40</text>
-	<line x1="350.71" y1="447.62" x2="310.74" y2="447.62" style="stroke:#000000;stroke-width:5.76"/>
-	<text x="266.64" y="447.62" style="font-family:'Helvetica';font-size:79.94px;fill:#000000" transform="rotate(-90 266.64,447.62)" text-anchor="middle">50</text>
-	<text x="176.68" y="1182.96" style="font-family:'Helvetica';font-size:79.94px;fill:#000000" transform="rotate(-90 176.68,1182.96)" text-anchor="middle">Percentage</text>
-	<line x1="350.71" y1="2090.45" x2="3859.02" y2="2090.45" style="stroke:#000000;stroke-width:5.76"/>
-	<text x="682.28" y="2130.42" style="font-family:'Helvetica';font-size:79.94px;fill:#000000" transform="rotate(-90 682.28,2130.42)" text-anchor="end">Journal article</text>
-	<text x="1165.77" y="2130.42" style="font-family:'Helvetica';font-size:79.94px;fill:#000000" transform="rotate(-90 1165.77,2130.42)" text-anchor="end">Book chapter</text>
-	<text x="1649.38" y="2130.42" style="font-family:'Helvetica';font-size:79.94px;fill:#000000" transform="rotate(-90 1649.38,2130.42)" text-anchor="end">Book</text>
-	<text x="2132.87" y="2130.42" style="font-family:'Helvetica';font-size:79.94px;fill:#000000" transform="rotate(-90 2132.87,2130.42)" text-anchor="end">WP only</text>
-	<text x="2616.49" y="2130.42" style="font-family:'Helvetica';font-size:79.94px;fill:#000000" transform="rotate(-90 2616.49,2130.42)" text-anchor="end">Dissertation</text>
-	<text x="3099.98" y="2130.42" style="font-family:'Helvetica';font-size:79.94px;fill:#000000" transform="rotate(-90 3099.98,2130.42)" text-anchor="end">Policy brief</text>
-	<text x="3583.60" y="2130.42" style="font-family:'Helvetica';font-size:79.94px;fill:#000000" transform="rotate(-90 3583.60,2130.42)" text-anchor="end">Blog post</text>
-	<text x="368.03" y="2743.87" style="fill:#000000">
-		<tspan style="font-family:'Helvetica';font-style:italic;font-size:60.02px">Source:</tspan>
-		<tspan style="font-family:'Helvetica';font-size:60.02px"> A. Natal. Updated in October 2025.</tspan>
+	<rect x="0" y="0" width="4320" height="2880" style="fill:#FFFFFF;stroke:none"/>
+	<rect x="0.00" y="0.00" width="4320.00" height="2880.00" style="fill:#FFFFFF"/>
+	<rect x="2.88" y="2.88" width="4314.24" height="2874.24" style="fill:none;stroke:#FFFFFF;stroke-width:5.76"/>
+	<rect x="387.45" y="235.31" width="3831.70" height="1855.20" style="fill:#E0E0E0"/>
+	<rect x="390.33" y="238.19" width="3825.95" height="1849.44" style="fill:none;stroke:#FFFFFF;stroke-width:5.76"/>
+	<line x1="387.45" y1="2090.51" x2="4219.15" y2="2090.51" style="stroke:#FFFFFF;stroke-width:5.76"/>
+	<line x1="387.45" y1="1754.22" x2="4219.15" y2="1754.22" style="stroke:#FFFFFF;stroke-width:5.76"/>
+	<line x1="387.45" y1="1417.93" x2="4219.15" y2="1417.93" style="stroke:#FFFFFF;stroke-width:5.76"/>
+	<line x1="387.45" y1="1081.77" x2="4219.15" y2="1081.77" style="stroke:#FFFFFF;stroke-width:5.76"/>
+	<line x1="387.45" y1="745.48" x2="4219.15" y2="745.48" style="stroke:#FFFFFF;stroke-width:5.76"/>
+	<line x1="387.45" y1="409.19" x2="4219.15" y2="409.19" style="stroke:#FFFFFF;stroke-width:5.76"/>
+	<rect x="551.75" y="336.16" width="317.92" height="1754.35" style="fill:#808080"/>
+	<rect x="554.62" y="339.04" width="312.17" height="1748.59" style="fill:none;stroke:#000000;stroke-width:5.76"/>
+	<rect x="1082.57" y="1944.30" width="317.92" height="146.21" style="fill:#808080"/>
+	<rect x="1085.44" y="1947.18" width="312.17" height="140.45" style="fill:none;stroke:#000000;stroke-width:5.76"/>
+	<rect x="1613.52" y="2017.34" width="317.79" height="73.17" style="fill:#808080"/>
+	<rect x="1616.40" y="2020.22" width="312.03" height="67.41" style="fill:none;stroke:#000000;stroke-width:5.76"/>
+	<rect x="2144.34" y="2017.34" width="317.92" height="73.17" style="fill:#808080"/>
+	<rect x="2147.22" y="2020.22" width="312.17" height="67.41" style="fill:none;stroke:#000000;stroke-width:5.76"/>
+	<rect x="2675.16" y="1651.89" width="317.93" height="438.62" style="fill:#808080"/>
+	<rect x="2678.04" y="1654.77" width="312.17" height="432.86" style="fill:none;stroke:#000000;stroke-width:5.76"/>
+	<rect x="3205.98" y="1871.13" width="317.93" height="219.38" style="fill:#808080"/>
+	<rect x="3208.86" y="1874.01" width="312.17" height="213.62" style="fill:none;stroke:#000000;stroke-width:5.76"/>
+	<rect x="3736.93" y="1432.64" width="317.79" height="657.87" style="fill:#808080"/>
+	<rect x="3739.81" y="1435.52" width="312.03" height="652.11" style="fill:none;stroke:#000000;stroke-width:5.76"/>
+	<line x1="387.45" y1="2090.51" x2="347.36" y2="2090.51" style="stroke:#606060;stroke-width:5.76"/>
+	<text x="327.38" y="2118.51" style="font-family:'Helvetica';font-size:79.92px;fill:#606060" text-anchor="end">0</text>
+	<line x1="387.45" y1="1754.22" x2="347.36" y2="1754.22" style="stroke:#606060;stroke-width:5.76"/>
+	<text x="327.38" y="1782.22" style="font-family:'Helvetica';font-size:79.92px;fill:#606060" text-anchor="end">10</text>
+	<line x1="387.45" y1="1417.93" x2="347.36" y2="1417.93" style="stroke:#606060;stroke-width:5.76"/>
+	<text x="327.38" y="1445.93" style="font-family:'Helvetica';font-size:79.92px;fill:#606060" text-anchor="end">20</text>
+	<line x1="387.45" y1="1081.77" x2="347.36" y2="1081.77" style="stroke:#606060;stroke-width:5.76"/>
+	<text x="327.38" y="1109.78" style="font-family:'Helvetica';font-size:79.92px;fill:#606060" text-anchor="end">30</text>
+	<line x1="387.45" y1="745.48" x2="347.36" y2="745.48" style="stroke:#606060;stroke-width:5.76"/>
+	<text x="327.38" y="773.49" style="font-family:'Helvetica';font-size:79.92px;fill:#606060" text-anchor="end">40</text>
+	<line x1="387.45" y1="409.19" x2="347.36" y2="409.19" style="stroke:#606060;stroke-width:5.76"/>
+	<text x="327.38" y="437.20" style="font-family:'Helvetica';font-size:79.92px;fill:#606060" text-anchor="end">50</text>
+	<line x1="387.45" y1="2090.51" x2="387.45" y2="409.19" style="stroke:#000000;stroke-width:5.76"/>
+	<text x="176.70" y="1162.91" style="font-family:'Helvetica';font-size:79.92px;fill:#000000" transform="rotate(-90 176.70,1162.91)" text-anchor="middle">Percentage</text>
+	<text x="738.78" y="2130.47" style="font-family:'Helvetica';font-size:79.92px;fill:#606060" transform="rotate(-90 738.78,2130.47)" text-anchor="end">Journal article</text>
+	<text x="1269.60" y="2130.47" style="font-family:'Helvetica';font-size:79.92px;fill:#606060" transform="rotate(-90 1269.60,2130.47)" text-anchor="end">Book chapter</text>
+	<text x="1800.42" y="2130.47" style="font-family:'Helvetica';font-size:79.92px;fill:#606060" transform="rotate(-90 1800.42,2130.47)" text-anchor="end">Book</text>
+	<text x="2331.24" y="2130.47" style="font-family:'Helvetica';font-size:79.92px;fill:#606060" transform="rotate(-90 2331.24,2130.47)" text-anchor="end">WP only</text>
+	<text x="2862.06" y="2130.47" style="font-family:'Helvetica';font-size:79.92px;fill:#606060" transform="rotate(-90 2862.06,2130.47)" text-anchor="end">Dissertation</text>
+	<text x="3393.02" y="2130.47" style="font-family:'Helvetica';font-size:79.92px;fill:#606060" transform="rotate(-90 3393.02,2130.47)" text-anchor="end">Policy brief</text>
+	<text x="3923.84" y="2130.47" style="font-family:'Helvetica';font-size:79.92px;fill:#606060" transform="rotate(-90 3923.84,2130.47)" text-anchor="end">Blog post</text>
+	<text x="404.73" y="2743.82" style="fill:#000000">
+		<tspan style="font-family:'Helvetica';font-style:italic;font-size:59.94px">Source:</tspan>
+		<tspan style="font-family:'Helvetica';font-size:59.94px"> A. Natal. Updated in October 2025.</tspan>
 	</text>
-	<text x="2104.86" y="215.98" style="font-family:'Helvetica';font-size:139.96px;fill:#000000" text-anchor="middle">Type of outputs (N=46)</text>
+	<text x="2303.24" y="187.95" style="font-family:'Helvetica';font-size:100.04px;fill:#000000" text-anchor="middle">Type of outputs (N=46)</text>
 </svg>
