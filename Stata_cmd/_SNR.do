@@ -10,10 +10,9 @@ cd"C:\Users\Arnaud\Documents\GitHub\State_of_NEEMSIS_Research"
 *----- Routines
 *ssc install fre
 *ssc install catplot
-*ssc install git
-*
+ssc install schemepack, replace
 *----- Schemes
-set scheme plottig, permanently
+set scheme black_hue
 *-------------------------
 
 set graph off
