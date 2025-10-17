@@ -32,7 +32,7 @@ These data collections are carried out within the framework of the <a href="http
 </table>
 
 <details>
-<summary> <h4> Table of contents </h4> </summary>
+<summary> <h3> Table of contents </h3> </summary>
 
 - :+1: [Introduction](#introduction)
 - :e-mail: [Data request access](#data)
