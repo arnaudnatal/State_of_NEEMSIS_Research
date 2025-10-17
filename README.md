@@ -16,8 +16,6 @@ Arnaud Natal
 </div>
 
 
-# Foreword
-
 <table>
 <tr>
 <td>
