@@ -203,17 +203,17 @@ Data are freely available on [DataSuds](https://dataverse.ird.fr/dataverse/odrii
 
 <h1 id="upcomingpapers">:orange_book: Upcoming papers</h1>
 
-## Submitted
-
 ![Submitted](https://raw.githubusercontent.com/arnaudnatal/State_of_NEEMSIS_Research/refs/heads/main/Stata_cmd/Stata_fig/SU_global.svg)
 
-
-## Ongoing
+---
 
 ![Ongoing](https://raw.githubusercontent.com/arnaudnatal/State_of_NEEMSIS_Research/refs/heads/main/Stata_cmd/Stata_fig/OG_global.svg)
 
+---
+---
 
-## :memo: Projects
+<h1 id="projects">:memo: Projects</h1>
+
 
 - The curse of having a job. Threats on female employment in a context of rising patriarcal norms
    > Using NEEMSIS-2, Di Santolo, Guérin, and Mouchel (corresponding author).
@@ -252,7 +252,7 @@ Topics such as **Agriculture**, **Migration**, and **Education** have been under
 </tr>
 </table>
 
-<h1 id="bibliography">Bibliography</h1>
+<h1 id="bibliography">:round_pushpin: Bibliography</h1>
 
 > The bibliography in `.bib` format is available [here](https://raw.githubusercontent.com/arnaudnatal/State_of_NEEMSIS_Research/refs/heads/main/Data/NEEMSIS.bib).
 
