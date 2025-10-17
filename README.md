@@ -52,6 +52,7 @@ These data collections are carried out within the framework of the <a href="http
 </details>
 
 ---
+---
 
 <h1 id="introduction">Introduction</h1>
 
@@ -123,6 +124,8 @@ Research papers are sometimes classified according to their type (journal, book,
 </tr>
 </table>
 
+---
+---
 
 <h1 id="data">:e-mail: Data request access</h1>
 
@@ -138,12 +141,15 @@ Data are freely available on [DataSuds](https://dataverse.ird.fr/dataverse/odrii
 
 \*\*Since January 2025, access to data requires that: (i) the applicant complete a data use agreement; (ii) the request be validated by the survey manager.
 
-
+---
+---
 
 <h1 id="alloutputs">:books: All outputs</h1>
 
 ![Type](https://raw.githubusercontent.com/arnaudnatal/State_of_NEEMSIS_Research/refs/heads/main/Stata_cmd/Stata_fig/A_type.svg)
 
+---
+---
 
 <h1 id="researchpapers">:green_book: Research papers</h1>
 
@@ -161,6 +167,8 @@ Data are freely available on [DataSuds](https://dataverse.ird.fr/dataverse/odrii
 
 ![Topics wave](https://raw.githubusercontent.com/arnaudnatal/State_of_NEEMSIS_Research/refs/heads/main/Stata_cmd/Stata_fig/RP_topicswave.svg)
 
+---
+---
 
 <h1 id="publishedpapers">:closed_book: Published papers</h1>
 
@@ -175,21 +183,23 @@ Data are freely available on [DataSuds](https://dataverse.ird.fr/dataverse/odrii
 
 ![Citations](https://raw.githubusercontent.com/arnaudnatal/State_of_NEEMSIS_Research/refs/heads/main/Stata_cmd/Stata_fig/PP_citations.svg)
 
-<h1 id="indetails">:blue_book: In details</h1>
+---
+---
 
-## Journals
+<h1 id="indetails">:blue_book: In details</h1>
 
 ![Journals](https://raw.githubusercontent.com/arnaudnatal/State_of_NEEMSIS_Research/refs/heads/main/Stata_cmd/Stata_fig/J_global.svg)
 
-## Dissertations
+---
 
 ![Dissertations](https://raw.githubusercontent.com/arnaudnatal/State_of_NEEMSIS_Research/refs/heads/main/Stata_cmd/Stata_fig/D_global.svg)
 
-
-## Blog pots
+---
 
 ![Blogposts](https://raw.githubusercontent.com/arnaudnatal/State_of_NEEMSIS_Research/refs/heads/main/Stata_cmd/Stata_fig/BP_global.svg)
 
+---
+---
 
 <h1 id="upcomingpapers">:orange_book: Upcoming papers</h1>
 
