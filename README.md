@@ -32,7 +32,7 @@ These data collections are carried out within the framework of the <a href="http
 </table>
 
 <details>
-<summary> <h3> :arrow_down: Table of contents </h3> </summary>
+<summary> <h3> Table of contents </h3> </summary>
 
 - :+1: [Introduction](#introduction) (study area, core teams, resources, framework, overview)
 - :e-mail: [Data request access](#data) 
