@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>
-:pushpin: State of <a href="https://neemsis.hypotheses.org/"><img src="https://raw.githubusercontent.com/arnaudnatal/State_of_NEEMSIS_Research/refs/heads/main/Data/img/neemsis.png" alt="NEEMSIS" height="70"></a> Research
+:pushpin: State of <a href="https://neemsis.hypotheses.org/"><img src="https://raw.githubusercontent.com/arnaudnatal/State_of_NEEMSIS_Research/refs/heads/main/Data/img/neemsis.png" alt="NEEMSIS" height="30"></a> Research
 </h1>
 
 **Arnaud Natal** :raising_hand:
