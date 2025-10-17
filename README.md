@@ -4,13 +4,13 @@
 :pushpin: State of <a href="https://neemsis.hypotheses.org/"><img src="https://raw.githubusercontent.com/arnaudnatal/State_of_NEEMSIS_Research/refs/heads/main/Data/img/neemsis.png" alt="NEEMSIS" height="50"></a> Research
 </h1>
 
-**Arnaud Natal** :raising_hand:
+**Arnaud Natal**[^1] :raising_hand:
 
 Updated in October 2025
 
 </div>
 
-> Contact: [arnaud.natal@ifpindia.org](mailto:arnaud.natal@ifpindia.org)
+> [^1]: [arnaud.natal@ifpindia.org](mailto:arnaud.natal@ifpindia.org)
 
 <table>
 <tr>
@@ -33,7 +33,7 @@ These data collections are carried out within the framework of the <a href="http
 
 ---
 
-<h1 id="introduction">:+1: Introduction</h1>
+# Introduction {#introduction}
 
 ## :earth_asia: Study area
 
