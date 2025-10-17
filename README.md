@@ -16,7 +16,7 @@
 <tr>
 <td>
 
-<h3 id="foreword">:speech_balloon: Foreword</h3>
+<h4 id="foreword">:speech_balloon: Foreword</h4>
 
 This document provides an overview of the research undertaken using the original <a href="https://neemsis.hypotheses.org"><i>Network, Employment, dEbt, Mobility, and Skills in South India Survey</i></a> (NEEMSIS).
 
