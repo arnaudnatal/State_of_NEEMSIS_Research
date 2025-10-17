@@ -253,6 +253,8 @@ Data are freely available on [DataSuds](https://dataverse.ird.fr/dataverse/odrii
 
 # Bibliography
 
+> The bibliography in `.bib` format is available [here](https://raw.githubusercontent.com/arnaudnatal/State_of_NEEMSIS_Research/refs/heads/main/Data/NEEMSIS.bib).
+
 ## Published papers
 
 - Mouchel, C. (2026a). L'encadrement du pouvoir des intermédiaires d’emploi pour les travailleurs journaliers de basses castes. *Esclavages et Post-Esclavages*.
