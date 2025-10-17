@@ -12,26 +12,6 @@
 
 > [^1]: I am [Arnaud Natal](https://arnaudnatal.github.io/) an independent research in economics affiliated with the Economics department of the University of Bordeaux in France and the French Institute of Pondicherry in India. I obtained my PhD in economics from the University of Bordeaux in December 2023. I take part in the activities of the ODRIIS, in particular by actively participating in all stages of the collection of longitudinal NEEMSIS household data. Feel free to contact me at: [arnaud.natal@ifpindia.org](mailto:arnaud.natal@ifpindia.org).
 
-
-
-<details>
-<summary> <h4> Table of contents </h4> </summary>
-
-- :+1: [Introduction](#introduction)
-- :e-mail: [Data request access](#data)
-- :books: [All outputs](#alloutputs)
-- :green_book: [Research papers](#researchpapers)
-- :closed_book: [Published papers](#publishedpapers)
-- :blue_book: [In details](#indetails)
-- :orange_book: [Upcoming papers](#upcomingpapers)
-- :memo: [Projects](#projects)
-- :wave: [Conclusion](#conclusion)  
-- :round_pushpin: [Bibliography](#bibliography)
-- :page_facing_up: [Appendix](#appendix)
-
-</details>
-
-
 <table>
 <tr>
 <td>
@@ -50,6 +30,25 @@ These data collections are carried out within the framework of the <a href="http
 </td>
 </tr>
 </table>
+
+<details>
+<summary> <h4> Table of contents </h4> </summary>
+
+- :+1: [Introduction](#introduction)
+- :e-mail: [Data request access](#data)
+- :books: [All outputs](#alloutputs)
+- :green_book: [Research papers](#researchpapers)
+- :closed_book: [Published papers](#publishedpapers)
+- :blue_book: [In details](#indetails)
+- :orange_book: [Upcoming papers](#upcomingpapers)
+- :memo: [Projects](#projects)
+- :wave: [Conclusion](#conclusion)  
+- :round_pushpin: [Bibliography](#bibliography)
+- :page_facing_up: [Appendix](#appendix)
+
+</details>
+
+---
 
 <h1 id="introduction">:+1: Introduction</h1>
 
