@@ -69,7 +69,7 @@ These data collections are carried out within the framework of the <a href="http
 
 The NEEMSIS originally takes place in 10 villages in Tamil Nadu, India, located in the Cuddalore and Kallakurichi (ex Viluppuram) districts: Manappakam, Semakottai, Manamthavizhthaputhur, Natham, Korattore, Karumbur, Oraiyur, Govulapuram, Elamthampattu, and Kuvagam.
 
-<img src="https://github.com/arnaudnatal/State_of_NEEMSIS_Research/blob/main/Data/img/RUME-NEEMSIS.png"  width="600">
+<img src="https://github.com/arnaudnatal/State_of_NEEMSIS_Research/blob/main/Data/img/RUME-NEEMSIS.png" alt="Survey area" width="600">
 
 ## Core teams
 
@@ -90,7 +90,7 @@ The NEEMSIS originally takes place in 10 villages in Tamil Nadu, India, located 
 
 For further details on the NEEMSIS longitudinal survey, see the dedicated website:
 <p><a href="https://neemsis.hypotheses.org/">
-<img src="https://github.com/arnaudnatal/State_of_NEEMSIS_Research/blob/main/Data/img/website.png" alt="https://neemsis.hypotheses.org/">
+<img src="https://github.com/arnaudnatal/State_of_NEEMSIS_Research/blob/main/Data/img/website.png" alt="https://neemsis.hypotheses.org/" width="600">
 </a></p>
 
 See also:
