@@ -8,9 +8,9 @@ cls
 *-----
 cd"C:\Users\Arnaud\Documents\GitHub\State_of_NEEMSIS_Research"
 *----- Routines
-*ssc install fre
-*ssc install catplot
-ssc install schemepack, replace
+*ssc install fre, replace
+*ssc install catplot, replace
+*ssc install schemepack, replace
 *----- Schemes
 set scheme black_hue
 *-------------------------
