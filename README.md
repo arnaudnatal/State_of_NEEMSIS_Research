@@ -6,7 +6,7 @@
 :pushpin: State of <a href="https://neemsis.hypotheses.org/"><img src="https://raw.githubusercontent.com/arnaudnatal/State_of_NEEMSIS_Research/refs/heads/main/Data/img/neemsis.png" alt="NEEMSIS" height="50"></a> Research
 </h1>
 
-:raising_and: **Arnaud Natal**[^1] 
+:raising_hand: **Arnaud Natal**[^1] 
 
 :date: Updated in October 2025
 
