@@ -124,7 +124,7 @@ Research papers are sometimes classified according to their type (journal, book,
 <td>
   
 - Few researchers have requested access to the data.
-- 46 outputs were produced, including 16 journal articles, 1 book and 6 dissertations.
+- 46 outputs were produced, including 17 journal articles, 1 book and 6 dissertations.
 - Among the research papers, 50% are cross-sectional and 50% are longitudinal.
 - Debt is the most common topic (60% of the papers), then employment (30%), and gender (25%).
 - Nordman is the most prolific (64% of research papers), then Guérin (50%), and Natal and Venkat (42%).
@@ -255,7 +255,7 @@ Data are freely available on [DataSuds](https://dataverse.ird.fr/dataverse/odrii
 <td>
   
 - Few researchers have requested access to the data.
-- 46 ouputs were produced, including 16 journal articles, 1 book and 6 dissertations.
+- 46 ouputs were produced, including 17 journal articles, 1 book and 6 dissertations.
 - Debt is the most common topic (60\% of the papers), then employment (30%), and gender (25%).
 - All published papers using RUME and NEEMSIS data account for 430 citations.
 - 5 papers are currently submitted, 4 are ongoing and 7 are in project.
